@@ -43,7 +43,7 @@ Procedures voor besluitvorming over moderniseirngsvoorstellen
 
 # CD&E algemeen {#cd&e-algemeen}
 <!-- ![](_bookdown_files/images/keynote-slides/20200430-CDE-Designprocess/20200430-CDE-Designprocess.003.png) -->
-```{r, index, fig.cap='Index', echo=FALSE}
+```{r,  fig.cap=' ', echo=FALSE}
 # img_dir <-
 img1_path <- "data/keynote-slides/20200430-CDE-Designprocess/20200430-CDE-Designprocess.003.png"
 img1 <- readPNG(img1_path, native = TRUE, info = TRUE)
@@ -171,7 +171,7 @@ De aanpak is een olievlekwerking. Met trajecten en programma’s voorbeelden cre
 
 ## transitie 2020
 <!-- ![](_bookdown_files/images/keynote-slides/20200430-CDE-Designprocess/20200430-CDE-Designprocess.009-3.jpeg) -->
-```{r, fig.cap='Van mulit projecten via 3-horizon model naar 'routekaarten' ', echo=FALSE}
+```{r, fig.cap='Van multi projecten via 3-horizon model naar routekaarten.', echo=FALSE}
 # img_dir <-
 img1_path <- "data/keynote-slides/20200430-CDE-Designprocess/20200430-CDE-Designprocess.009-3.png"
 img1 <- readPNG(img1_path, native = TRUE, info = TRUE)

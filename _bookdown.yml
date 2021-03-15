@@ -3,5 +3,5 @@ delete_merged_file: true
 language:
   ui:
     chapter_name: "Chapter "
-repo: https://github.com/cpcorvers/Military-Design_Innovation
+repo: https://github.com/cpcorvers/Military-Design-Innovation
 output_dir: docs
