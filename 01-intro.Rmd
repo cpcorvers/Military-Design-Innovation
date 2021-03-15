@@ -1,6 +1,13 @@
 # Introduction {#intro}
 
-![CD&E logo and animation](_bookdown_files/images/keynote-slides/20200430-CDE-Designprocess/20200430-CDE-Designprocess.001.png")
+<!-- ![CD&E logo and animation](data/keynote-slides/20200430-CDE-Designprocess/20200430-CDE-Designprocess.001.png") -->
+```{r, fig.cap=' ', echo=FALSE}
+# img_dir <-
+img1_path <- "data/keynote-slides/20200430-CDE-Designprocess/20200430-CDE-Designprocess.001.png"
+img1 <- readPNG(img1_path, native = TRUE, info = TRUE)
+knitr::include_graphics(img1_path)
+rm(img1_path, img1)
+```
 
 Sinds januari 2019 heeft het Commando Landstrijdkrachten (CLAS) een vierde directie in de staf opgenomen, de directie Kennis & Ontwikkeling (DK&O). Onder deze directie worden drie afdelingen functioneel georganiseerd, dit zijn de afdeling Strategie & Plannen (S&P), afdeling Regie (LWC/Regie) en de afdeling Innovatie. Deze laatste is een samenvoeging van de programma's De Adaptieve Krijgsmacht - CLAS (DAK-C) en Concept Development & Experimentation (CD&E).
 
@@ -11,7 +18,7 @@ Ik mag sinds oktober 2017 mijn bijdrage leveren aan CD&E. Startend als algemeen 
 #### leeswijzer {-}
 ```{r, index, fig.cap='Index', echo=FALSE}
 # img_dir <-
-img1_path <- "_bookdown_files/images/keynote-slides/20200430-CDE-Designprocess/20200430-CDE-Designprocess.002.png"
+img1_path <- "data/keynote-slides/20200430-CDE-Designprocess/20200430-CDE-Designprocess.002.png"
 img1 <- readPNG(img1_path, native = TRUE, info = TRUE)
 knitr::include_graphics(img1_path)
 ```
@@ -35,7 +42,14 @@ Technieken en tools voor articuleren, organiseren, uitvoeren en rapporteren
 Procedures voor besluitvorming over moderniseirngsvoorstellen
 
 # CD&E algemeen {#cd&e-algemeen}
-![](_bookdown_files/images/keynote-slides/20200430-CDE-Designprocess/20200430-CDE-Designprocess.003.png)
+<!-- ![](_bookdown_files/images/keynote-slides/20200430-CDE-Designprocess/20200430-CDE-Designprocess.003.png) -->
+```{r, index, fig.cap='Index', echo=FALSE}
+# img_dir <-
+img1_path <- "data/keynote-slides/20200430-CDE-Designprocess/20200430-CDE-Designprocess.003.png"
+img1 <- readPNG(img1_path, native = TRUE, info = TRUE)
+knitr::include_graphics(img1_path)
+rm(img1_path, img1)
+```
 
 ## aanleiding
 De reden om als Landmacht te innoveren met externe partners ligt in de realiteit dat een leger altijd beter moet zijn dan de tegenstander maar legers niet langer de innovatie aanjagen. De markt en economische marktwerking heeft dit overgenomen.
@@ -47,7 +61,16 @@ De missie van CD&E is het enige wat sinds 2017 stand houdt alle andere zaken zij
 > CD&E ontsluit het innovatieve vermogen van het bedrijfsleven en kennisinstituten voor het moderniseringsproces van de Land- en/of Krijgsmacht zodat onze eenheden tijdens inzet relevant en waar nodig dominant blijven.
 
 ## beleid
-![](_bookdown_files/images/keynote-slides/20200430-CDE-Designprocess/20200430-CDE-Designprocess.005.png)
+<!-- ![](_bookdown_files/images/keynote-slides/20200430-CDE-Designprocess/20200430-CDE-Designprocess.005.png) -->
+```{r, fig.cap=' ', echo=FALSE}
+# img_dir <-
+img1_path <- "data/keynote-slides/20200430-CDE-Designprocess/20200430-CDE-Designprocess.005.png"
+img1 <- readPNG(img1_path, native = TRUE, info = TRUE)
+knitr::include_graphics(img1_path)
+rm(img1_path, img1)
+```
+
+
 Er zijn een aantal beleidsdocumenten die het moderniseren en innoveren van de Land- en Krijgsmacht sturen. Drie documenten zkomen met enige regelmaat terug. De Defensievisie 2035, Vechten voor een veilige toekomst beschrijft de inrichtingsprincipes voor de eerstkomende jaren. De Strategische kennis- en innovatieagenda geeft meer thematisch aan in welke onderwerpen Defensie de focus legt. De Visie Commando Landstrijdkrachten, Veigliheid is vooruitzien, beschrijft het toekomstbeeld van de Kominklijke Landmacht. Deze is intern verder vertaald in het Operationeel kader landoptreden (OKL).
 
 Als definitie voor innovatie volgt CD&E de Adviesraad voor Wetenschap, Technologie en Innovatie.
@@ -76,8 +99,23 @@ Ministeriële verantwoording aan parlement over verantwoorde uitgave belastingge
 Door processen en regelgeving is de organisatie non-discriminatief conform Weber’s model
 
 ## moderniseringsmodellen
-![](_bookdown_files/images/BO-2016-CLAS-moderniseringsmodel.png)
-![](_bookdown_files/images/BO-2016-Defensie-KI-huis.png)
+<!-- ![](_bookdown_files/images/BO-2016-CLAS-moderniseringsmodel.png) -->
+<!-- ![](_bookdown_files/images/BO-2016-Defensie-KI-huis.png) -->
+```{r, fig.cap='CLAS moderniseringsproces lang-cyclisch ', echo=FALSE}
+# img_dir <-
+img1_path <- "data/images/BO-2016-CLAS-moderniseringsmodel.png"
+img1 <- readPNG(img1_path, native = TRUE, info = TRUE)
+knitr::include_graphics(img1_path)
+rm(img1_path, img1)
+```
+```{r, fig.cap='K&I-huis Defensie ', echo=FALSE}
+# img_dir <-
+img1_path <- "data/images/BO-2016-Defensie-KI-huis.png"
+img1 <- readPNG(img1_path, native = TRUE, info = TRUE)
+knitr::include_graphics(img1_path)
+rm(img1_path, img1)
+```
+
 
 Voor de lang-cyclische modernisering kent de Landmacht het CLAS moderniseringsmodel waar vanuit een future scan (landoptreden van de toekomst LvT) wordt toegewerkt naar een force design (Landmacht van overmorgen LvOM), force building (Landmacht van morgen LvM) en force employment (Landmacht van vandaag LvL).
 
@@ -86,7 +124,14 @@ Defensie breed is de lang-cyclische modernisering en innovatie ingericht als een
 Met CD&E werkt de Landmacht sinds 2015 aan het versnellen, verbinden en vermarkten van opkomende technologieën door het organiseren en structureren van kort-cyclische innovatie.
 
 ### CD&E binnen CLAS-modernisering
-![](_bookdown_files/images/keynote-slides/20200430-CDE-Designprocess/20200430-CDE-Designprocess.008.png)[fig:simpel-proces]
+<!-- ![](_bookdown_files/images/keynote-slides/20200430-CDE-Designprocess/20200430-CDE-Designprocess.008.png)[fig:simpel-proces] -->
+```{r, fig.cap='Eenvoudig CLAS moderniseringsproces met positionering CD&E', echo=FALSE}
+# img_dir <-
+img1_path <- "data/keynote-slides/20200430-CDE-Designprocess/20200430-CDE-Designprocess.008.png"
+img1 <- readPNG(img1_path, native = TRUE, info = TRUE)
+knitr::include_graphics(img1_path)
+rm(img1_path, img1)
+```
 
 Figuur \@ref(fig:simpel-proces) en vereenvoudigde visualisatie van het ‘klassieke’ moderniseringsproces van de Landmacht. Dit proces kan worden onderverdeeld in vier aandachtsgebieden, de landmacht van vandaag (LvV), morgen (LvM), overmorgen (LvOM) en het landoptreden van de toekomst (LvT). Verschillende organisatie-onderdelen dragen bij aan deze aandachtsgebieden. Grofweg kan de verantwoordelijkheid (responsibility) worden toebedeeld aan respectievelijk de parate eenheid, afdeling strategie & plannen, kenniscentrum en afdeling trends & concepts.
 In dit proces vindt backcasting plaats doordat onderzoek, studies en verkenningen richting geven aan modernisering voor LvM en LvV en forecasting doordat evaluaties, lessons learned en experimenten richting geven aan beleid, budgettering en kennisplanning.
@@ -94,12 +139,26 @@ In dit proces vindt backcasting plaats doordat onderzoek, studies en verkenninge
 CD&E programma’s dragen hoofdzakelijk bij aan de landmacht van morgen en overmorgen.
 
 ## positionering in defensie organisatie
-![](_bookdown_files/images/keynote-slides/20200430-CDE-Designprocess/20200430-CDE-Designprocess.009-1.jpeg)
+<!-- ![](_bookdown_files/images/keynote-slides/20200430-CDE-Designprocess/20200430-CDE-Designprocess.009-1.jpeg) -->
+```{r, fig.cap='Positionering innovatiecentra binnen Defensie ', echo=FALSE}
+# img_dir <-
+img1_path <- "data/keynote-slides/20200430-CDE-Designprocess/20200430-CDE-Designprocess.009-1.png"
+img1 <- readPNG(img1_path, native = TRUE, info = TRUE)
+knitr::include_graphics(img1_path)
+rm(img1_path, img1)
+```
 
 CD&E is het innovatiecentrum van de Landmacht. Ook de andere defensieonderdelen kennen innovatiecentra, ieder opgebouwd in de kenmerken en cultuur van het defensieonderdeel.
 
 ## organisatie 2019: multi-project management
-![](_bookdown_files/images/keynote-slides/20200430-CDE-Designprocess/20200430-CDE-Designprocess.009-2.jpeg)
+<!-- ![](_bookdown_files/images/keynote-slides/20200430-CDE-Designprocess/20200430-CDE-Designprocess.009-2.jpeg) -->
+```{r, fig.cap='Organisatie structuur voor multi-project management ', echo=FALSE}
+# img_dir <-
+img1_path <- "data/keynote-slides/20200430-CDE-Designprocess/20200430-CDE-Designprocess.009-2.png"
+img1 <- readPNG(img1_path, native = TRUE, info = TRUE)
+knitr::include_graphics(img1_path)
+rm(img1_path, img1)
+```
 
 In 2019 groeide het team dusdanig dat enige verdeling en specialisatie onvermijdelijk werd. Teams werden ingericht naar activiteiten en he niveau wat hoofdzakelijk werd gesteund.
 Trajecten groepeerde de trajectbegeleiders en werkte voornamelijk met de kenniswerkers (kennis- en expertise centra) en stafmedewerkers (parate eenheid).
@@ -111,7 +170,14 @@ De vele individuele of specifieke teamleden werden onder Specialisten geschaard.
 De aanpak is een olievlekwerking. Met trajecten en programma’s voorbeelden creëren waardoor operationele en bedrijfsmatige knelpunten zichtbaar worden zodat deze geadresseerd kunnen worden bij de juiste entiteiten. Dit draagt bij aan het structureel kort-cyclisch moderniseren in het landoptreden.
 
 ## transitie 2020
-![](_bookdown_files/images/keynote-slides/20200430-CDE-Designprocess/20200430-CDE-Designprocess.009-3.jpeg)
+<!-- ![](_bookdown_files/images/keynote-slides/20200430-CDE-Designprocess/20200430-CDE-Designprocess.009-3.jpeg) -->
+```{r, fig.cap='Van mulit projecten via 3-horizon model naar 'routekaarten' ', echo=FALSE}
+# img_dir <-
+img1_path <- "data/keynote-slides/20200430-CDE-Designprocess/20200430-CDE-Designprocess.009-3.png"
+img1 <- readPNG(img1_path, native = TRUE, info = TRUE)
+knitr::include_graphics(img1_path)
+rm(img1_path, img1)
+```
 
 In 2020 deden we een herijking op het project portfolio zodat de focus blijft op de juiste initiatieven. Deze herijking was een staf integraal beschouwen van projecten op relevantie, urgentie, noodzaak en realiseerbaarheid binnen het landoptreden. De herijking maakte de vele initiatieven inzichtelijk en keuzen door Directeur Kennis & Ontwikkeling mogelijk. De multi-project aanpak creeerde daarmee een vorm van overzicht, inzicht en regie. (Foto brownpaper nog toevoegen)
 
@@ -120,7 +186,14 @@ Het werd tijd voor de volgende stap waarin meer richting wordt gegeven aan de in
 De programmatische aanpak was daarvoor gekozen. Programma-managers inventariseren moderniseringsinitiatieven bij de 9-14 kennisadviseurs m.b.v. Boill Sharp’s 3-horizon model en visualiseren met hiërarchie-boom-structuur.
 
 ## organisatie 2020: portfolio management
-![](_bookdown_files/images/keynote-slides/20200430-CDE-Designprocess/20200430-CDE-Designprocess.009-4.jpeg)
+<!-- ![](_bookdown_files/images/keynote-slides/20200430-CDE-Designprocess/20200430-CDE-Designprocess.009-4.jpeg) -->
+```{r, fig.cap='Organisatie structuur naar programmatische aanpak ', echo=FALSE}
+# img_dir <-
+img1_path <- "data/keynote-slides/20200430-CDE-Designprocess/20200430-CDE-Designprocess.009-4.png"
+img1 <- readPNG(img1_path, native = TRUE, info = TRUE)
+knitr::include_graphics(img1_path)
+rm(img1_path, img1)
+```
 
 In 2020 groeide CD&E uit tot een volwaardige innovatie partner, werden CD&E en DAK-C samengevoegd in een Afdeling Innovatie onder de Directie Kennis & Ontwikkeling, consolideerde het budget, werden de moderniseringsvraagstukken groter en complexer en werd zichtbaar en merkbaar voortgang geboekt met strategische inbedding.
 
@@ -129,29 +202,66 @@ Het was tijd om opnieuw de structuur en benadering aan te passen. Programma-mana
 Alle programma’s komen onder uitvoering terwijl de (door)ontwikkeling en strategische inbedding worden samengebracht bij Strategic Business & Innovation Development (SBID). Er komst dus een scheiding tussen toekomst, uitvoering en ondersteuning.
 
 ## CD&E middelen
-![](_bookdown_files/images/keynote-slides/20200430-CDE-Designprocess/20200430-CDE-Designprocess.009-5.jpeg)
+<!-- ![](_bookdown_files/images/keynote-slides/20200430-CDE-Designprocess/20200430-CDE-Designprocess.009-5.jpeg) -->
+```{r, fig.cap='Middelen voor faciliteren en ondersteunen van innovatie door CD&E ', echo=FALSE}
+# img_dir <-
+img1_path <- "data/keynote-slides/20200430-CDE-Designprocess/20200430-CDE-Designprocess.009-5.png"
+img1 <- readPNG(img1_path, native = TRUE, info = TRUE)
+knitr::include_graphics(img1_path)
+rm(img1_path, img1)
+```
 
 De uitvoering van kort cyclische moderniseringsprojecten vindt plaats op locatie en in eigenaarschap van een kenniscentrum of parate eenheid, CD&E steunt en faciliteert. Hiervoor heeft CD&E een aantal middelen en diensten tot haar beschikking. Dit zijn de middelen en diensten die niet vanzelfsprekend toegankelijk zijn voor de betrokken partijen of vanwege schaarste of efficiëntie beter tot hun recht komen door centrale positionering.
 
 ### experimenteer omgeving & innovatie hub
-![](_bookdown_files/images/keynote-slides/20200430-CDE-Designprocess/20200430-CDE-Designprocess.009-6.jpeg)
+<!-- ![](_bookdown_files/images/keynote-slides/20200430-CDE-Designprocess/20200430-CDE-Designprocess.009-6.jpeg) -->
+```{r, fig.cap='Fieldlabs van Smart industry in Nederland ', echo=FALSE}
+# img_dir <-
+img1_path <- "data/keynote-slides/20200430-CDE-Designprocess/20200430-CDE-Designprocess.009-6.png"
+img1 <- readPNG(img1_path, native = TRUE, info = TRUE)
+knitr::include_graphics(img1_path)
+rm(img1_path, img1)
+```
 
 De eerste grootschalige uitvraag aan de markt heeft in 2016 plaats gevonden. Gericht op de base van de toekomst zijn de uitdagingen geschetst op de thema’s energie, bescherming, water en logistiek. Op Kamp Soesterberg is de basis van een militair kampement opgebouwd met de formele fieldlab status van Smart Industry. Dit Fieldlab Smartbase heeft de Landmacht veel ervaring en kennis opgeleverd over het proces en inhoud.
 Sinds september 2019 is dit fieldlab verhuist naar Complex Ede-Driesprong waar externe partners kunnen experimenteren binnen de militaire context.
 
 # Kort-cyclisch-moderniseren
-![](_bookdown_files/images/keynote-slides/20200430-CDE-Designprocess/20200430-CDE-Designprocess.009.png)
+<!-- ![](_bookdown_files/images/keynote-slides/20200430-CDE-Designprocess/20200430-CDE-Designprocess.009.png) -->
+```{r, fig.cap='De unieke combinatie van mens, manier en middel maakt een effectbrenger.', echo=FALSE}
+# img_dir <-
+img1_path <- "data/keynote-slides/20200430-CDE-Designprocess/20200430-CDE-Designprocess.009.png"
+img1 <- readPNG(img1_path, native = TRUE, info = TRUE)
+knitr::include_graphics(img1_path)
+rm(img1_path, img1)
+```
 
 De landmacht is een overheids organisatie die -waar nodig- een zwaardmacht moet zijn waar vrede en veiligheid geen vanzelfsprekendheid is. Vanuit de grondwettelijke taken is afgeleid hoe de Landmacht optreedt, welke materieel en personele middelen daarvoor nodig zijn en hoe dit wordt georganiseerd. De bestaande Landmacht organisatie is in een continue verbeter modus vanuit deze volgordelijkheid.
 De technologische en sociale innovaties gaan echter zo snel dat ook op andere, snellere manieren moet worden gekeken naar modernisering van de bestaande organisatie.
 CD&E is een manier om kort-cyclisch moderniseren uit te voeren. Centraal staat daarbij een integrale aanpak, met externe partijen door experimenten. Het model wat we hierbij gebruiken zie je op de slide.
 
 ## effectbrenger
-![](_bookdown_files/images/keynote-slides/20200430-CDE-Designprocess/20200430-CDE-Designprocess.010.png)
+<!-- ![](_bookdown_files/images/keynote-slides/20200430-CDE-Designprocess/20200430-CDE-Designprocess.010.png) -->
+```{r, fig.cap='Een effectbrenger genereert activiteiten met een specifieke output.', echo=FALSE}
+# img_dir <-
+img1_path <- "data/keynote-slides/20200430-CDE-Designprocess/20200430-CDE-Designprocess.010.png"
+img1 <- readPNG(img1_path, native = TRUE, info = TRUE)
+knitr::include_graphics(img1_path)
+rm(img1_path, img1)
+```
+
 Een military capability, organisatie onderdeel of subsysteem is een unieke combinatie van Mens, Manieren en Middel(en). Deze unieke combinatie noemen we binnen CD&E een effectbrenger. Deze voert activiteiten uit met een specifieke, direct te relateren, output.
 
 ## gewenst effect en ambitie
-![](_bookdown_files/images/keynote-slides/20200430-CDE-Designprocess/20200430-CDE-Designprocess.011.png)
+<!-- ![](_bookdown_files/images/keynote-slides/20200430-CDE-Designprocess/20200430-CDE-Designprocess.011.png) -->
+```{r, fig.cap='Abstracte vormgeving van drie situaties of contexten in een experiment.', echo=FALSE}
+# img_dir <-
+img1_path <- "data/keynote-slides/20200430-CDE-Designprocess/20200430-CDE-Designprocess.011.png"
+img1 <- readPNG(img1_path, native = TRUE, info = TRUE)
+knitr::include_graphics(img1_path)
+rm(img1_path, img1)
+```
+
 De activiteiten en output genereren een reactie in de omgeving, het indirect te relateren, effect.
 Een beoogde effectbrenger voert activiteiten uit in een specifieke context. Meestal is sprake van een bestaande effectbrenger die verbeterd wordt en is er dus ook sprake van een huidige situatie.
 Samen met interne en externe partners ontwikkeld het kenniscentrum of de eenheid de beoogde effectbrenger zodat deze getest kan worden in een gecontroleerde, operationele omgeving.
@@ -159,7 +269,14 @@ Door het opzetten van een experimentele omgeving kan de ontwikkelde effectbrenge
 Een vraag voor een experiment is de haalbaarheid van het beoogde effect door de effectbrenger in een specifieke situatie. Afhankelijk van de experimenteer-omgeving zullen verschillende methoden worden toegepast om te kunnen concluderen of het beoogde effect bereikt kan worden.
 
 # CD&E design model {#CD&E-design-model}
-![](_bookdown_files/images/keynote-slides/20200430-CDE-Designprocess/20200430-CDE-Designprocess.012.png)
+<!-- ![](_bookdown_files/images/keynote-slides/20200430-CDE-Designprocess/20200430-CDE-Designprocess.012.png) -->
+```{r, fig.cap='Totaal weergave van een design concept.', echo=FALSE}
+# img_dir <-
+img1_path <- "data/keynote-slides/20200430-CDE-Designprocess/20200430-CDE-Designprocess.012.png"
+img1 <- readPNG(img1_path, native = TRUE, info = TRUE)
+knitr::include_graphics(img1_path)
+rm(img1_path, img1)
+```
 
 In het Design model wordt de samenstelling (synthese) van de verschillende subsystemen tot een (beoogd) effect in een specifieke context (de gewenste situatie) gevisualiseerd. Daarmee kan in een zeer abstracte visualisatie het traject van idee tot en met valideren worden geduid.
 
@@ -170,20 +287,51 @@ Het doel van het Design model is de relaties en afhankelijkheden van idee, effec
 Het idee wordt geplaatst in ‘het grotere plaatje’ van het landoptreden.
 
 ## design & innovation framework
-![](_bookdown_files/images/keynote-slides/20200430-CDE-Designprocess/20200430-CDE-Designprocess.013.png)
+<!-- ![](_bookdown_files/images/keynote-slides/20200430-CDE-Designprocess/20200430-CDE-Designprocess.013.png) -->
+```{r, fig.cap='Pallet aan activiteiten binnen het Military Design & Innovatie proces.', echo=FALSE}
+# img_dir <-
+img1_path <- "data/keynote-slides/20200430-CDE-Designprocess/20200430-CDE-Designprocess.013.png"
+img1 <- readPNG(img1_path, native = TRUE, info = TRUE)
+knitr::include_graphics(img1_path)
+rm(img1_path, img1)
+```
 
 ## ontwerpen
-![](_bookdown_files/images/20190710-CDE-designproces_Model-MmmEffect.png)
+<!-- ![](_bookdown_files/images/20190710-CDE-designproces_Model-MmmEffect.png) -->
+```{r, fig.cap='In de ontwerpfase wordt invulling gegeven aan dit concept.', echo=FALSE}
+# img_dir <-
+img1_path <- "data/images/20190710-CDE-designproces_Model-MmmEffect.png"
+img1 <- readPNG(img1_path, native = TRUE, info = TRUE)
+knitr::include_graphics(img1_path)
+rm(img1_path, img1)
+```
+
 Inzoomen op het ontwerpen van een effectbrenger zijn we binnen  CD&E steeds meer geïnteresseerd hoe we van rechts naar links kunnen ontwerpen. Dat wil zeggen vanuit een geambieerde situatie met beoogde effect een output’s, activiteiten en effectbrengers voorstellen die gerealiseerd kunnen worden door het combineren van mens, manieren en middel.
 
 Voor het articuleren van ambitie en ontwikkel lijnen wordt gebruik gemaakt van het 3-Horizon model van Bill Sharp. Onder begeleiding van een programma-manager wordt met de verantwoordelijk kennisadviseur en betrokken kenniswerkers en subject matter expert een routekaar van operationele wensen en behoefte opgesteld. Deze routekaart leidt ondermeer tot strategisch onderbouwde keuze voor het oppakken van ideeën en experimenten.
 
 ## ontwerpen & ontwikkelen
-![](_bookdown_files/images/20190710-CDE-designproces_CDE-FractileModel.png)
+<!-- ![](_bookdown_files/images/20190710-CDE-designproces_CDE-FractileModel.png) -->
+```{r, fig.cap='Fractile patroon van effectbrengers', echo=FALSE}
+# img_dir <-
+img1_path <- "data/images/20190710-CDE-designproces_CDE-FractileModel.png"
+img1 <- readPNG(img1_path, native = TRUE, info = TRUE)
+knitr::include_graphics(img1_path)
+rm(img1_path, img1)
+```
+
 Inzoomen op de effectbrenger als operationele entiteit zien we een fractile pattern ontstaan. Zoals we een groep plaatsen in een peloton, compagnie, bataljon en brigade maakt een effectbrenger ook altijd deel uit van een groter verband. Dit zorgt voor een extra dimensie in de complexiteit van het Design process. Voorlopig noem ik deze dimensie de operationele opschaling.
 
 ## experimenteren
-![](_bookdown_files/images/20190710-CDE-designproces_trajectuitvoering.png)
+<!-- ![](_bookdown_files/images/20190710-CDE-designproces_trajectuitvoering.png) -->
+```{r, fig.cap='Abstracte weergave van ontwerpen, experimenteren en valideren.', echo=FALSE}
+# img_dir <-
+img1_path <- "data/images/20190710-CDE-designproces_trajectuitvoering.png"
+img1 <- readPNG(img1_path, native = TRUE, info = TRUE)
+knitr::include_graphics(img1_path)
+rm(img1_path, img1)
+```
+
 Een beoogde effectbrenger voert activiteiten uit in een specifieke context. Meestal is sprake van een bestaande effectbrenger die verbeterd wordt en is er dus ook sprake van een huidige situatie.
 Samen met interne en externe partners ontwikkeld een kenniscentrum of parate eenheid de beoogde effectbrenger zodat deze getest kan worden in een gecontroleerde, operationele omgeving.
 Door het opzetten van een experimentele omgeving kan de ontwikkelde effectbrenger worden beproefd en kunnen de effecten op de omgeving worden waargenomen.
@@ -191,10 +339,25 @@ Door het opzetten van een experimentele omgeving kan de ontwikkelde effectbrenge
 Data wordt verkregen door het verschil te meten tussen de huidige context met huidige effectbrengers en de experimentele context met beoogde effectbrenger. Na processing en analyse kan deze data worden beschouwd op de gewenste context om zodoende iets zinnigs te kunnen zeggen over de haalbaarheid, nut en noodzaak van het ontwerp.
 
 ## ontwikkelen en samenwerken
-![](_bookdown_files/images/keynote-slides/20200430-CDE-Designprocess/20200430-CDE-Designprocess.017.png)
+<!-- ![](_bookdown_files/images/keynote-slides/20200430-CDE-Designprocess/20200430-CDE-Designprocess.017.png) -->
+```{r, fig.cap='Enkele actoren voor samenwerking.', echo=FALSE}
+# img_dir <-
+img1_path <- "data/keynote-slides/20200430-CDE-Designprocess/20200430-CDE-Designprocess.017.png"
+img1 <- readPNG(img1_path, native = TRUE, info = TRUE)
+knitr::include_graphics(img1_path)
+rm(img1_path, img1)
+```
 
 # CD&E process {#CD&E-process}
-![](_bookdown_files/images/keynote-slides/20200430-CDE-Designprocess/20200430-CDE-Designprocess.018.png)
+<!-- ![](_bookdown_files/images/keynote-slides/20200430-CDE-Designprocess/20200430-CDE-Designprocess.018.png) -->
+```{r, fig.cap=' ', echo=FALSE}
+# img_dir <-
+img1_path <- "data/keynote-slides/20200430-CDE-Designprocess/20200430-CDE-Designprocess.018.png"
+img1 <- readPNG(img1_path, native = TRUE, info = TRUE)
+knitr::include_graphics(img1_path)
+rm(img1_path, img1)
+```
+
 De organisatorische uitdaging die de kenniswerker en de trajectbegeleiding hebben ligt vooral in de Hoe-vragen. Op welke manier kan de beoogde effectbrenger worden ontworpen, ontwikkeld, getest en geïmplementeerd in de bestaande Landmacht organisatie? Er is geen pasklaar antwoord, maar door de vele trajecten is wel een rode draad te ontdekken en zijn een aantal activiteiten, methoden en instrumenten die effectief blijken en vaker terug komen.
 
 Vanuit deze kennis, vaardigheid en ervaring is het CD&E design proces ontwikkeld, en wordt het nog regelmatig aangepast, verbeterd en uitgebreid.
@@ -202,12 +365,27 @@ Vanuit deze kennis, vaardigheid en ervaring is het CD&E design proces ontwikkeld
 Hierna volgen de verschillende bouwstenen die gebuikt kunnen worden om het design proces vorm te geven. De bijzondere volgorde waarin de bouwstenen worden gepresenteerd zijn het meest effectief in de bureaucratische overheidsorganisatie Defensie die tevens als Aanbestedende dienst wordt gekenmerkt in de aanbestedingswet.
 
 ## position into crafstmen
-![](_bookdown_files/images/keynote-slides/20200430-CDE-Designprocess/20200430-CDE-Designprocess.019.png)
+<!-- ![](_bookdown_files/images/keynote-slides/20200430-CDE-Designprocess/20200430-CDE-Designprocess.019.png) -->
+```{r, fig.cap='Het Military Design proces gepositioneerd in het EDL method.', echo=FALSE}
+# img_dir <-
+img1_path <- "data/keynote-slides/20200430-CDE-Designprocess/20200430-CDE-Designprocess.019.png"
+img1 <- readPNG(img1_path, native = TRUE, info = TRUE)
+knitr::include_graphics(img1_path)
+rm(img1_path, img1)
+```
 
 Positioning the proces into the frame of @gardien_changing_2014.
 
 ## CD&E framework 2017-2018 (descriptive)
-![](_bookdown_files/images/keynote-slides/20200430-CDE-Designprocess/20200430-CDE-Designprocess.020.png)
+<!-- ![](_bookdown_files/images/keynote-slides/20200430-CDE-Designprocess/20200430-CDE-Designprocess.020.png) -->
+```{r, fig.cap='Eerste schets van het CD&E design model uit 2018. ', echo=FALSE}
+# img_dir <-
+img1_path <- "data/keynote-slides/20200430-CDE-Designprocess/20200430-CDE-Designprocess.020.png"
+img1 <- readPNG(img1_path, native = TRUE, info = TRUE)
+knitr::include_graphics(img1_path)
+rm(img1_path, img1)
+```
+
 De eerste schets van een framework van de inspanningen voor kort-cyclisch moderniseren voor het landoptreden. In het midden vier fase en stappen om te komen van een probleem naar een implementatie. Onderaan de schets de toenmalige middelen en diensten die door CD&E beschikbaar werden gesteld. De inspanningen waren gericht op het binnen halen van de externe innovatie (links) en via één of meerdere fase en stappen te brengen naar het vergroten van het innovatief vermogen in het landoptreden op de aspecten organisatie, doctrine en/of materieel. Deze inspanningen dragen uiteindelijk ook bij aan het verbeteren en versnellen van processen en procedures binnen de organisatie met de wens om zelfs culturele verandering te initiëren.
 
 Het eerste framework werd gebruikt in een aantal projecten en bij het intern communiceren —en eenheid van opvatting creëren— over de initiatieven voor kort-cyclisch moderniseren in het landoptreden.
@@ -217,7 +395,15 @@ Als methodiek is het model van @klinkers_navigeren_2014 toegepast waarin de aute
 Vanuit reflection in action ontstond het design-keten-proces, een basis template voor een CD&E-plan en een gemeenschappelijke taal.
 
 ## design-keten-proces 2018-2019
-![](_bookdown_files/images/20190710-CDE-designproces_bouwstenenKeten.png)
+<!-- ![](_bookdown_files/images/20190710-CDE-designproces_bouwstenenKeten.png) -->
+```{r, fig.cap='Eerste opzet van MD&I activiteiten.', echo=FALSE}
+# img_dir <-
+img1_path <- "data/images/20190710-CDE-designproces_bouwstenenKeten.png"
+img1 <- readPNG(img1_path, native = TRUE, info = TRUE)
+knitr::include_graphics(img1_path)
+rm(img1_path, img1)
+```
+
 Groei zorgt voor nieuwe uitdagingen, mogelijkheden en mensen. Het aantal moderniseringsvraagstukken steeg en werd gecompliceerder waardoor de noodzaak voor meer trajectbegeleiders ontstond, deze rol werd met prioriteit gevuld. Daarmee ontstond de noodzaak om de opgedane kennis, vaardigheid en ervaring te borgen. Hiervoor is het eerste design-keten-proces en bijhorende canvassen ontworpen, getest en geïmplementeerd in het team.
 
 Voor het ontwerp is gebruik gemaakt van de ervaringen van vier trajectbegeleiders die enige ervaring hadden opgedaan in de periode 2015-2018 met het opstarten en organiseren van moderniseringsvraagstukken.
@@ -228,27 +414,82 @@ Trajecten van idee naar implementatie zijn uniek.
 Ieder traject een andere keten van bouwstenen.
 
 **de eerste canvassen**
-![](_bookdown_files/images/keynote-slides/20200430-CDE-Designprocess/20200430-CDE-Designprocess.023.png)
+<!-- ![](_bookdown_files/images/keynote-slides/20200430-CDE-Designprocess/20200430-CDE-Designprocess.023.png) -->
+```{r, fig.cap='Eerste canvassen prototype.', echo=FALSE}
+# img_dir <-
+img1_path <- "data/keynote-slides/20200430-CDE-Designprocess/20200430-CDE-Designprocess.023.png"
+img1 <- readPNG(img1_path, native = TRUE, info = TRUE)
+knitr::include_graphics(img1_path)
+rm(img1_path, img1)
+```
+
 **toetsingscriteria**
-![](_bookdown_files/images/keynote-slides/20200430-CDE-Designprocess/20200430-CDE-Designprocess.024.png)
+<!-- ![](_bookdown_files/images/keynote-slides/20200430-CDE-Designprocess/20200430-CDE-Designprocess.024.png) -->
+```{r, fig.cap='De indicatoren voor Military Design & Innovation.', echo=FALSE}
+# img_dir <-
+img1_path <- "data/keynote-slides/20200430-CDE-Designprocess/20200430-CDE-Designprocess.024.png"
+img1 <- readPNG(img1_path, native = TRUE, info = TRUE)
+knitr::include_graphics(img1_path)
+rm(img1_path, img1)
+```
+
 Naast de canvassen en het mindmodel waren een aantal indicatoren opgesteld. Deze kregen helaas de naam selectie- of toetsingscriteria wat geen recht deed aan de kracht van indicatoren maar verwerd tot een binair goed/fout controle mechanisme. De indicatoren waren door mij opgesteld als reminder of checklist, ze moeten zijn overdacht en besproken in het proces. De mate waarin de indicator is doorgevoerd in het traject kan iets zeggen over de succesfactor op basis van eerdere kennis en ervaring.
 **variaties op denkmodellen**
-![](_bookdown_files/images/keynote-slides/20200430-CDE-Designprocess/20200430-CDE-Designprocess.024-1.jpeg)
+<!-- ![](_bookdown_files/images/keynote-slides/20200430-CDE-Designprocess/20200430-CDE-Designprocess.024-1.jpeg) -->
+```{r, fig.cap='Het RTDP-process is gebruikt als inspratie en methode om het MD&I te ontwikkelen.', echo=FALSE}
+# img_dir <-
+img1_path <- "data/keynote-slides/20200430-CDE-Designprocess/20200430-CDE-Designprocess.024-1.png"
+img1 <- readPNG(img1_path, native = TRUE, info = TRUE)
+knitr::include_graphics(img1_path)
+rm(img1_path, img1)
+```
+
 **laatste ontwerp canvassen**
-![](_bookdown_files/images/keynote-slides/20200430-CDE-Designprocess/20200430-CDE-Designprocess.025.png)
+<!-- ![](_bookdown_files/images/keynote-slides/20200430-CDE-Designprocess/20200430-CDE-Designprocess.025.png) -->
+```{r, fig.cap='Final ontwerp canvassen.', echo=FALSE}
+# img_dir <-
+img1_path <- "data/keynote-slides/20200430-CDE-Designprocess/20200430-CDE-Designprocess.025.png"
+img1 <- readPNG(img1_path, native = TRUE, info = TRUE)
+knitr::include_graphics(img1_path)
+rm(img1_path, img1)
+```
+
 
 ## design-keten-proces 2019-2020
-![](_bookdown_files/images/keynote-slides/20200430-CDE-Designprocess/20200430-CDE-Designprocess.026.png)
+<!-- ![](_bookdown_files/images/keynote-slides/20200430-CDE-Designprocess/20200430-CDE-Designprocess.026.png) -->
+```{r, fig.cap='Verdieping van de uitvoering in drie activiteiten in 2019. ', echo=FALSE}
+# img_dir <-
+img1_path <- "data/keynote-slides/20200430-CDE-Designprocess/20200430-CDE-Designprocess.026.png"
+img1 <- readPNG(img1_path, native = TRUE, info = TRUE)
+knitr::include_graphics(img1_path)
+rm(img1_path, img1)
+```
+
 Bij het toenemen van vraag naar CD&E faciliteiten en -steun groeide het aantal trajecten. Hierdoor konden de CD&E-medewerkers reflection in action toepassen op de wijze waarop hun werk wordt verricht. Hieruit komen het CD&E design keten proces, de rol van Trajectbegeleiders en de ontwikkeling van instrumentarium om het werk en het proces te ondersteunen. Deze werden getest en verder verdiept door het opleiden en begeleiden van nieuwe CD&E-medewerkers die gedurende twee jaar het team kwamen versterken.
 
 Het woord traject is geïntroduceerd om het discours en de mindset te richten op het onderscheidende van deze aanpak ten opzichte van een standaard landmacht project aanpak. Het traject start met een idee en eindigt bij succesvol doorlopen tot formele opname in de organisatie.
 
 Ieder traject van idee naar implementatie is uniek en bestaat uit een keten van bouwstenen specifiek voor het voorliggend vraagstuk.
 
-![](_bookdown_files/images/keynote-slides/20200430-CDE-Designprocess/20200430-CDE-Designprocess.027.png)
+<!-- ![](_bookdown_files/images/keynote-slides/20200430-CDE-Designprocess/20200430-CDE-Designprocess.027.png) -->
+```{r, fig.cap=' ', echo=FALSE}
+# img_dir <-
+img1_path <- "data/keynote-slides/20200430-CDE-Designprocess/20200430-CDE-Designprocess.027.png"
+img1 <- readPNG(img1_path, native = TRUE, info = TRUE)
+knitr::include_graphics(img1_path)
+rm(img1_path, img1)
+```
 
 ### idee generatie
-![](_bookdown_files/images/keynote-slides/20200430-CDE-Designprocess/20200430-CDE-Designprocess.028.png)
+<!-- ![](_bookdown_files/images/keynote-slides/20200430-CDE-Designprocess/20200430-CDE-Designprocess.028.png) -->
+```{r, fig.cap=' ', echo=FALSE}
+# img_dir <-
+img1_path <- "data/keynote-slides/20200430-CDE-Designprocess/20200430-CDE-Designprocess.028.png"
+img1 <- readPNG(img1_path, native = TRUE, info = TRUE)
+knitr::include_graphics(img1_path)
+rm(img1_path, img1)
+```
+
 In een forecasting zien we vaak een kenniswerker of collega van een parate eenheid die met een idee komt die een verbetering oplevert voor de directe taakstelling of werkomgeving, dan wel het kennisgebied waarin de collega werkzaam is. Dit idee is nog niet altijd volledig of biedt nog onvoldoende houvast om te komen tot een traject. Wel geeft het veel informatie over latente vraagstukken, problemen of kansen die in een specifieke context leven.
 
 In een backcasting worden in de toekomst vraagstukken geadresseerd vanuit de routekaarten van operationele wensen en behoeften. Aan deze routekaarten wordt nog hard gewerkt en concrete voorbeelden ontbreken op dit moment.
@@ -256,13 +497,29 @@ In een backcasting worden in de toekomst vraagstukken geadresseerd vanuit de rou
 Bij idee generatie brengt de trajectbegeleider de idee-inbrenger van een ‘m-gedreven’ idee naar een een ‘m-m-m gedreven’ concept. Dit gebeurt in maximaal drie werksessies die in maximaal vier weken worden ingepland. Dit zorgt voor betrokkenheid en beschikbaarheid van relevante actoren en brengt een positieve start van het traject op gang.
 
 ### vraag articulatie
-![](_bookdown_files/images/keynote-slides/20200430-CDE-Designprocess/20200430-CDE-Designprocess.029.png)
+<!-- ![](_bookdown_files/images/keynote-slides/20200430-CDE-Designprocess/20200430-CDE-Designprocess.029.png) -->
+```{r, fig.cap=' ', echo=FALSE}
+# img_dir <-
+img1_path <- "data/keynote-slides/20200430-CDE-Designprocess/20200430-CDE-Designprocess.029.png"
+img1 <- readPNG(img1_path, native = TRUE, info = TRUE)
+knitr::include_graphics(img1_path)
+rm(img1_path, img1)
+```
+
 Bij CD&E geloven we in het betrekken van het innovatieve vermogen wat buiten de Defensie organisatie ligt. Om de juiste partners te vinden is het belangrijk een duidelijke vraag te stellen. Aan de hand van het canvas weet de trajectbegeleider, kenniswerker en ervaringsdeskundige een compleet beeld te schetsen van de probleemcontext, probleem, uitdaging voor de organisatie en de markt-, onderzoek- of ontwerp vragen.
 
 Deze stap leidt tot een duidelijker beeld van de beoogde effectbrenger en de positie die deze effectbrenger heeft / kan krijgen in de bestaande organisatie. Naast dit design concept wordt ook de situatie geschetst waarin de effectbrenger moet acteren. Dit brengt inzicht in de verschillende aspecten die in het experiment moeten worden opgenomen. Ook geeft het de positionering aan van het design concept in de routekaart van operationele behoefte en wensen.
 
 ### traject organiseren
-![](_bookdown_files/images/keynote-slides/20200430-CDE-Designprocess/20200430-CDE-Designprocess.030.png)
+<!-- ![](_bookdown_files/images/keynote-slides/20200430-CDE-Designprocess/20200430-CDE-Designprocess.030.png) -->
+```{r, fig.cap=' ', echo=FALSE}
+# img_dir <-
+img1_path <- "data/keynote-slides/20200430-CDE-Designprocess/20200430-CDE-Designprocess.030.png"
+img1 <- readPNG(img1_path, native = TRUE, info = TRUE)
+knitr::include_graphics(img1_path)
+rm(img1_path, img1)
+```
+
 Als het idee en de vraag voldoende duidelijk zijn, komt de vraag hoe deze in een project tot uitvoering gebracht kunnen worden. Verschillende interne en externe -rode- actoren zijn direct betrokken om het design concept te ontwikkelen, experimenteren en valideren, terwijl er ook -blauwe- actoren zijn die op meer afstand op specifieke momenten ondersteunen.
 
 Net als in voorgaande bouwstenen staat het idee/design concept centraal. Verschillende rollen moeten worden ingevuld door relevante actoren. Denk daarbij aan kenniseigenaar, projectleider, probleem-eigenaar, werkgever (i.r.t. bedrijfsveiligheid) en experimenteer-omgeving. Het projectteam krijgt steun en faciliteiten om een tijdelijke organisatie op te bouwen rondom het design concept. Verwerving en planning voor het project moet worden voorbereid en in sommige gevallen moeten meerdere adviseur worden geconsulteerd om potentiële ‘struikelblokjes’ in het vervolg traject te identificeren en hopelijk voorkomen.
@@ -275,17 +532,42 @@ Om kort-cyclisch te moderniseren moeten randvoorwaarden worden ingericht die nie
 Het is belangrijk te onderkennen dat aan deze bouwstenen vaste en variabele doorlooptijden zijn verbonden. Het kan daarom nuttig zijn om in een eerder stadium te starten met de voorbereidingen voor de verwerving. De uiteindelijke productie en levering hebben we bijna niet in de hand maar blijkt altijd weer langer te duren dan het projectteam inschat. De trajectbegeleider zorgt daarom dat hij zo snel als mogelijk wordt geadviseerd in de mogelijke verwerving-strategieën.
 
 ### experimenteren en valideren
-![](_bookdown_files/images/20190710-CDE-designproces_trajectuitvoering.png)
+<!-- ![](_bookdown_files/images/20190710-CDE-designproces_trajectuitvoering.png) -->
+```{r, fig.cap=' ', echo=FALSE}
+# img_dir <-
+img1_path <- "data/images/20190710-CDE-designproces_trajectuitvoering.png"
+img1 <- readPNG(img1_path, native = TRUE, info = TRUE)
+img1 <- readPNG(img1_path, native = TRUE, info = TRUE)
+knitr::include_graphics(img1_path)
+rm(img1_path, img1)
+```
+
 Binnen de Landmacht worden regelmatig testen uitgevoerd op middelen. Een verwervingsproces kent vaak gebruikers veldtesten voor vergelijkend onderzoek. Denk aan een compagnie die verschillende schoenen test die door leveranciers worden aangeboden in een vervangingsproject voor de hele Defensie. Experimenten in een operationeel setting is nog onvoldoende ontwikkeld. De mogelijkheden om een enigszins gecontroleerde omgeving te creëren zijn aanwezig maar de kennis en vaardigheden voor het opbouwen en uitvoeren van een valide, betrouwbaar en reproduceerbaar experiment zijn nog onvoldoende.
 
 Een systematische validatie van het idee in de experiment context ontbreekt op dit moment. De eerste stappen voor het ontwikkelen van deze bouwsteen zijn gezet. Zo is validatie al beschreven in het Design model en wordt bij nieuwe voorstellen al specifiek nagedacht over het meten en meetmethode van het experiment. Mede door de diversiteit aan vraagstukken en domeinen zal dit geen one-size-fits-all validatie worden.
 
 ### vraag-aanbod exploratie
-![](_bookdown_files/images/keynote-slides/20200430-CDE-Designprocess/20200430-CDE-Designprocess.033.png)
+<!-- ![](_bookdown_files/images/keynote-slides/20200430-CDE-Designprocess/20200430-CDE-Designprocess.033.png) -->
+```{r, fig.cap=' ', echo=FALSE}
+# img_dir <-
+img1_path <- "data/keynote-slides/20200430-CDE-Designprocess/20200430-CDE-Designprocess.033.png"
+img1 <- readPNG(img1_path, native = TRUE, info = TRUE)
+knitr::include_graphics(img1_path)
+rm(img1_path, img1)
+```
+
 Om externe partijen in een vroegtijdig stadium te betrekken bij het opstellen van routekaarten van operationele wensen en behoefte wordt de bouwsteen vraag-aanbod exploratie ontwikkeld. Het eerste concept is visueel weergegeven. De insteek is een dialoog tussen vraag en aanbod kant waarbij in zes stappen wordt toegewerkt naar het punt waarop de vraagarticulatie en aanbodarticulatie elkaar vinden. Mede door de complexiteit van wet- en regelgeving en botsende waarden is dit een ingewikkeld proces wat nog niet is getoetst in de praktijk.
 
 # CD&E routines {#CD&E-routines}
-![](_bookdown_files/images/keynote-slides/20200430-CDE-Designprocess/20200430-CDE-Designprocess.034.png)
+<!-- ![](_bookdown_files/images/keynote-slides/20200430-CDE-Designprocess/20200430-CDE-Designprocess.034.png) -->
+```{r, fig.cap=' ', echo=FALSE}
+# img_dir <-
+img1_path <- "data/keynote-slides/20200430-CDE-Designprocess/20200430-CDE-Designprocess.034.png"
+img1 <- readPNG(img1_path, native = TRUE, info = TRUE)
+knitr::include_graphics(img1_path)
+rm(img1_path, img1)
+```
+
 In 2019 was het CD&E- budget gestegen tot €20M en was het portfolio voor het eerst groter dan het budget, €24M in 200+ projecten. We hebben ons gedwongen tot het —laten— maken van keuzen over de noodzaak, urgentie en haalbaarheid van de lopende projecten en nieuwe voorstellen. Dit proces betekende een herijking van de CD&E-inspanningen en vroeg om het beschouwen op de toetsingscriteria en fundamentele vragen over responsibility, accountability, projectduur en waarden van een project voor de organisatie.
 
 Daarbij moet in ogenschouw genomen worden dat we een bureaucratische overheidsorganisatie zijn en derhalve te maken hebben met kenmerken als ‘ministeriële verantwoordelijkheid’, ’continue verantwoording van uitgaven’ en ‘aanbestedende dienst’.  Ook de signaalwerking naar de eigenaren van de projecten is van belang. Initiatieven mogen niet worden ontmoedigt maar alles goedkeuren behoorde tot het verleden.
@@ -293,7 +575,15 @@ Daarbij moet in ogenschouw genomen worden dat we een bureaucratische overheidsor
 Een herijkingsproces diende daardoor reproduceerbaar en uitlegbaar te zijn aan alle betrokken partijen tot aan de Minister. Het proces droeg ook bij aan een besluitvormingsproces voor de fase na herijking, zo ontstond uit de herijking een aantal routines om ook nieuwe voorstellen langs eenzelfde meetlat te leggen.
 
 ## communicatie in het CD&E-traject
-![](_bookdown_files/images/keynote-slides/20200430-CDE-Designprocess/20200430-CDE-Designprocess.035.png)
+<!-- ![](_bookdown_files/images/keynote-slides/20200430-CDE-Designprocess/20200430-CDE-Designprocess.035.png) -->
+```{r, fig.cap=' ', echo=FALSE}
+# img_dir <-
+img1_path <- "data/keynote-slides/20200430-CDE-Designprocess/20200430-CDE-Designprocess.035.png"
+img1 <- readPNG(img1_path, native = TRUE, info = TRUE)
+knitr::include_graphics(img1_path)
+rm(img1_path, img1)
+```
+
 Om alle belanghebbende te kunnen informeren over het vraagstuk, de aanpak en de uitkomsten worden een aantal documenten gebruikt.
 Een CD&E-plan beschrijft of visualiseert voornamelijk het probleem, probleem-context, vraag, betrokken partijen, projectorganisatie, beoogde effect en globale aanpak voor ontwikkelen, experimenteren en valideren.
 Een experimentplan kan later worden opgesteld en beschrijft of visualiseert in detail het experiment en validatie methode. Dit is voornamelijk bedoeld ten behoeve van de project-uitvoering.
@@ -304,10 +594,25 @@ Na goedkeuring wordt een eventueel verwervingsproces uitgevoerd.
 Tijdens het gehele proces wordt de voortgang bewaakt door de trajectbegeleider zodat er één persoon is die van begin tot eind zicht heeft op de ontwikkelingen.
 
 ## besluitvorming trajectvoorstellen
-![](_bookdown_files/images/keynote-slides/20200430-CDE-Designprocess/20200430-CDE-Designprocess.037.png)
+<!-- ![](_bookdown_files/images/keynote-slides/20200430-CDE-Designprocess/20200430-CDE-Designprocess.037.png) -->
+```{r, fig.cap=' ', echo=FALSE}
+# img_dir <-
+img1_path <- "data/keynote-slides/20200430-CDE-Designprocess/20200430-CDE-Designprocess.037.png"
+img1 <- readPNG(img1_path, native = TRUE, info = TRUE)
+knitr::include_graphics(img1_path)
+rm(img1_path, img1)
+```
+
 Voorafgaand aan de besluitvorming wordt een stafadvies opgesteld door de CD&E trajectbegeleider, S&P dossierhouder en CD&E programma-manager. Dit advies ontstaat door het beschouwen van het project-voorstel op de toetsingscriteria en wordt voorbereid en samengevat door de teamleider trajectbegeleiding. De focus ligt op noodzaak en urgentie van het voorstel ten opzichte van staande beleid en visie, veel gebruikte referenties zijn de visie C-LAS “Veiligheid en vooruitzien” en het Operationeel kader landoptreden (OKL). Na de inhoudelijke beschouwing worden eventuele financiële middelen toebedeeld.
 
 Besluitvorming over een traject ligt in principe bij de Directeur Kennis & Ontwikkeling, dankzij de getoonde systematische aanpak is het vertrouwen gegeven om dit binnen CD&E te beleggen.
 
 ## toetsingscriteria
-![](_bookdown_files/images/keynote-slides/20200430-CDE-Designprocess/20200430-CDE-Designprocess.038.png)
+<!-- ![](_bookdown_files/images/keynote-slides/20200430-CDE-Designprocess/20200430-CDE-Designprocess.038.png) -->
+```{r, fig.cap=' ', echo=FALSE}
+# img_dir <-
+img1_path <- "data/keynote-slides/20200430-CDE-Designprocess/20200430-CDE-Designprocess.038.png"
+img1 <- readPNG(img1_path, native = TRUE, info = TRUE)
+knitr::include_graphics(img1_path)
+rm(img1_path, img1)
+```
