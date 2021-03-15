@@ -1,4 +1,4 @@
---- 
+---
 title: "Explore Military Design & Innovation"
 author: "C.P. Corvers"
 date: "`r Sys.Date()`"
@@ -7,7 +7,9 @@ documentclass: book
 bibliography: [book.bib, packages.bib, mildi.bib]
 biblio-style: apalike
 link-citations: yes
-description: "This is a minimal example of using the bookdown package to write a book. The output format for this example is bookdown::gitbook."
+github-repo: cpcorvers/Military-Design_Innovation
+
+description: "A book on Design & Innovation in the Military context"
 ---
 ```{r}
 library(knitr)    # For knitting document and include_graphics function
