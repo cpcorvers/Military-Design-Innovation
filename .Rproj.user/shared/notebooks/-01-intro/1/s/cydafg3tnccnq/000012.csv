@@ -1,0 +1,4 @@
+"0","# img_dir <-"
+"0","img1_path <- ""_bookdown_files/images/keynote-slides/20200430-CDE-Designprocess/20200430-CDE-Designprocess.002.png"""
+"0","img1 <- readPNG(img1_path, native = TRUE, info = TRUE)"
+"0","knitr::include_graphics(img1_path)"

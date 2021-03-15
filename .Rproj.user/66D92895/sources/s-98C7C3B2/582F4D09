@@ -1,0 +1,25 @@
+{
+    "collab_server" : "",
+    "contents" : "",
+    "created" : 1615642079546.000,
+    "dirty" : false,
+    "encoding" : "UTF-8",
+    "folds" : "",
+    "hash" : "775256517",
+    "id" : "582F4D09",
+    "lastKnownWriteTime" : 1615763371,
+    "last_content_update" : 1615763370105,
+    "path" : "/Volumes/myworkdisk/Samsung_Blue_Workdisk/workfiles/r-studio/Military-Design-Innovation/index.Rmd",
+    "project_path" : "index.Rmd",
+    "properties" : {
+        "cursorPosition" : "14,60",
+        "scrollLine" : "1"
+    },
+    "read_only" : false,
+    "read_only_alternatives" : [
+    ],
+    "relative_order" : 4,
+    "source_on_save" : false,
+    "source_window" : "",
+    "type" : "r_markdown"
+}

@@ -1,0 +1,3 @@
+"0","library(knitr)    # For knitting document and include_graphics function"
+"0","library(ggplot2)  # For plotting"
+"0","library(png)      # For grabbing the dimensions of png files"
