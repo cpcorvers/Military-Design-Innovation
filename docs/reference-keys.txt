@@ -1,6 +1,7 @@
 fig:index
+fig:unnamed-chunk-4
 fig:unnamed-chunk-5
-fig:unnamed-chunk-6
+fig:simpel-proces
 fig:unnamed-chunk-7
 fig:unnamed-chunk-8
 fig:unnamed-chunk-9
@@ -16,7 +17,7 @@ fig:unnamed-chunk-18
 fig:unnamed-chunk-19
 fig:unnamed-chunk-20
 fig:unnamed-chunk-21
-fig:unnamed-chunk-22
+fig:unnamed-chunk-23
 fig:unnamed-chunk-24
 fig:unnamed-chunk-25
 fig:unnamed-chunk-26
@@ -24,14 +25,12 @@ fig:unnamed-chunk-27
 fig:unnamed-chunk-28
 fig:unnamed-chunk-29
 fig:unnamed-chunk-30
-fig:unnamed-chunk-31
 intro
-cde-algemeen-cde-algemeen
 aanleiding
-missie
 beleid
 uitgangspunten
 moderniseringsmodellen
+cde-algemeen-cde-algemeen
 cde-binnen-clas-modernisering
 positionering-in-defensie-organisatie
 organisatie-2019-multi-project-management
@@ -59,3 +58,7 @@ traject-organiseren
 verwerving-en-levering
 experimenteren-en-valideren
 vraag-aanbod-exploratie
+cde-routines-cde-routines
+communicatie-in-het-cde-traject
+besluitvorming-trajectvoorstellen
+toetsingscriteria
