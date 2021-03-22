@@ -1,4 +1,4 @@
-# Kort-cyclisch-moderniseren
+# How to think{#kort-cyclisch-moderniseren}
 <!-- ![](_bookdown_files/images/keynote-slides/20200430-CDE-Designprocess/20200430-CDE-Designprocess.009.png) -->
 ```{r, fig.cap='De unieke combinatie van mens, manier en middel maakt een effectbrenger.', echo=FALSE}
 # img_dir <-

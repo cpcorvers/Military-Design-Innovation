@@ -1,4 +1,4 @@
-# CD&E routines {#CD&E-routines}
+# CD&E routines{#cde-routines}
 <!-- ![](_bookdown_files/images/keynote-slides/20200430-CDE-Designprocess/20200430-CDE-Designprocess.034.png) -->
 ```{r, fig.cap=' ', echo=FALSE}
 # img_dir <-

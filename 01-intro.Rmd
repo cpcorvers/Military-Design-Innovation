@@ -1,4 +1,4 @@
-# Introduction {#intro}
+# Introduction{#intro}
 
 <!-- ![CD&E logo and animation](data/keynote-slides/20200430-CDE-Designprocess/20200430-CDE-Designprocess.001.png") -->
 ```{r, fig.cap=' ', echo=FALSE}

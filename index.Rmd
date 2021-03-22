@@ -33,17 +33,17 @@ knitr::include_graphics(img1_path)
 
 In chronologische volgorde komen de volgende onderwerpen voorbij.
 
-**[Algemeen]**
+**[Algemeen](#cde-algemeen)**
 Geeft achtergrond kennis over de missie, conceptuele en organisatorische positionering en organisatiestructuur.
 
-**[Kort-cyclisch-moderniseren]**
+**[How to think](#kort-cyclisch-moderniseren)**
 Beschrijft hoe te denken in effecten en effectbrengers.
 
-**[CD&E design model]**
+**[How to act](#cde-design-model)**
 Beschrijft hoe deze effectbrengers in een samenwerking met interne- en externe partijen ontwikkeld wordt.
 
-**[CD&E design proces]**
+**[Ontstaansgeschiedenis en doorontwikkeling](#cde-process)**
 Geeft handvatten in het ontwikkelen en experimenteren met effectbrengers zoals technieken en tools voor het articuleren, organiseren, uitvoeren en rapporteren.
 
-**[CD&E routines]**
+**[CD&E routines](#cde-routines)**
 Procedures voor besluitvorming over moderniseringsvoorstellen.

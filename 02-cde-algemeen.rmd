@@ -1,4 +1,4 @@
-# CD&E algemeen {#cd&e-algemeen}
+# CD&E algemeen{#cde-algemeen}
 <!-- ![](_bookdown_files/images/keynote-slides/20200430-CDE-Designprocess/20200430-CDE-Designprocess.003.png) -->
 ```{r,  fig.cap=' ', echo=FALSE}
 # img_dir <-
@@ -8,7 +8,7 @@ knitr::include_graphics(img1_path)
 rm(img1_path, img1)
 ```
 
-### CD&E binnen CLAS-modernisering
+### CD&E binnen CLAS-modernisering {-}
 <!-- ![](_bookdown_files/images/keynote-slides/20200430-CDE-Designprocess/20200430-CDE-Designprocess.008.png)[fig:simpel-proces] -->
 ```{r, simpel-proces, fig.cap='Eenvoudig CLAS moderniseringsproces met positionering CD&E', echo=FALSE}
 # img_dir <-
@@ -70,7 +70,7 @@ Het werd tijd voor de volgende stap waarin meer richting wordt gegeven aan de in
 
 De programmatische aanpak was daarvoor gekozen. Programma-managers inventariseren moderniseringsinitiatieven bij de 9-14 kennisadviseurs m.b.v. Boill Sharp’s 3-horizon model en visualiseren met hiërarchie-boom-structuur.
 
-## organisatie 2020: portfolio management
+## organisatie vanaf 2020: portfolio management
 <!-- ![](_bookdown_files/images/keynote-slides/20200430-CDE-Designprocess/20200430-CDE-Designprocess.009-4.jpeg) -->
 ```{r, fig.cap='Organisatie structuur naar programmatische aanpak ', echo=FALSE}
 # img_dir <-
@@ -97,6 +97,9 @@ rm(img1_path, img1)
 ```
 
 De uitvoering van kort cyclische moderniseringsprojecten vindt plaats op locatie en in eigenaarschap van een kenniscentrum of parate eenheid, CD&E steunt en faciliteert. Hiervoor heeft CD&E een aantal middelen en diensten tot haar beschikking. Dit zijn de middelen en diensten die niet vanzelfsprekend toegankelijk zijn voor de betrokken partijen of vanwege schaarste of efficiëntie beter tot hun recht komen door centrale positionering.
+
+### begeleiden en faciliteren
+De belangrijkste diensten van CD&E zijn het begeleiden van de Landmacht-professionals bij het innoveren van hun vak. Daarom neemt CD&E geen primair eigenaarschap in de programma's of projecten maar steunt de opdrachtgever, -nemer en overige betrokkenen in het gehele traject tot implementatie en escaleert naar de juiste niveaus waar nodig.
 
 ### experimenteer omgeving & innovatie hub
 <!-- ![](_bookdown_files/images/keynote-slides/20200430-CDE-Designprocess/20200430-CDE-Designprocess.009-6.jpeg) -->
