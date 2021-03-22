@@ -16,26 +16,34 @@ library(knitr)    # For knitting document and include_graphics function
 library(ggplot2)  # For plotting
 library(png)      # For grabbing the dimensions of png files
 ```
-# Military Design & Innovation
-<!-- # Prerequisites -->
+<!-- # Military Design & Innovation {-} -->
+# Voorwoord {-}
+Sinds januari 2019 heeft het Commando Landstrijdkrachten (CLAS) een vierde directie in de staf opgenomen, de directie Kennis & Ontwikkeling (DK&O). Onder deze directie worden drie afdelingen functioneel georganiseerd. Dit zijn de afdeling Strategie & Plannen (S&P), afdeling Regie (LWC/Regie) en de afdeling Innovatie (io). Deze laatste is een samenvoeging van de programma's De Adaptieve Krijgsmacht - CLAS (DAK-C) en Concept Development & Experimentation (CD&E). Deze organisatorische verandering is een volgende stap in het moderniseren en innoveren van de Landmacht en het landoptreden.
 
-<!-- This is a _sample_ book written in **Markdown**. You can use anything that Pandoc's Markdown supports, e.g., a math equation $a^2 + b^2 = c^2$. -->
+Innoveren in een complexe omgeving en aanpakken van ingewikkelde en 'wicked problems' is een ontdekkingstocht op onbekend terrein met een gevarieerd reisgezelschap. Dit digitale boek legt de deel van de reis vast door het beschrijven van de methode, processen, tools en concepten. In de opzet worden de Golden circles van Simon Sinek gevolgd door het beschrijven van het 'why', 'how' en 'what' vragen. Waarom we de doelen willen nastreven (ambitie/effecten), hoe we bij ons doel kunnen komen (routes/activiteiten) en wat we doen om bij het doel te komen (capaciteiten/mensen/manieren/middelen).
 
-<!-- The **bookdown** package can be installed from CRAN or Github: -->
+#### leeswijzer {-}
+```{r, index, fig.cap='Index', echo=FALSE}
+# img_dir <-
+img1_path <- "data/keynote-slides/20200430-CDE-Designprocess/20200430-CDE-Designprocess.002.png"
+img1 <- readPNG(img1_path, native = TRUE, info = TRUE)
+knitr::include_graphics(img1_path)
+```
+<!-- ![](_bookdown_files/images/keynote-slides/20200430-CDE-Designprocess/20200430-CDE-Designprocess.002.png) -->
 
-<!-- ```{r eval=FALSE} -->
-<!-- install.packages("bookdown") -->
-<!-- # or the development version -->
-<!-- # devtools::install_github("rstudio/bookdown") -->
-<!-- ``` -->
+In chronologische volgorde komen de volgende onderwerpen voorbij.
 
-<!-- Remember each Rmd file contains one and only one chapter, and a chapter is defined by the first-level heading `#`. -->
+**[Algemeen]**
+Geeft achtergrond kennis over de missie, conceptuele en organisatorische positionering en organisatiestructuur.
 
-<!-- To compile this example to PDF, you need XeLaTeX. You are recommended to install TinyTeX (which includes XeLaTeX): <https://yihui.org/tinytex/>. -->
+**[Kort-cyclisch-moderniseren]**
+Beschrijft hoe te denken in effecten en effectbrengers.
 
-<!-- ```{r include=FALSE} -->
-<!-- # automatically create a bib database for R packages -->
-<!-- knitr::write_bib(c( -->
-<!--   .packages(), 'bookdown', 'knitr', 'rmarkdown' -->
-<!-- ), 'packages.bib') -->
-<!-- ``` -->
+**[CD&E design model]**
+Beschrijft hoe deze effectbrengers in een samenwerking met interne- en externe partijen ontwikkeld wordt.
+
+**[CD&E design proces]**
+Geeft handvatten in het ontwikkelen en experimenteren met effectbrengers zoals technieken en tools voor het articuleren, organiseren, uitvoeren en rapporteren.
+
+**[CD&E routines]**
+Procedures voor besluitvorming over moderniseringsvoorstellen.

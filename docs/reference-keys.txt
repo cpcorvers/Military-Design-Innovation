@@ -25,7 +25,6 @@ fig:unnamed-chunk-28
 fig:unnamed-chunk-29
 fig:unnamed-chunk-30
 fig:unnamed-chunk-31
-military-design-innovation
 intro
 cde-algemeen-cde-algemeen
 aanleiding
@@ -60,7 +59,3 @@ traject-organiseren
 verwerving-en-levering
 experimenteren-en-valideren
 vraag-aanbod-exploratie
-cde-routines-cde-routines
-communicatie-in-het-cde-traject
-besluitvorming-trajectvoorstellen
-toetsingscriteria

@@ -1,0 +1,41 @@
+# Kort-cyclisch-moderniseren
+<!-- ![](_bookdown_files/images/keynote-slides/20200430-CDE-Designprocess/20200430-CDE-Designprocess.009.png) -->
+```{r, fig.cap='De unieke combinatie van mens, manier en middel maakt een effectbrenger.', echo=FALSE}
+# img_dir <-
+img1_path <- "data/keynote-slides/20200430-CDE-Designprocess/20200430-CDE-Designprocess.009.png"
+img1 <- readPNG(img1_path, native = TRUE, info = TRUE)
+knitr::include_graphics(img1_path)
+rm(img1_path, img1)
+```
+
+De landmacht is een overheids organisatie die -waar nodig- een zwaardmacht moet zijn waar vrede en veiligheid geen vanzelfsprekendheid is. Vanuit de grondwettelijke taken is afgeleid hoe de Landmacht optreedt, welke materieel en personele middelen daarvoor nodig zijn en hoe dit wordt georganiseerd. De bestaande Landmacht organisatie is in een continue verbeter modus vanuit deze volgordelijkheid.
+De technologische en sociale innovaties gaan echter zo snel dat ook op andere, snellere manieren moet worden gekeken naar modernisering van de bestaande organisatie.
+CD&E is een manier om kort-cyclisch moderniseren uit te voeren. Centraal staat daarbij een integrale aanpak, met externe partijen door experimenten. Het model wat we hierbij gebruiken zie je op de slide.
+
+## effectbrenger
+<!-- ![](_bookdown_files/images/keynote-slides/20200430-CDE-Designprocess/20200430-CDE-Designprocess.010.png) -->
+```{r, fig.cap='Een effectbrenger genereert activiteiten met een specifieke output.', echo=FALSE}
+# img_dir <-
+img1_path <- "data/keynote-slides/20200430-CDE-Designprocess/20200430-CDE-Designprocess.010.png"
+img1 <- readPNG(img1_path, native = TRUE, info = TRUE)
+knitr::include_graphics(img1_path)
+rm(img1_path, img1)
+```
+
+Een military capability, organisatie onderdeel of subsysteem is een unieke combinatie van Mens, Manieren en Middel(en). Deze unieke combinatie noemen we binnen CD&E een effectbrenger. Deze voert activiteiten uit met een specifieke, direct te relateren, output.
+
+## gewenst effect en ambitie
+<!-- ![](_bookdown_files/images/keynote-slides/20200430-CDE-Designprocess/20200430-CDE-Designprocess.011.png) -->
+```{r, fig.cap='Abstracte vormgeving van drie situaties of contexten in een experiment.', echo=FALSE}
+# img_dir <-
+img1_path <- "data/keynote-slides/20200430-CDE-Designprocess/20200430-CDE-Designprocess.011.png"
+img1 <- readPNG(img1_path, native = TRUE, info = TRUE)
+knitr::include_graphics(img1_path)
+rm(img1_path, img1)
+```
+
+De activiteiten en output genereren een reactie in de omgeving, het indirect te relateren, effect.
+Een beoogde effectbrenger voert activiteiten uit in een specifieke context. Meestal is sprake van een bestaande effectbrenger die verbeterd wordt en is er dus ook sprake van een huidige situatie.
+Samen met interne en externe partners ontwikkeld het kenniscentrum of de eenheid de beoogde effectbrenger zodat deze getest kan worden in een gecontroleerde, operationele omgeving.
+Door het opzetten van een experimentele omgeving kan de ontwikkelde effectbrenger worden beproefd en kunnen de effecten op de omgeving worden waargenomen.
+Een vraag voor een experiment is de haalbaarheid van het beoogde effect door de effectbrenger in een specifieke situatie. Afhankelijk van de experimenteer-omgeving zullen verschillende methoden worden toegepast om te kunnen concluderen of het beoogde effect bereikt kan worden.
