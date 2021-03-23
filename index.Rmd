@@ -20,30 +20,34 @@ library(png)      # For grabbing the dimensions of png files
 # Voorwoord {-}
 Sinds januari 2019 heeft het Commando Landstrijdkrachten (CLAS) een vierde directie in de staf opgenomen, de directie Kennis & Ontwikkeling (DK&O). Onder deze directie worden drie afdelingen functioneel georganiseerd. Dit zijn de afdeling Strategie & Plannen (S&P), afdeling Regie (LWC/Regie) en de afdeling Innovatie (io). Deze laatste is een samenvoeging van de programma's De Adaptieve Krijgsmacht - CLAS (DAK-C) en Concept Development & Experimentation (CD&E). Deze organisatorische verandering is een volgende stap in het moderniseren en innoveren van de Landmacht en het landoptreden.
 
-Innoveren in een complexe omgeving en aanpakken van ingewikkelde en 'wicked problems' is een ontdekkingstocht op onbekend terrein met een gevarieerd reisgezelschap. Dit digitale boek legt de deel van de reis vast door het beschrijven van de methode, processen, tools en concepten. In de opzet worden de Golden circles van Simon Sinek gevolgd door het beschrijven van het 'why', 'how' en 'what' vragen. Waarom we de doelen willen nastreven (ambitie/effecten), hoe we bij ons doel kunnen komen (routes/activiteiten) en wat we doen om bij het doel te komen (capaciteiten/mensen/manieren/middelen).
+Innoveren in een complexe omgeving en aanpakken van ingewikkelde en 'wicked problems' is een ontdekkingstocht op onbekend terrein met een gevarieerd reisgezelschap. Dit digitale boek deelt ervaringen van eerdere reizigers en geeft tools en technieken die nuttig zijn tijdens de reis. Het beschrijft methode, processen, tools en concepten. In de opzet worden de Golden circles van Simon Sinek gevolgd door het beschrijven van het 'why', 'how' en 'what' vragen. Waarom we de doelen willen nastreven (ambitie/effecten), hoe we bij ons doel kunnen komen (routes/activiteiten) en wat we nodig hebben om bij het doel te komen (capaciteiten/mensen/manieren/middelen).
+
+In de doorontwikkeling van de tools en technieken waren veel personen betrokken. Zij maakte allen onlosmakkelijk deel uit van het reisgezelschap. Sommige trokken een andere richting op, andere zijn ons vooruitgesneld. We herinneren met liefde en plezier alle reisgenoten en zijn dankbaar voor de leermomenten die we samen mochten ervaren.
 
 #### leeswijzer {-}
+<!--
 ```{r, index, fig.cap='Index', echo=FALSE}
 # img_dir <-
 img1_path <- "data/keynote-slides/20200430-CDE-Designprocess/20200430-CDE-Designprocess.002.png"
 img1 <- readPNG(img1_path, native = TRUE, info = TRUE)
 knitr::include_graphics(img1_path)
 ```
+-->
 <!-- ![](_bookdown_files/images/keynote-slides/20200430-CDE-Designprocess/20200430-CDE-Designprocess.002.png) -->
 
 In chronologische volgorde komen de volgende onderwerpen voorbij.
 
-**[Algemeen](#cde-algemeen)**
-Geeft achtergrond kennis over de missie, conceptuele en organisatorische positionering en organisatiestructuur.
+**[Organisatie](#cde-algemeen)**
+geeft achtergrond kennis over de missie, conceptuele en organisatorische positionering en organisatiestructuur.
 
 **[How to think](#kort-cyclisch-moderniseren)**
-Beschrijft hoe te denken in effecten en effectbrengers.
+beschrijft hoe te denken in effecten en effectbrengers.
 
 **[How to act](#cde-design-model)**
-Beschrijft hoe deze effectbrengers in een samenwerking met interne- en externe partijen ontwikkeld wordt.
-
-**[Ontstaansgeschiedenis en doorontwikkeling](#cde-process)**
-Geeft handvatten in het ontwikkelen en experimenteren met effectbrengers zoals technieken en tools voor het articuleren, organiseren, uitvoeren en rapporteren.
+geeft handvatten in het ontwikkelen en experimenteren met effectbrengers zoals technieken en tools voor het articuleren, organiseren, uitvoeren en rapporteren. Ook beschrijft dit hoofdstuk hoe de effectbrengers in een samenwerking met interne- en externe partijen ontwikkeld wordt.
 
 **[CD&E routines](#cde-routines)**
-Procedures voor besluitvorming over moderniseringsvoorstellen.
+beschrijft procedures voor besluitvorming over moderniseringsvoorstellen.
+
+**[Ontstaansgeschiedenis en doorontwikkeling.](#cde-process)**
+Transformatie is continue leren en vernieuwen, ook onze tools en technieken transformeren. In dit hoofdstuk zijn de eerdere versies van onze tools, technieken en structuren terug te lezen.

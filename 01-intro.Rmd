@@ -8,16 +8,22 @@ img1 <- readPNG(img1_path, native = TRUE, info = TRUE)
 knitr::include_graphics(img1_path)
 rm(img1_path, img1)
 ```
+## benaming
+De naam van ons team en methode is een aantal keer veranderd. We stonden bekend als CD&E en worden op dit moment de afdeling Innovatie (i.o.) genoemd. Onze methodieken worden weleens benoemd als: CD&E, kort-cyclisch moderniseren of -innoveren, trajectbegeleiding en programmatische aanpak. Ik zie vooral een 'craft' ontstaan waarin deze methode en onze technieken en tools worden gehanteerd door 'craftsman'. Ik noem deze 'craft' Military Design & Innovation.
+
+Wat onder de craft Military Design & Innovation wordt verstaan zal ik in de nabije toekomst beschrijven in dit boek. Dit boek wordt ook nog geredigeerd zodat eenduidige bewoording wordt gegeven aan de afdeling, methode, technieken en tools.
+
 ## aanleiding
-De reden om als Landmacht te innoveren met externe partners ligt in de realiteit dat een leger altijd beter moet zijn dan de tegenstander maar legers niet langer de innovatie aanjagen. De markt en economische marktwerking heeft dit overgenomen. En daar waar de Landmacht het idee had de ontwikkelingen voldoende te kunnen volgen, kreeg de Commandant Landstrijdkrachten de spiegel voorgehouden door de voorzitter/directeur van werkgeversorganisatie FME-CWM tijdens de Future Force Conference in 2015. De Landmacht pakte deze reflectie serieus aan en zoekt met externe organisaties naar samenwerking om in het tempo van de markt te innoveren in het landoptreden. De Landmacht gebruikt hierbij ondermeer de methode Concept Development & Experimentation (CD&E) als startpunt voor deze zoektocht.
+De reden om als Landmacht te innoveren met externe partners ligt in de realiteit dat een leger altijd beter moet zijn dan de tegenstander maar legers niet langer de innovatie aanjagen. De markt en economische marktwerking heeft dit overgenomen. En daar waar de Landmacht het idee had de ontwikkelingen voldoende te kunnen volgen, kreeg de Commandant Landstrijdkrachten de spiegel voorgehouden door de voorzitter/directeur van werkgeversorganisatie FME-CWM tijdens de Future Force Conference in 2015. De Landmacht pakte deze reflectie serieus aan en zoekt met externe organisaties naar samenwerking om in het tempo van de markt te innoveren in het landoptreden. De Landmacht gebruikte hierbij ondermeer de methode Concept Development & Experimentation (CD&E) als startpunt voor deze zoektocht.
 
 CD&E starte in 2015 als zogenaamde kwartiermakersgroep en maakte naam als afdeling, methode en resources voor kort cyclische moderniseren in het landoptreden. Sinds oktober 2017 mag ik bijdragen aan de missie van CD&E. Startend als algemeen stafofficier junior ontwikkelde we met een klein team een methode, proces, tools en concept waarmee we kenniscentra en parate eenheden in staat konden stellen hun ideeën, en problemen om te zetten in vraagstukken die samen met interne en externe partijen middels experimenten worden beantwoord en —als ultieme doel— formeel opgenomen in de organisatie (implementatie). Deze aanpak is geen nieuw format of procedure maar een continue leerproces waarin samen wordt gewerkt aan nieuwe denkmodellen, activiteiten-pallet en craftmanship.
 
-Veel van de CD&E-aanpak is door de groei, successen (en mislukkingen) en de omgeving verandert, verbeterd of doorontwikkeld. Ook onstaan er nieuwe methode, processen, tools en concepten die de mogelijkheden voor innovatie in het landoptreden vergroten. Al deze nieuwe inzichten en handelingsperspectieven worden omgezet in kennis en vaardigheden die worden geborgt en gedeelt. Al deze inspanningen dragen bij aan de missie.
+Veel van de CD&E-aanpak is door de groei, successen (en mislukkingen) en de omgeving verandert, verbeterd of doorontwikkeld. Ook onstaan er nieuwe methode, processen, tools en concepten die de mogelijkheden voor innovatie in het landoptreden vergroten. Al deze nieuwe inzichten en handelingsperspectieven worden omgezet in kennis en vaardigheden die worden geborgt en gedeelt. Deze inspanningen dragen daarmee bij aan de missie.
+
 ## missie
 > CD&E ontsluit het innovatieve vermogen van het bedrijfsleven en kennisinstituten voor het moderniseringsproces van de Land- en/of Krijgsmacht zodat onze eenheden tijdens inzet relevant en waar nodig dominant blijven.
 
-In het kennisgebied Military Design & Innovation borgen en delen we de kennis en vaardigheden in de exploratie van ambities, idee-generatie, vraagarticulatie, samenwerking met externe partijen en implementatie van nieuwe capablities.
+In het vakgebied Military Design & Innovation borgen en delen we de kennis en vaardigheden in de exploratie van ambities, idee-generatie, vraagarticulatie, samenwerking met externe partijen en implementatie van nieuwe capablities.
 
 ## beleid
 <!-- ![](_bookdown_files/images/keynote-slides/20200430-CDE-Designprocess/20200430-CDE-Designprocess.005.png) -->
@@ -28,9 +34,9 @@ img1 <- readPNG(img1_path, native = TRUE, info = TRUE)
 knitr::include_graphics(img1_path)
 rm(img1_path, img1)
 ```
-Er zijn een aantal beleidsdocumenten die het moderniseren en innoveren van de Land- en Krijgsmacht sturen. Drie documenten komen met enige regelmaat terug. De Defensievisie 2035, Vechten voor een veilige toekomst beschrijft de inrichtingsprincipes voor de eerstkomende jaren. De Strategische kennis- en innovatieagenda geeft meer thematisch aan in welke onderwerpen Defensie de focus legt. De Visie Commando Landstrijdkrachten, Veigliheid is vooruitzien, beschrijft het toekomstbeeld van de Kominklijke Landmacht. Deze is intern verder vertaald in het Operationeel kader landoptreden (OKL).
+Er zijn een aantal beleidsdocumenten die het moderniseren en innoveren van de Land- en Krijgsmacht sturen. Drie documenten komen met enige regelmaat terug. De Defensievisie 2035, Vechten voor een veilige toekomst beschrijft de inrichtingsprincipes voor de eerstkomende jaren. De Strategische kennis- en innovatieagenda geeft meer thematisch aan in welke onderwerpen Defensie de focus legt. De Visie Commando Landstrijdkrachten, Veigligheid is vooruitzien, beschrijft het toekomstbeeld van de Kominklijke Landmacht. Deze is intern verder vertaald in het Operationeel kader landoptreden (OKL).
 
-Als definitie voor innovatie volgt CD&E de Adviesraad voor Wetenschap, Technologie en Innovatie.
+Als definitie voor innovatie volg ik de Adviesraad voor Wetenschap, Technologie en Innovatie.
 
 >Innovatie: “de implementatie van een nieuw of significant vernieuwd product of dienst, proces, nieuwe marketingmethode of een nieuw organisatiemodel.“ [@awti-2014]
 
@@ -44,20 +50,16 @@ Procedures maken de gang van zaken controleerbaar, repeteerbaar en voorspelbaar 
 Dit resulteert in drie uitgangspunten die kaderstellend zijn bij het doorontwikkelen van modellen, processen en instrumenten voor Military Design & Innovation.
 
 **Landmacht is een aanbestedende dienst**
-
-Europese wetgeving
+dus moeten inkoop en verwerving voldoen aan Europese wetgeving.
 
 **Landmacht is een rijksoverheidsorganisatie**
-
-Ministeriële verantwoording aan parlement over verantwoorde uitgave belastinggeld
+met een Ministeriële verantwoording aan parlement over verantwoorde uitgave van belastinggeld en handelen naar de Nederlandse overtuigingen en belangen.
 
 **Landmacht is een bureaucratische organisatie**
-
-Door processen en regelgeving is de organisatie non-discriminatief conform Weber’s model
+waarin processen en regelgeving borgen dat de organisatie non-discriminatief handelt conform Weber’s model.
 
 ## moderniseringsmodellen
-<!-- ![](_bookdown_files/images/BO-2016-CLAS-moderniseringsmodel.png) -->
-<!-- ![](_bookdown_files/images/BO-2016-Defensie-KI-huis.png) -->
+Voor de lang-cyclische modernisering kent de Landmacht het CLAS moderniseringsmodel waar vanuit een future scan (landoptreden van de toekomst LvT) wordt toegewerkt naar een force design (Landmacht van overmorgen LvOM), force building (Landmacht van morgen LvM) en force employment (Landmacht van vandaag LvV).
 ```{r, fig.cap='CLAS moderniseringsproces lang-cyclisch ', echo=FALSE}
 # img_dir <-
 img1_path <- "data/images/BO-2016-CLAS-moderniseringsmodel.png"
@@ -65,6 +67,8 @@ img1 <- readPNG(img1_path, native = TRUE, info = TRUE)
 knitr::include_graphics(img1_path)
 rm(img1_path, img1)
 ```
+
+Defensie breed is de lang-cyclische modernisering en innovatie ingericht als een ‘huis’. Dit kennis- en innovatie model is al jaren in gebruik en voorziet in vele instrumenten en processen om innovatie op lange termijn toe te passen. Echter het gebruiken van nieuwe snel opkomende innovaties kunnen hiermee niet adequaat worden getest en geïmplementeerd.
 ```{r, fig.cap='K&I-huis Defensie ', echo=FALSE}
 # img_dir <-
 img1_path <- "data/images/BO-2016-Defensie-KI-huis.png"
@@ -72,8 +76,20 @@ img1 <- readPNG(img1_path, native = TRUE, info = TRUE)
 knitr::include_graphics(img1_path)
 rm(img1_path, img1)
 ```
-Voor de lang-cyclische modernisering kent de Landmacht het CLAS moderniseringsmodel waar vanuit een future scan (landoptreden van de toekomst LvT) wordt toegewerkt naar een force design (Landmacht van overmorgen LvOM), force building (Landmacht van morgen LvM) en force employment (Landmacht van vandaag LvL).
 
-Defensie breed is de lang-cyclische modernisering en innovatie ingericht als een ‘huis’. Dit kennis- en innovatie model is al jaren in gebruik en voorziet in vele instrumenten en processen om innovatie op lange termijn toe te passen. Echter het gebruiken van nieuwe snel opkomende innovaties kunnen hiermee niet adequaat worden getest en geïmplementeerd.
+Met CD&E werkt de Landmacht sinds 2015 aan het versnellen, verbinden en vermarkten van opkomende technologieën en ambities door het organiseren en structureren van innovatie in het tempo van de markt.
 
-Met CD&E werkt de Landmacht sinds 2015 aan het versnellen, verbinden en vermarkten van opkomende technologieën door het organiseren en structureren van kort-cyclische innovatie.
+### CD&E binnen CLAS-modernisering {-}
+<!-- ![](_bookdown_files/images/keynote-slides/20200430-CDE-Designprocess/20200430-CDE-Designprocess.008.png)[fig:simpel-proces] -->
+```{r, simpel-proces, fig.cap='Eenvoudig CLAS moderniseringsproces met positionering van de CD&E-methodiek', echo=FALSE}
+# img_dir <-
+img1_path <- "data/keynote-slides/20200430-CDE-Designprocess/20200430-CDE-Designprocess.008.png"
+img1 <- readPNG(img1_path, native = TRUE, info = TRUE)
+knitr::include_graphics(img1_path)
+rm(img1_path, img1)
+```
+
+Figuur \@ref(fig:simpel-proces) en vereenvoudigde visualisatie van het ‘klassieke’ moderniseringsproces van de Landmacht. Dit proces kan worden onderverdeeld in vier aandachtsgebieden, de landmacht van vandaag (LvV), morgen (LvM), overmorgen (LvOM) en het landoptreden van de toekomst (LvT). Verschillende organisatie-onderdelen dragen bij aan deze aandachtsgebieden. Grofweg kan de verantwoordelijkheid (responsibility) worden toebedeeld aan respectievelijk de parate eenheid, afdeling strategie & plannen, kenniscentrum en afdeling trends & concepts.
+In dit proces vindt backcasting plaats doordat onderzoek, studies en verkenningen richting geven aan modernisering voor LvM en LvV en forecasting doordat evaluaties, lessons learned en experimenten richting geven aan beleid, budgettering en kennisplanning.
+
+CD&E draagt hoofdzakelijk bij aan de landmacht van morgen en overmorgen.
