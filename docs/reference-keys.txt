@@ -48,7 +48,7 @@ incubatiehub
 kort-cyclisch-moderniseren
 effectbrenger
 effect
-huidige-situatie
+probleem-context
 experimentele-context
 toekomstige-context
 cde-design-model

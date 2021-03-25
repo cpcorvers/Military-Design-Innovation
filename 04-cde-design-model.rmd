@@ -1,11 +1,11 @@
 # How to act{#cde-design-model}
 ## design model
 ```{r, design-model, fig.cap='Totaal weergave van een design concept.', echo=FALSE}
-# img_dir <-
-img1_path <- "data/keynote-slides/20200430-CDE-Designprocess/20200430-CDE-Designprocess.012.png"
-img1 <- readPNG(img1_path, native = TRUE, info = TRUE)
-knitr::include_graphics(img1_path)
-rm(img1_path, img1)
+img_dir <- "data/images/"
+img_path <- "20210324-MDI-design-model.png"
+img <- paste(img_dir, img_path, sep="", collapse=NULL)
+knitr::include_graphics(img)
+rm(img_dir, img_path, img)
 ```
 
 Het design model modeleert in één figuur \@ref(fig:design-model) de ontwikkeling van een effectbrenger in drie verschillende situaties. Daarmee wordt in een zeer abstracte visualisatie het traject van idee tot en met valideren geduid.
@@ -17,13 +17,12 @@ Het doel van het design model is de relaties en afhankelijkheden van idee, effec
 Het idee wordt geplaatst in ‘het grotere plaatje’ van het landoptreden.
 
 ## design & innovation framework
-<!-- ![](_bookdown_files/images/keynote-slides/20200430-CDE-Designprocess/20200430-CDE-Designprocess.013.png) -->
 ```{r, fig.cap='Pallet aan activiteiten binnen Military Design & Innovatie.', echo=FALSE}
-# img_dir <-
-img1_path <- "data/keynote-slides/20200430-CDE-Designprocess/20200430-CDE-Designprocess.013.png"
-img1 <- readPNG(img1_path, native = TRUE, info = TRUE)
-knitr::include_graphics(img1_path)
-rm(img1_path, img1)
+img_dir <- "data/keynote-slides/"
+img_path <- "20200430-CDE-Designprocess/20200430-CDE-Designprocess.013.png"
+img <- paste(img_dir, img_path, sep="", collapse=NULL)
+knitr::include_graphics(img)
+rm(img_dir, img_path, img)
 ```
 Om ambities en ideëen te brengen naar implementatie moeten veel activiteiten worden ingezet. Omdat we Military Design & Innovation benaderen als een 'wicked problem' is er geen uitgestippeld pad maar een zoektocht. De keuze welke activiteiten ingezet worden en in welke volgorde zij plaatsvinden is vraagstuk afhankelijk. We richten ons daarom niet op het vooraf uitwerken van projectplannen maar op het definieren van beoogde effectbrengers en het aanbieden van handelingsperspectieven aan de uitvoerende professionals. Het Military Design & Innovation framework geeft een pallet aan activiteiten die ingezet kunnen worden om een ambitie of idee verder te ontwikkelen tot implementatie.
 

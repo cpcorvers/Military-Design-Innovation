@@ -6,7 +6,6 @@ De technologische en sociale innovaties gaan echter zo snel dat ook op andere, s
 Military Design & Innovation geeft manieren om innovatie bij de Landmacht uit te voeren in het tempo van de markt. Centraal staat daarbij een integrale aanpak, met externe partijen door experimenten. Het denkmodel wat we hierbij gebruiken heet 'de effectbrenger'.
 
 ## effectbrenger
-
 ```{r, mmm-model, out.width="350px", fig.cap='De unieke combinatie van mens, manier en middel maakt een effectbrenger.', echo=FALSE}
 img_dir <- "data/images/"
 img_path <- "20210324-MDI-mmm-model.png"
@@ -35,7 +34,6 @@ knitr::include_graphics(img)
 rm(img_dir, img_path, img)
 ```
 ## effect
-
 De activiteiten en output genereren een reactie in de omgeving, het indirect te relateren, effect. Dit creëert de waarde en impact van de effectbrenger in een specifieke context.
 
 ```{r, effectbrenger-in-eieren, out.width="550px", fig.cap='Abstracte vormgeving van een specifieke context met een ingebrachte en geactiveerde effectbrenger.', echo=FALSE}
@@ -58,19 +56,18 @@ knitr::include_graphics(img1_path)
 rm(img1_path, img1)
 ```
 -->
-## huidige situatie
-```{r, eieren-in-beweging-1, out.width="150px", fig.cap='Abstracte vormgeving van contexten in beweging.', echo=FALSE}
+## probleem context
+```{r, eieren-in-beweging-1, out.width="150px", fig.cap='Abstracte vormgeving van probleem context.', echo=FALSE}
 img_dir <- "data/images/"
 img_path <- "20210324-MDI-eieren-beweging-1.png"
 img <- paste(img_dir, img_path, sep="", collapse=NULL)
 knitr::include_graphics(img)
 rm(img_dir, img_path, img)
 ```
-
-Met het inbrengen van vernieuwde effectbrengers reageert de omgeving. Meestal is sprake van een bestaande effectbrenger die verbeterd wordt, soms wordt een geheel nieuwe effectbrenger ontwikkeld. In figuur \@ref(fig:eieren-in-beweging-1) is de huidige situatie gevisualiseerd met een geactiveerde effectbrenger.
+Een innovatie vraagstuk beschouwen wij als een 'wicked problem' in een bekende situatie die wordt geduid als de probleem context. Met het inbrengen van vernieuwde effectbrengers reageert de omgeving. Meestal is sprake van een bestaande effectbrenger die verbeterd wordt, soms wordt een geheel nieuwe effectbrenger ontwikkeld. In figuur \@ref(fig:eieren-in-beweging-1) is de huidige situatie gevisualiseerd met een geactiveerde effectbrenger.
 
 ## experimentele context
-```{r, eieren-in-beweging-2, out.width="150px", fig.cap='Abstracte vormgeving van contexten in beweging.', echo=FALSE}
+```{r, eieren-in-beweging-2, out.width="150px", fig.cap='Abstracte vormgeving van experimentele context.', echo=FALSE}
 img_dir <- "data/images/"
 img_path <- "20210324-MDI-eieren-beweging-2.png"
 img <- paste(img_dir, img_path, sep="", collapse=NULL)
@@ -81,7 +78,7 @@ rm(img_dir, img_path, img)
 Samen met interne en externe partners ontwikkeld het kenniscentrum of de eenheid de beoogde effectbrenger. Deze wordt getest in een experimentele context. Er wordt als het ware een gecontroleerde operationele omgeving gecreerd binnen een eenheid of oefening. Door het opzetten van een experimentele context kan de ontwikkelde effectbrenger worden beproefd en kunnen de werkelijke reacties van de omgeving worden waargenomen.
 
 ## toekomstige context
-```{r, eieren-in-beweging-3, out.width="150px", fig.cap='Abstracte vormgeving van contexten in beweging.', echo=FALSE}
+```{r, eieren-in-beweging-3, out.width="150px", fig.cap='Abstracte vormgeving van toekomstige context.', echo=FALSE}
 img_dir <- "data/images/"
 img_path <- "20210324-MDI-eieren-beweging-3.png"
 img <- paste(img_dir, img_path, sep="", collapse=NULL)
