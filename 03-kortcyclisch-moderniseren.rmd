@@ -1,13 +1,4 @@
 # How to think{#kort-cyclisch-moderniseren}
-<!-- ![](_bookdown_files/images/keynote-slides/20200430-CDE-Designprocess/20200430-CDE-Designprocess.009.png) -->
-```{r, fig.cap='De unieke combinatie van mens, manier en middel maakt een effectbrenger.', echo=FALSE}
-# img_dir <-
-img1_path <- "data/keynote-slides/20200430-CDE-Designprocess/20200430-CDE-Designprocess.009.png"
-img1 <- readPNG(img1_path, native = TRUE, info = TRUE)
-knitr::include_graphics(img1_path)
-rm(img1_path, img1)
-```
-
 De landmacht is een overheids organisatie die -waar nodig- een zwaardmacht moet zijn op plekken waar vrede en veiligheid geen vanzelfsprekendheid is. Vanuit de grondwettelijke taken is afgeleid hoe de Landmacht optreedt, welke materieel en personele middelen daarvoor nodig zijn en hoe dit wordt georganiseerd. Deze lineaire denkmodellen dragen decenia lang bij aan de innovatie in het landoptreden. De bestaande Landmacht organisatie is in een continue verbeter modus vanuit deze volgordelijkheid.
 
 De technologische en sociale innovaties gaan echter zo snel dat ook op andere, snellere manieren moet worden gekeken naar modernisering van de bestaande organisatie en vernieuwing voor de toekomstige organisatie.
@@ -15,16 +6,93 @@ De technologische en sociale innovaties gaan echter zo snel dat ook op andere, s
 Military Design & Innovation geeft manieren om innovatie bij de Landmacht uit te voeren in het tempo van de markt. Centraal staat daarbij een integrale aanpak, met externe partijen door experimenten. Het denkmodel wat we hierbij gebruiken heet 'de effectbrenger'.
 
 ## effectbrenger
-<!-- ![](_bookdown_files/images/keynote-slides/20200430-CDE-Designprocess/20200430-CDE-Designprocess.010.png) -->
-```{r, effectbrenger, fig.cap='Een effectbrenger genereert activiteiten met een specifieke output.', echo=FALSE}
+
+```{r, mmm-model, out.width="350px", fig.cap='De unieke combinatie van mens, manier en middel maakt een effectbrenger.', echo=FALSE}
+img_dir <- "data/images/"
+img_path <- "20210324-MDI-mmm-model.png"
+img <- paste(img_dir, img_path, sep="", collapse=NULL)
+knitr::include_graphics(img)
+rm(img_dir, img_path, img)
+```
+
+Een military capability, organisatie onderdeel of subsysteem is een unieke combinatie van mens, manieren en middel(en). Deze unieke combinatie noemen we een effectbrenger.
+
+```{r, effectbrenger, out.width="400px", fig.cap='Een effectbrenger genereert activiteiten met een specifieke output.', echo=FALSE}
+img_dir <- "data/images/"
+img_path <- "20210324-MDI-effectbrenger.png"
+img <- paste(img_dir, img_path, sep="", collapse=NULL)
+knitr::include_graphics(img)
+rm(img_dir, img_path, img)
+```
+
+Deze effectbrenger voert activiteiten uit met een specifieke, direct te relateren, output. Dit geheel van effectbrenger, activiteiten en output is een zelfstandig en gesloten systeem. De output is afhankelijk van de effectbrenger en activiteiten.
+
+```{r, effectbrenger-met-ei, out.width="450px", fig.cap='In een specifieke context creëert een effectbrenger met acitiviteiten en output een effect vanuit de omgeving.', echo=FALSE}
+img_dir <- "data/images/"
+img_path <- "20210324-MDI-effectbrenger-ei.png"
+img <- paste(img_dir, img_path, sep="", collapse=NULL)
+knitr::include_graphics(img)
+rm(img_dir, img_path, img)
+```
+## effect
+
+De activiteiten en output genereren een reactie in de omgeving, het indirect te relateren, effect. Dit creëert de waarde en impact van de effectbrenger in een specifieke context.
+
+```{r, effectbrenger-in-eieren, out.width="550px", fig.cap='Abstracte vormgeving van een specifieke context met een ingebrachte en geactiveerde effectbrenger.', echo=FALSE}
+img_dir <- "data/images/"
+img_path <- "20210324-MDI-eieren-huidig.png"
+img <- paste(img_dir, img_path, sep="", collapse=NULL)
+knitr::include_graphics(img)
+rm(img_dir, img_path, img)
+```
+
+Het feit dat de context veranderd bij het inbrengen of activeren van een effectbrenger is geen causaliteit maar hoogstens een correlatie. Gedegen experimenteren en valideren is daarom van belang.
+
+<!--
+## gewenst effect en ambitie
+```{r, eieren, fig.cap='Abstracte vormgeving van drie situaties of contexten in een experiment.', echo=FALSE}
 # img_dir <-
-img1_path <- "data/keynote-slides/20200430-CDE-Designprocess/20200430-CDE-Designprocess.010.png"
+img1_path <- "data/keynote-slides/20200430-CDE-Designprocess/20200430-CDE-Designprocess.011.png"
 img1 <- readPNG(img1_path, native = TRUE, info = TRUE)
 knitr::include_graphics(img1_path)
 rm(img1_path, img1)
 ```
+-->
+## huidige situatie
+```{r, eieren-in-beweging-1, out.width="150px", fig.cap='Abstracte vormgeving van contexten in beweging.', echo=FALSE}
+img_dir <- "data/images/"
+img_path <- "20210324-MDI-eieren-beweging-1.png"
+img <- paste(img_dir, img_path, sep="", collapse=NULL)
+knitr::include_graphics(img)
+rm(img_dir, img_path, img)
+```
 
-Een military capability, organisatie onderdeel of subsysteem is een unieke combinatie van Mens, Manieren en Middel(en). Deze unieke combinatie noemen we een effectbrenger. Deze effectbrenger voert activiteiten uit met een specifieke, direct te relateren, output.
+Met het inbrengen van vernieuwde effectbrengers reageert de omgeving. Meestal is sprake van een bestaande effectbrenger die verbeterd wordt, soms wordt een geheel nieuwe effectbrenger ontwikkeld. In figuur \@ref(fig:eieren-in-beweging-1) is de huidige situatie gevisualiseerd met een geactiveerde effectbrenger.
+
+## experimentele context
+```{r, eieren-in-beweging-2, out.width="150px", fig.cap='Abstracte vormgeving van contexten in beweging.', echo=FALSE}
+img_dir <- "data/images/"
+img_path <- "20210324-MDI-eieren-beweging-2.png"
+img <- paste(img_dir, img_path, sep="", collapse=NULL)
+knitr::include_graphics(img)
+rm(img_dir, img_path, img)
+```
+
+Samen met interne en externe partners ontwikkeld het kenniscentrum of de eenheid de beoogde effectbrenger. Deze wordt getest in een experimentele context. Er wordt als het ware een gecontroleerde operationele omgeving gecreerd binnen een eenheid of oefening. Door het opzetten van een experimentele context kan de ontwikkelde effectbrenger worden beproefd en kunnen de werkelijke reacties van de omgeving worden waargenomen.
+
+## toekomstige context
+```{r, eieren-in-beweging-3, out.width="150px", fig.cap='Abstracte vormgeving van contexten in beweging.', echo=FALSE}
+img_dir <- "data/images/"
+img_path <- "20210324-MDI-eieren-beweging-3.png"
+img <- paste(img_dir, img_path, sep="", collapse=NULL)
+knitr::include_graphics(img)
+rm(img_dir, img_path, img)
+```
+
+Een beoogde effectbrenger voert activiteiten uit in een specifieke context zodat een gewenste situatie of gewenst effect ontstaat in de toekomst. Dit kan klein zijn zoals de invloed van een persoon in een eenheid of ambitieus zoals een informatie gestuurd landoptreden (IGO) in de visie CLAS. Deze gewenste eindsituatie wordt meegenomen in het denkmodel omdat de dit richting geeft aan het ontwikkelproces en de meerwaarde bepaald van de ontwikkelde effectbrenger.
+<!--
+Een vraagstuk binnen het experiment is de haalbaarheid van het beoogde effect door de effectbrenger in de specifieke situatie. Afhankelijk van de experimenteer-omgeving zullen verschillende methoden worden toegepast om te kunnen valideren of het beoogde effect is bereikt.
+--
 
 ### system in system {-}
 ```{r, fig.cap='Fractile patroon van effectbrengers', echo=FALSE}
@@ -36,26 +104,3 @@ rm(img1_path, img1)
 ```
 
 Inzoomen op de effectbrenger als operationele entiteit zien we een fractile pattern ontstaan. Zoals we een groep plaatsen in een peloton, compagnie, bataljon en brigade maakt een effectbrenger ook altijd deel uit van een groter verband. Dit zorgt voor een extra dimensie in de complexiteit van het Design process. Voorlopig noem ik deze dimensie de operationele opschaling.
-
-## gewenst effect en ambitie
-<!-- ![](_bookdown_files/images/keynote-slides/20200430-CDE-Designprocess/20200430-CDE-Designprocess.011.png) -->
-```{r, eieren, fig.cap='Abstracte vormgeving van drie situaties of contexten in een experiment.', echo=FALSE}
-# img_dir <-
-img1_path <- "data/keynote-slides/20200430-CDE-Designprocess/20200430-CDE-Designprocess.011.png"
-img1 <- readPNG(img1_path, native = TRUE, info = TRUE)
-knitr::include_graphics(img1_path)
-rm(img1_path, img1)
-```
-
-De activiteiten en output genereren een reactie in de omgeving, het indirect te relateren, effect.
-
-### huidige situatie {-}
-Meestal is sprake van een bestaande effectbrenger die verbeterd wordt, soms wordt een geheel nieuwe effectbrenger ontwikkeld. In figuur \@ref(fig:eieren) is de huidige situatie gevisualiseerd met een bestaande effectbrenger die verbeterd wordt.
-
-### experimentele situatie {-}
-Samen met interne en externe partners ontwikkeld het kenniscentrum of de eenheid de beoogde effectbrenger zodat deze getest kan worden in een gecontroleerde, operationele omgeving. Er wordt als het ware een geconditioneerde omgeving gecreerd in een eenheid of oefening. Door het opzetten van een experimentele omgeving kan de ontwikkelde effectbrenger worden beproefd en kunnen de effecten op de omgeving worden waargenomen.
-
-### gewenste situatie {-}
-Een beoogde effectbrenger voert activiteiten uit in een specifieke context zodat een gewenste situatie of gewenst effect ontstaat. Dit kan klein zijn zoals de invloed van een persoon in een eenheid of ambitieus zoals een Iiformatie gestuurd landoptreden (IGO) in de visie CLAS. Deze gewenste eindsituatie wordt meegenomen in het denkmodel omdat de dit de meerwaarde zal bepalen van de ontwikkelde effectbrenger.
-
-Een vraagstuk binnen het experiment is de haalbaarheid van het beoogde effect door de effectbrenger in de specifieke situatie. Afhankelijk van de experimenteer-omgeving zullen verschillende methoden worden toegepast om te kunnen valideren of het beoogde effect is bereikt.
