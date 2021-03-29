@@ -15,7 +15,7 @@ fig:eieren-in-beweging-2
 fig:eieren-in-beweging-3
 fig:design-model
 fig:unnamed-chunk-14
-fig:unnamed-chunk-15
+fig:unnamed-chunk-16
 fig:unnamed-chunk-17
 fig:unnamed-chunk-18
 fig:unnamed-chunk-29
@@ -52,10 +52,9 @@ probleem-context
 experimentele-context
 toekomstige-context
 cde-design-model
-design-model
-design-innovation-framework
+framework
 ontwerpen
-experimenteren
+development-experimentation
 samenwerken
 activiteiten-pallet
 ambitie-definieren
@@ -67,7 +66,7 @@ vraag-articulatie
 traject-organiseren
 verwerving-en-levering
 ontwikkelen
-experimenteren-1
+experimenteren
 valideren
 cde-routines
 communicatie-in-het-cde-traject
