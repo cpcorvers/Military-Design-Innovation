@@ -1,5 +1,5 @@
 # How to act{#cde-design-model}
-Dit hoofdstuk beschrijft een aantal veel gebruikte en doorontwikkelde handelingsperspectieven om gezamenlijk een idee of ambitie te verwezenlijken. Instpiratie voor deze handelingsperspectieven komen van verschillende vakgebieden zoals netwerk- en ketenregie, design-research, aliantiekunde, militaire doctrines, innovatiekunde, engineering, natuurkunde, en militaire inlichtingen. In het aanpakken van een innovatie vraagstuk beschouwen wij deze als een ongetemd probleem in een complexe context.
+Dit hoofdstuk beschrijft een aantal veel gebruikte en doorontwikkelde handelingsperspectieven om gezamenlijk een idee of ambitie te verwezenlijken. Inspiratie voor deze handelingsperspectieven komen van verschillende vakgebieden zoals netwerk- en ketenregie, design-research, aliantiekunde, militaire doctrines, innovatiekunde, engineering, natuurkunde, en militaire inlichtingen. In het aanpakken van een innovatie vraagstuk beschouwen wij deze als een ongetemd probleem in een complexe context.
 
 **ongetemde problemen**
 
@@ -24,7 +24,7 @@ Ieder vraagstuk uit een ongetemd probleem is nieuw en kenmerkt zich door unieke 
 Het beschrijven van context, selecteren van activiteiten en betrekken van partners is eerder een kunst dan wetenschap. Deze kunst is het craftmanship van trajectbegeleiders, programma-managers en SBID-ers. De rollen en bijkomende kwaliteiten van dit craftmanship vormen het slot van dit hoofdstuk.
 
 ## framework
-Het military design framework modeleert in één figuur (\@ref(fig:design-model)) de ontwikkeling van een effectbrenger en de drie benodigde contexten. Dit visualiseerd in een zeer abstracte vorm het traject van idee tot en met valideren. Het doel van het framework is het inzichtelijk maken van de relaties en afhankelijkheden van idee, effectbrenger en context, of zoals @dorst_core_2011 schrijft: `"the creation of a standpoint from which a problematic situation can be tackled" [@dorst_core_2011, p524]`.
+Het military design framework modeleert in één figuur (\@ref(fig:design-model)) de ontwikkeling van een effectbrenger en de drie benodigde contexten. Dit visualiseerd in een zeer abstracte vorm het traject van idee tot en met valideren. Het doel van het framework is het inzichtelijk maken van de relaties en afhankelijkheden van idee, effectbrenger en context, of zoals @dorst_core_2011 schrijft: `"the creation of a standpoint from which a problematic situation can be tackled"`[@dorst_core_2011, p524].
 
 ```{r, design-model, fig.cap='Military Design framework.', echo=FALSE}
 img_dir <- "data/images/"
@@ -39,16 +39,16 @@ Het framework biedt houvast voor het ontwerpen, ontwikkelen & experimenteren en 
 
 ### ontwerpen
 ```{r, out.width="400px", fig.cap='In de ontwerpfase wordt invulling gegeven aan dit concept.', echo=FALSE}
-# img_dir <-
-img1_path <- "data/images/20190710-CDE-designproces_Model-MmmEffect.png"
-img1 <- readPNG(img1_path, native = TRUE, info = TRUE)
-knitr::include_graphics(img1_path)
-rm(img1_path, img1)
+img_dir <- "data/images/"
+img_path <- "20190710-CDE-designproces_Model-MmmEffect.png"
+img <- paste(img_dir, img_path, sep="", collapse=NULL)
+knitr::include_graphics(img)
+rm(img_dir, img_path, img)
 ```
 Ontwerpen gaat voornamelijk over de activiteiten 'ambitie definieren', 'idee generatie' en 'ontwikkelen'.
-Inzoomen op het ontwerpen van een effectbrenger zijn we steeds meer geïnteresseerd hoe we van rechts naar links kunnen ontwerpen. Dat wil zeggen vanuit een geambieerde situatie met beoogde effect een output’s, activiteiten en effectbrengers voorstellen die gerealiseerd kunnen worden door het combineren van mens, manieren en middel.
+Inzoomen op het ontwerpen van een effectbrenger zijn we steeds meer geïnteresseerd hoe we van rechts naar links kunnen ontwerpen. Dat wil zeggen vanuit een geambieerde situatie met beoogde effect stellen we ons een output, activiteit en effectbrenger voor. Deze verfijnen we door het combineren van mens, manieren en middel.
 
-Voor het articuleren van ambitie en ontwikkel lijnen wordt gebruik gemaakt van het 3-Horizon model van Bill Sharp. Onder begeleiding van een programma-manager wordt met de verantwoordelijk kennisadviseur en betrokken kenniswerkers en subject matter expert een routekaar van operationele wensen en behoefte opgesteld. Deze routekaart leidt ondermeer tot strategisch onderbouwde keuze voor het oppakken van ideeën en experimenten.
+Ambitie en programma-ontwikkellijnen worden gearticuleerd met het 3-Horizon model van Bill Sharp. Begeleidt door een programma-manager wordt een routekaar van operationele wensen en behoefte opgesteld door de verantwoordelijk kennisadviseur en betrokken kenniswerkers en subject matter experts. Deze routekaart leidt ondermeer tot strategisch onderbouwde keuze voor het oppakken van ideeën en experimenten.
 <!--
 ## ontwerpen & ontwikkelen
 ```{r, fig.cap='Fractile patroon van effectbrengers', echo=FALSE}
@@ -65,14 +65,14 @@ Inzoomen op de effectbrenger als operationele entiteit zien we een fractile patt
 ### development & experimentation
 <!-- ![](_bookdown_files/images/20190710-CDE-designproces_trajectuitvoering.png) -->
 ```{r, fig.cap='Abstracte weergave van ontwerpen, experimenteren en valideren.', echo=FALSE}
-# img_dir <-
-img1_path <- "data/images/20190710-CDE-designproces_trajectuitvoering.png"
-img1 <- readPNG(img1_path, native = TRUE, info = TRUE)
-knitr::include_graphics(img1_path)
-rm(img1_path, img1)
+img_dir <- "data/images/"
+img_path <- "20190710-CDE-designproces_trajectuitvoering.png"
+img <- paste(img_dir, img_path, sep="", collapse=NULL)
+knitr::include_graphics(img)
+rm(img_dir, img_path, img)
 ```
 
-Een beoogde effectbrenger voert activiteiten uit in een specifieke context. Meestal is sprake van een bestaande effectbrenger die verbeterd wordt en is er dus ook sprake van een huidige situatie.
+Een beoogde effectbrenger voert activiteiten uit in een specifieke context. Meestal is sprake van een bestaande effectbrenger die verbeterd wordt en daarmee is er ook sprake van een huidige situatie.
 Samen met interne en externe partners ontwikkeld een kenniscentrum of parate eenheid de beoogde effectbrenger zodat deze getest kan worden in een gecontroleerde, operationele omgeving.
 Door het opzetten van een experimentele omgeving kan de ontwikkelde effectbrenger worden beproefd en kunnen de effecten op de omgeving worden waargenomen.
 
@@ -81,12 +81,13 @@ Data wordt verkregen door het verschil te meten tussen de huidige context met hu
 ### samenwerken
 <!-- ![](_bookdown_files/images/keynote-slides/20200430-CDE-Designprocess/20200430-CDE-Designprocess.017.png) -->
 ```{r, fig.cap='Enkele actoren voor samenwerking.', echo=FALSE}
-# img_dir <-
-img1_path <- "data/keynote-slides/20200430-CDE-Designprocess/20200430-CDE-Designprocess.017.png"
-img1 <- readPNG(img1_path, native = TRUE, info = TRUE)
-knitr::include_graphics(img1_path)
-rm(img1_path, img1)
+img_dir <- "data/keynote-slides/"
+img_path <- "20200430-CDE-Designprocess/20200430-CDE-Designprocess.017.png"
+img <- paste(img_dir, img_path, sep="", collapse=NULL)
+knitr::include_graphics(img)
+rm(img_dir, img_path, img)
 ```
+
 ## activiteiten pallet
 ```{r, fig.cap='Pallet aan activiteiten binnen Military Design & Innovatie.', echo=FALSE}
 img_dir <- "data/keynote-slides/"
@@ -97,7 +98,7 @@ rm(img_dir, img_path, img)
 ```
 Om ambities en ideëen te brengen naar implementatie moeten veel activiteiten worden ingezet. Omdat we Military Design & Innovation benaderen als een ongetemd probleem is er geen uitgestippeld pad maar een ontdekkingstocht. In deze tocht kijken we na iedere stap wat de volgende stappen kunnen zijn en welke richting deze stappen op moet gaan.
 
-De keuze welke activiteiten ingezet worden en in welke volgorde zij plaatsvinden is afhankelijk van het vraagstuk en de situatie. We richten ons daarom niet op het vooraf uitwerken van projectplannen maar op het steeds concreter definieren van de beoogde effectbrengers en het aanbieden van handelingsperspectieven aan de uitvoerende professionals. Dit proces wordt ondersteund met een pallet aan activiteiten die -naar gelang- ingezet kunnen worden. Het gebruik van deze activiteiten staat niet garant voor succes maar geeft wel verrijking van inzicht in het vraagstuk. In de metafoor van de ontdekkingsreiziger, het beklimmen van een heuveltop brengt je misschien niet dichter bij je doel maar geeft wel zicht op de mogelijkheden.
+De keuze welke activiteiten ingezet worden en in welke volgorde zij plaatsvinden, is afhankelijk van het vraagstuk en de situatie. We richten ons daarom niet op het vooraf uitwerken van projectplannen maar op het steeds concreter definieren van de beoogde effectbrengers en het aanbieden van handelingsperspectieven aan de uitvoerende professionals. Dit proces wordt ondersteund met een pallet aan activiteiten die -naar gelang- ingezet kunnen worden. Het gebruik van deze activiteiten staat niet garant voor succes maar geeft wel verrijking van inzicht in het vraagstuk. In de metafoor van de ontdekkingsreiziger, het beklimmen van een heuveltop brengt je misschien niet dichter bij je doel maar geeft wel zicht op de mogelijkheden.
 
 In de volgende paragrafen worden de activiteiten van het huidige pallet toegelicht. Het begrijpen en doorgronden van de activiteiten vindt plaats in de praktijk. Daarom is het doen in deze belangrijker dan het bestuderen.
 
@@ -111,17 +112,18 @@ Deze nieuwe activiteit is onderdeel van de doorontwikkeling van Miliatry Design 
 ### programma organiseren
 Deze nieuwe activiteit is onderdeel van de doorontwikkeling van Miliatry Design & Innovation in 2021.
 
-### vraag-aanbod exploratie
+### continue dialoog
 <!-- ![](_bookdown_files/images/keynote-slides/20200430-CDE-Designprocess/20200430-CDE-Designprocess.033.png) -->
-```{r, fig.cap=' ', echo=FALSE}
-# img_dir <-
-img1_path <- "data/keynote-slides/20200430-CDE-Designprocess/20200430-CDE-Designprocess.033.png"
-img1 <- readPNG(img1_path, native = TRUE, info = TRUE)
-knitr::include_graphics(img1_path)
-rm(img1_path, img1)
+```{r, vraag-aanbod, fig.cap='Eerste schets van het concept vraag-aanbod exploratie zoals toegepast in de dialoog ', echo=FALSE}
+img_dir <- "data/images/"
+img_path <- "20200426-CDE-designproces_vraag-aanbod-exploratie_blauwdruk-v2.png"
+img <- paste(img_dir, img_path, sep="", collapse=NULL)
+knitr::include_graphics(img)
+rm(img_dir, img_path, img)
 ```
 
-Om externe partijen in een vroegtijdig stadium te betrekken bij het opstellen van routekaarten van operationele wensen en behoefte wordt de bouwsteen vraag-aanbod exploratie ontwikkeld. Het eerste concept is visueel weergegeven. De insteek is een dialoog tussen vraag en aanbod kant waarbij in een aantal werksessies of stappen wordt toegewerkt naar het punt waarop de vraagarticulatie en aanbodarticulatie elkaar vinden. Mede door de complexiteit van wet- en regelgeving en botsende waarden is dit een ingewikkeld proces wat nog niet is getoetst in de praktijk.
+Met de 'continue dialoog' worden externe partijen in een vroegtijdig stadium betrokken in een thematisch programma of bij een technisch vraagstuk. De 'continue dialoog' kent een aantal stadia waarin het vraagstuk steeds concreter wordt beschreven met hulp van de verschillende partijen. Figuur (\@ref(fig:vraag-aanbod)) visualiseert een dialoog tussen vraag- en aanbod kant. In een aantal werksessies of stappen wordt toegewerkt naar het punt waarop de vraagarticulatie en aanbodarticulatie elkaar vinden. Afhankelijk van het vraagstuk en de context worden relevante partijen door SBID- gekoppeld aan de dialoog. De verantwoordelijk programma-manager voert de regie in de dialoog en draagt deze in een latere stap over aan de trajectbegeleider.
+Mede door de complexiteit van wet- en regelgeving en botsende waarden is dit een ingewikkeld proces wat nog onvoldoende is getoetst in de praktijk.
 
 ### idee generatie
 <!-- ![](_bookdown_files/images/keynote-slides/20200430-CDE-Designprocess/20200430-CDE-Designprocess.028.png) -->
