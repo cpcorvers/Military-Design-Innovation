@@ -11,7 +11,7 @@ github-repo: cpcorvers/Military-Design-Innovation
 
 description: "A book on Design & Innovation in the Military context"
 ---
-```{r}
+```{r, echo=FALSE}
 library(knitr)    # For knitting document and include_graphics function
 library(ggplot2)  # For plotting
 library(png)      # For grabbing the dimensions of png files

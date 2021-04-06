@@ -33,7 +33,7 @@ img <- paste(img_dir, img_path, sep="", collapse=NULL)
 knitr::include_graphics(img)
 rm(img_dir, img_path, img)
 ```
-## effect
+## effect{#effect}
 De activiteiten en output genereren een reactie in de omgeving, het indirect te relateren, effect. Dit creëert de waarde en impact van de effectbrenger in een specifieke context.
 
 ```{r, effectbrenger-in-eieren, out.width="550px", fig.cap='Abstracte vormgeving van een specifieke context met een ingebrachte en geactiveerde effectbrenger.', echo=FALSE}
@@ -56,7 +56,23 @@ knitr::include_graphics(img1_path)
 rm(img1_path, img1)
 ```
 -->
-## probleem context
+
+## context
+In de beschrijving van de paragraaf \@ref(effect) effecten werd een eerste relatie gelegd met een context. In deze paragraaf \@ref(context) worden de soorten context beschreven die regelmatig terugkomen binnen Military Design & Innovation. Allereerst een kleine 'side step' over de betekenis van context.
+
+Oxford Dictionary spreekt over `The circumstances that form the setting for an event, statement, or idea, and in terms of which it can be fully understood.`[@context] en het Van Dale woordenboek definieert context als 'samenhang'. De beschrijving die Military Design & Innovation --voorlopig-- aanhoudt is:
+
+>"de plaats- en tijdsgebonden setting van samenhangende relevante actoren en factoren van invloed rondom een specifieke effectbrenger, bezien vanuit verschillende standpunten, perspectieven en percepties".
+
+De context is daarmee beschrijvend en geeft betekenis aan de opgaaf, eenheid en effectbrenger. Bij het innoveren, moderniseren en transformeren binnen de Koninklijke Landmacht is de setting gedefinieerd als 'het landoptreden', zodat de inspanningen gericht blijven op de operationele taak. We onderscheiden hierin de probleem, experimentele en toekomstige context.
+
+Actoren en factoren die nodig zijn voor een innovatie worden binnen Military Design & Innovation gezien als randvoorwaardelijke mensen, manieren en middelen voor het organiseren en realiseren van innovatie.
+
+<!--
+In militair jargon spreekt men vaak over de 'toestand' of 'situatie', waarbij een bijvoegelijk naamwoord verdere duiding kan geven. Voorbeeld: de huidige toestand in een bevel beschrijft fysieke, virtuele en sociale dimensies van een specifiek gebied in het 'nu'. De toestand of situatie is
+-->
+
+### probleem context
 ```{r, eieren-in-beweging-1, out.width="150px", fig.cap='Abstracte vormgeving van probleem context.', echo=FALSE}
 img_dir <- "data/images/"
 img_path <- "20210324-MDI-eieren-beweging-1.png"
@@ -64,9 +80,13 @@ img <- paste(img_dir, img_path, sep="", collapse=NULL)
 knitr::include_graphics(img)
 rm(img_dir, img_path, img)
 ```
-Een innovatie vraagstuk beschouwen wij als een 'wicked problem' in een bekende situatie die wordt geduid als de probleem context. Met het inbrengen van vernieuwde effectbrengers reageert de omgeving. Meestal is sprake van een bestaande effectbrenger die verbeterd wordt, soms wordt een geheel nieuwe effectbrenger ontwikkeld. In figuur \@ref(fig:eieren-in-beweging-1) is de huidige situatie gevisualiseerd met een geactiveerde effectbrenger.
+Door het opzetten van een probleem context krijgen de betrokken actoren een gemeenschappelijk beeld van de operationele militaire setting waarop het innovatie vraagstuk gericht is.
 
-## experimentele context
+In een probleem context beschouwen we een voorgestelde --vernieuwde-- effectbrenger en beschrijven we de huidige operationele setting van een eenheid. Meestal is sprake van een bestaande effectbrenger die verbeterd wordt, soms wordt een geheel nieuwe effectbrenger ontwikkeld.
+
+Potentiële partners plaatsen de opgaaf in militair operationele setting. Voor militairen is deze setting 'normaal' omdat het hun vakgebied en realiteit is maar voor een niet-militair kan het bijzonder, soms 'ver van het bed' en vaak slecht inleefbaar zijn. Dit betekend ook dat militairen blinde vlekken hebben voor de setting en niet-militaire nieuwe inzichten geven. Gezamenlijk werken aan de probleem contrext verijkt daarmee de vraagarticulatie en aanbodspecificatie.
+
+### experimentele context
 ```{r, eieren-in-beweging-2, out.width="150px", fig.cap='Abstracte vormgeving van experimentele context.', echo=FALSE}
 img_dir <- "data/images/"
 img_path <- "20210324-MDI-eieren-beweging-2.png"
@@ -74,10 +94,13 @@ img <- paste(img_dir, img_path, sep="", collapse=NULL)
 knitr::include_graphics(img)
 rm(img_dir, img_path, img)
 ```
+Door het opzetten van een experimentele context kan de ontwikkelde effectbrenger worden beproefd en kunnen de werkelijke reacties van de omgeving worden waargenomen.
 
-Samen met interne en externe partners ontwikkeld het kenniscentrum of de eenheid de beoogde effectbrenger. Deze wordt getest in een experimentele context. Er wordt als het ware een gecontroleerde operationele omgeving gecreerd binnen een eenheid of oefening. Door het opzetten van een experimentele context kan de ontwikkelde effectbrenger worden beproefd en kunnen de werkelijke reacties van de omgeving worden waargenomen.
+Militaire experimenten vinden zelden plaats in een laboratorium of operationele realiteit. Toch is een gecontroleerde omgeving noodzakelijk voor het meten en valideren van ontwikkelde effectbrengers. De mate van controle is mede afhankelijk van het technical readiness level (TRL) van middelen, de maturiteit van de effectbrenger en vigerende wet- en regelgeving. Ook de wijze van meten en valideren beinvloed de gewenste setting van het experiment.
 
-## toekomstige context
+Omdat we het traject zoveel mogelijk in samenhang doorlopen en tempo willen behouden, starten we zo vroeg mogelijk met het opzetten en vaststellen van de expermentele context. Samen met interne en externe partners, het kenniscentrum creëeren we een gecontroleerde operationele omgeving met een eenheid in training, oefening of bij inzet.
+
+### toekomstige context
 ```{r, eieren-in-beweging-3, out.width="150px", fig.cap='Abstracte vormgeving van toekomstige context.', echo=FALSE}
 img_dir <- "data/images/"
 img_path <- "20210324-MDI-eieren-beweging-3.png"
@@ -85,8 +108,16 @@ img <- paste(img_dir, img_path, sep="", collapse=NULL)
 knitr::include_graphics(img)
 rm(img_dir, img_path, img)
 ```
+Het Ministerie Defensie schetste toekomstscenario's en formuleerde ambities en inrichtingsprincipes. De Koninklijke Landmacht beschreef een visie en ontwikkellijnen. Het is aan kennisadviseurs, kenniswerkers en subject matter experts om daarbinnen ambities, operationele wensen en behoeften, technologische ontwikkelingen en inventies te programmeren.
 
-Een beoogde effectbrenger voert activiteiten uit in een specifieke context zodat een gewenste situatie of gewenst effect ontstaat in de toekomst. Dit kan klein zijn zoals de invloed van een persoon in een eenheid of ambitieus zoals een informatie gestuurd landoptreden (IGO) in de visie CLAS. Deze gewenste eindsituatie wordt meegenomen in het denkmodel omdat de dit richting geeft aan het ontwikkelproces en de meerwaarde bepaald van de ontwikkelde effectbrenger.
+Dit bereiken we door samen met relevante actoren te werken aan een gemeenschappelijk beeld van de toekomstige setting waarin militaire capaciteiten optreden. Daarin worden ook de gewenste effecten gedefinieerd die het optreden moeten creëeren. De setting met de gewenste effecten maakt de toekomstige context.
+
+Door de toekomstige context in het denkmodel te plaatsen onstaat inzicht in de de ontwikkelrichting en meerwaarde van de beoogde effectbrenger. Dit inzicht draagt bij aan designkeuzes en indicatoren voor validatie.
+
+<!--
+We innoveren om in de toekomst relevant en --waar nodig-- dominant te blijven. Het ontwikkelen en implementeren van de juiste militaire capabilities kost tijd en energie. Een mate van richten, plannen en organiseren van innovatie en inregelen van randvoorwaarden is daarom wenselijk.
+-->
+
 <!--
 Een vraagstuk binnen het experiment is de haalbaarheid van het beoogde effect door de effectbrenger in de specifieke situatie. Afhankelijk van de experimenteer-omgeving zullen verschillende methoden worden toegepast om te kunnen valideren of het beoogde effect is bereikt.
 --

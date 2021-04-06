@@ -11,7 +11,7 @@ bookdown::gitbook:
     toolbar:
       position: fixed
     edit : null
-    download: ["pdf", "epub"]
+    # download: ["pdf", "epub"]
     search: yes
     fontsettings:
       theme: white
@@ -33,6 +33,7 @@ bookdown::pdf_book:
   latex_engine: xelatex
   citation_package: natbib
   keep_tex: yes
+  fig_caption : false
 bookdown::epub_book: default
 rmarkdown::ioslides_presentation: default
 bookdown::word_document2:

@@ -1,6 +1,10 @@
+---
+output:
+  pdf_document: default
+  html_document: default
+  word_document: default
+---
 # Introduction{#intro}
-
-<!-- ![CD&E logo and animation](data/keynote-slides/20200430-CDE-Designprocess/20200430-CDE-Designprocess.001.png") -->
 ```{r, fig.cap=' ', echo=FALSE}
 # img_dir <-
 img1_path <- "data/keynote-slides/20200430-CDE-Designprocess/20200430-CDE-Designprocess.001.png"
@@ -26,7 +30,7 @@ Veel van de CD&E-aanpak is door de groei, successen (en mislukkingen) en de omge
 In het vakgebied Military Design & Innovation borgen en delen we de kennis en vaardigheden in de exploratie van ambities, idee-generatie, vraagarticulatie, samenwerking met externe partijen en implementatie van nieuwe capablities.
 
 ## beleid
-<!-- ![](_bookdown_files/images/keynote-slides/20200430-CDE-Designprocess/20200430-CDE-Designprocess.005.png) -->
+<!-- downlaodable beleidsdocumenten toevoegen -->
 ```{r, fig.cap=' ', echo=FALSE}
 # img_dir <-
 img1_path <- "data/keynote-slides/20200430-CDE-Designprocess/20200430-CDE-Designprocess.005.png"
@@ -69,19 +73,22 @@ rm(img1_path, img1)
 ```
 
 Defensie breed is de lang-cyclische modernisering en innovatie ingericht als een ‘huis’. Dit kennis- en innovatie model is al jaren in gebruik en voorziet in vele instrumenten en processen om innovatie op lange termijn toe te passen. Echter het gebruiken van nieuwe snel opkomende innovaties kunnen hiermee niet adequaat worden getest en geïmplementeerd.
-```{r, fig.cap='K&I-huis Defensie ', echo=FALSE}
-# img_dir <-
-img1_path <- "data/images/BO-2016-Defensie-KI-huis.png"
-img1 <- readPNG(img1_path, native = TRUE, info = TRUE)
-knitr::include_graphics(img1_path)
-rm(img1_path, img1)
+
+
+```{r, ki-test, fig.cap='Visuele weergave van het kennis & innovatiehuis Defensie', echo=FALSE}
+img_dir <- "data/images/"
+img_path <- "BO-2016-Defensie-KI-huis.png"
+img <- paste(img_dir, img_path, sep="", collapse=NULL)
+knitr::include_graphics(img)
+rm(img_dir, img_path, img)
+
 ```
+
 
 Met CD&E werkt de Landmacht sinds 2015 aan het versnellen, verbinden en vermarkten van opkomende technologieën en ambities door het organiseren en structureren van innovatie in het tempo van de markt.
 
 ### CD&E binnen CLAS-modernisering {-}
-<!-- ![](_bookdown_files/images/keynote-slides/20200430-CDE-Designprocess/20200430-CDE-Designprocess.008.png)[fig:simpel-proces] -->
-```{r, simpel-proces, fig.cap='Eenvoudig CLAS moderniseringsproces met positionering van de CD&E-methodiek', echo=FALSE}
+```{r, simpel-proces, fig.cap="Eenvoudig CLAS moderniseringsproces met positionering van de CD&E-methodiek", echo=FALSE}
 # img_dir <-
 img1_path <- "data/keynote-slides/20200430-CDE-Designprocess/20200430-CDE-Designprocess.008.png"
 img1 <- readPNG(img1_path, native = TRUE, info = TRUE)
