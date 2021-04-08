@@ -61,9 +61,6 @@ idee-generatie
 vraag-articulatie
 traject-organiseren
 verwerving-en-levering
-ontwikkelen
-experimenteren
-valideren
 regisseren
 continue-dialoog
 cde-routines

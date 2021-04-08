@@ -15,7 +15,6 @@ Vanuit deze kennis, vaardigheid en ervaring is het CD&E design proces ontwikkeld
 Hierna volgen de verschillende bouwstenen die gebuikt kunnen worden om het design proces vorm te geven. De bijzondere volgorde waarin de bouwstenen worden gepresenteerd zijn het meest effectief in de bureaucratische overheidsorganisatie Defensie die tevens als Aanbestedende dienst wordt gekenmerkt in de aanbestedingswet.
 
 ## position into crafstmen
-<!-- ![](_bookdown_files/images/keynote-slides/20200430-CDE-Designprocess/20200430-CDE-Designprocess.019.png) -->
 ```{r, fig.cap='Het Military Design proces gepositioneerd in het EDL method.', echo=FALSE}
 # img_dir <-
 img1_path <- "data/keynote-slides/20200430-CDE-Designprocess/20200430-CDE-Designprocess.019.png"
@@ -27,8 +26,7 @@ rm(img1_path, img1)
 Positioning the proces into the frame of @gardien_changing_2014.
 
 ## CD&E framework 2017-2018 (descriptive)
-<!-- ![](_bookdown_files/images/keynote-slides/20200430-CDE-Designprocess/20200430-CDE-Designprocess.020.png) -->
-```{r, fig.cap='Eerste schets van het CD&E design model uit 2018. ', echo=FALSE}
+```{r, fig.cap='Eerste schets van het CD\\&E design model uit 2018. ', echo=FALSE}
 # img_dir <-
 img1_path <- "data/keynote-slides/20200430-CDE-Designprocess/20200430-CDE-Designprocess.020.png"
 img1 <- readPNG(img1_path, native = TRUE, info = TRUE)
@@ -45,8 +43,7 @@ Als methodiek is het model van @klinkers_navigeren_2014 toegepast waarin de aute
 Vanuit reflection in action ontstond het design-keten-proces, een basis template voor een CD&E-plan en een gemeenschappelijke taal.
 
 ## design-keten-proces 2018-2019
-<!-- ![](_bookdown_files/images/20190710-CDE-designproces_bouwstenenKeten.png) -->
-```{r, fig.cap='Eerste opzet van MD&I activiteiten.', echo=FALSE}
+```{r, fig.cap='Eerste opzet van MD\\&I activiteiten.', echo=FALSE}
 # img_dir <-
 img1_path <- "data/images/20190710-CDE-designproces_bouwstenenKeten.png"
 img1 <- readPNG(img1_path, native = TRUE, info = TRUE)
@@ -64,7 +61,6 @@ Trajecten van idee naar implementatie zijn uniek.
 Ieder traject een andere keten van bouwstenen.
 
 **de eerste canvassen**
-<!-- ![](_bookdown_files/images/keynote-slides/20200430-CDE-Designprocess/20200430-CDE-Designprocess.023.png) -->
 ```{r, fig.cap='Eerste canvassen prototype.', echo=FALSE}
 # img_dir <-
 img1_path <- "data/keynote-slides/20200430-CDE-Designprocess/20200430-CDE-Designprocess.023.png"
@@ -74,8 +70,7 @@ rm(img1_path, img1)
 ```
 
 **toetsingscriteria**
-<!-- ![](_bookdown_files/images/keynote-slides/20200430-CDE-Designprocess/20200430-CDE-Designprocess.024.png) -->
-```{r, fig.cap='De indicatoren voor Military Design & Innovation.', echo=FALSE}
+```{r, fig.cap='De indicatoren voor Military Design \\& Innovation.', echo=FALSE}
 # img_dir <-
 img1_path <- "data/keynote-slides/20200430-CDE-Designprocess/20200430-CDE-Designprocess.024.png"
 img1 <- readPNG(img1_path, native = TRUE, info = TRUE)
@@ -85,8 +80,7 @@ rm(img1_path, img1)
 
 Naast de canvassen en het mindmodel waren een aantal indicatoren opgesteld. Deze kregen helaas de naam selectie- of toetsingscriteria wat geen recht deed aan de kracht van indicatoren maar verwerd tot een binair goed/fout controle mechanisme. De indicatoren waren door mij opgesteld als reminder of checklist, ze moeten zijn overdacht en besproken in het proces. De mate waarin de indicator is doorgevoerd in het traject kan iets zeggen over de succesfactor op basis van eerdere kennis en ervaring.
 **variaties op denkmodellen**
-<!-- ![](_bookdown_files/images/keynote-slides/20200430-CDE-Designprocess/20200430-CDE-Designprocess.024-1.jpeg) -->
-```{r, fig.cap='Het RTDP-process is gebruikt als inspratie en methode om het MD&I te ontwikkelen.', echo=FALSE}
+```{r, fig.cap='Het RTDP-process is gebruikt als inspratie en methode om het MD\\&I te ontwikkelen.', echo=FALSE}
 # img_dir <-
 img1_path <- "data/keynote-slides/20200430-CDE-Designprocess/20200430-CDE-Designprocess.024-1.png"
 img1 <- readPNG(img1_path, native = TRUE, info = TRUE)
@@ -95,7 +89,6 @@ rm(img1_path, img1)
 ```
 
 **laatste ontwerp canvassen**
-<!-- ![](_bookdown_files/images/keynote-slides/20200430-CDE-Designprocess/20200430-CDE-Designprocess.025.png) -->
 ```{r, fig.cap='Final ontwerp canvassen.', echo=FALSE}
 # img_dir <-
 img1_path <- "data/keynote-slides/20200430-CDE-Designprocess/20200430-CDE-Designprocess.025.png"
@@ -105,7 +98,6 @@ rm(img1_path, img1)
 ```
 
 ## design-keten-proces 2019-2020
-<!-- ![](_bookdown_files/images/keynote-slides/20200430-CDE-Designprocess/20200430-CDE-Designprocess.026.png) -->
 ```{r, fig.cap='Verdieping van de uitvoering in drie activiteiten in 2019. ', echo=FALSE}
 # img_dir <-
 img1_path <- "data/keynote-slides/20200430-CDE-Designprocess/20200430-CDE-Designprocess.026.png"
@@ -120,7 +112,6 @@ Het woord traject is geïntroduceerd om het discours en de mindset te richten op
 
 Ieder traject van idee naar implementatie is uniek en bestaat uit een keten van bouwstenen specifiek voor het voorliggend vraagstuk.
 
-<!-- ![](_bookdown_files/images/keynote-slides/20200430-CDE-Designprocess/20200430-CDE-Designprocess.027.png) -->
 ```{r, fig.cap=' ', echo=FALSE}
 # img_dir <-
 img1_path <- "data/keynote-slides/20200430-CDE-Designprocess/20200430-CDE-Designprocess.027.png"

@@ -11,3 +11,7 @@ _bookdown_files/
 .Ruserdata
 *.Rproj
 render-book.R
+.gitignore
+*DS_Store
+apa.csl
+data

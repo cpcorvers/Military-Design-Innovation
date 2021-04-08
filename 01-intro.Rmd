@@ -75,7 +75,8 @@ rm(img1_path, img1)
 Defensie breed is de lang-cyclische modernisering en innovatie ingericht als een ‘huis’. Dit kennis- en innovatie model is al jaren in gebruik en voorziet in vele instrumenten en processen om innovatie op lange termijn toe te passen. Echter het gebruiken van nieuwe snel opkomende innovaties kunnen hiermee niet adequaat worden getest en geïmplementeerd.
 
 
-```{r, ki-test, fig.cap='Visuele weergave van het kennis & innovatiehuis Defensie', echo=FALSE}
+```{r, ki-test, fig.cap=paste(fig_caption), echo=FALSE}
+fig_caption <- "Visuele weergave van het kennis \\& innovatiehuis Defensie"
 img_dir <- "data/images/"
 img_path <- "BO-2016-Defensie-KI-huis.png"
 img <- paste(img_dir, img_path, sep="", collapse=NULL)
@@ -88,7 +89,8 @@ rm(img_dir, img_path, img)
 Met CD&E werkt de Landmacht sinds 2015 aan het versnellen, verbinden en vermarkten van opkomende technologieën en ambities door het organiseren en structureren van innovatie in het tempo van de markt.
 
 ### CD&E binnen CLAS-modernisering {-}
-```{r, simpel-proces, fig.cap="Eenvoudig CLAS moderniseringsproces met positionering van de CD&E-methodiek", echo=FALSE}
+```{r, simpel-proces, fig.cap=paste(fig_caption), echo=FALSE}
+fig_caption <- "Eenvoudig CLAS moderniseringsproces met positionering van de CD\\&E-methodiek"
 # img_dir <-
 img1_path <- "data/keynote-slides/20200430-CDE-Designprocess/20200430-CDE-Designprocess.008.png"
 img1 <- readPNG(img1_path, native = TRUE, info = TRUE)

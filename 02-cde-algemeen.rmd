@@ -45,7 +45,6 @@ De vele individuele of specifieke teamleden werden onder Specialisten geschaard.
 De aanpak is een olievlekwerking. Met trajecten en programma’s creëren we voorbeelden waardoor operationele en bedrijfsmatige knelpunten zichtbaar worden zodat deze geadresseerd kunnen worden bij de juiste entiteiten. Dit draagt bij aan het structureel kort-cyclisch moderniseren in het landoptreden.
 
 ### transitie 2020
-<!-- ![](_bookdown_files/images/keynote-slides/20200430-CDE-Designprocess/20200430-CDE-Designprocess.009-3.jpeg) -->
 ```{r, fig.cap='Van multi projecten via 3-horizon model naar routekaarten.', echo=FALSE}
 # img_dir <-
 img1_path <- "data/keynote-slides/20200430-CDE-Designprocess/20200430-CDE-Designprocess.009-3.png"
@@ -59,7 +58,6 @@ In 2020 deden we een herijking op het project portfolio zodat de focus blijft op
 Het werd tijd voor de volgende stap waarin meer richting wordt gegeven aan de initiatieven vanuit ambitie, markt tempo en markt potentieel. De programmatische aanpak werdt daarvoor gekozen. Programma-managers inventariseren moderniseringsinitiatieven bij de 9-14 kennisadviseurs m.b.v. Boill Sharp’s 3-horizon model en visualiseren deze initiatieven in een hiërarchie-boom-structuur die routekaart werd genoemd.
 
 ### organisatie 2021: programma management
-<!-- ![](_bookdown_files/images/keynote-slides/20200430-CDE-Designprocess/20200430-CDE-Designprocess.009-4.jpeg) -->
 ```{r, fig.cap='Organisatie structuur naar programmatische aanpak ', echo=FALSE}
 # img_dir <-
 img1_path <- "data/keynote-slides/20200430-CDE-Designprocess/20200430-CDE-Designprocess.009-4.png"
