@@ -13,5 +13,9 @@ _bookdown_files/
 render-book.R
 .gitignore
 *DS_Store
-apa.csl
-data
+*apa.csl
+data/
+.DS*
+.RHis*
+data/.DS*
+*.tex

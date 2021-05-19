@@ -119,3 +119,33 @@ img1 <- readPNG(img1_path, native = TRUE, info = TRUE)
 knitr::include_graphics(img1_path)
 rm(img1_path, img1)
 ```
+
+### CD&E routines 2019-2020
+<!-- ![](_bookdown_files/images/keynote-slides/20200430-CDE-Designprocess/20200430-CDE-Designprocess.034.png) -->
+```{r, fig.cap=' ', echo=FALSE}
+# img_dir <-
+img1_path <- "data/keynote-slides/20200430-CDE-Designprocess/20200430-CDE-Designprocess.034.png"
+img1 <- readPNG(img1_path, native = TRUE, info = TRUE)
+knitr::include_graphics(img1_path)
+rm(img1_path, img1)
+```
+
+In 2019 was het CD&E- budget gestegen tot €20M en was het portfolio voor het eerst groter dan het budget, €24M in 200+ projecten. We hebben ons gedwongen tot het —laten— maken van keuzen over de noodzaak, urgentie en haalbaarheid van de lopende projecten en nieuwe voorstellen. Dit proces betekende een herijking van de CD&E-inspanningen en vroeg om het beschouwen op de toetsingscriteria en fundamentele vragen over responsibility, accountability, projectduur en waarden van een project voor de organisatie.
+
+Daarbij moet in ogenschouw genomen worden dat we een bureaucratische overheidsorganisatie zijn en derhalve te maken hebben met kenmerken als ‘ministeriële verantwoordelijkheid’, ’continue verantwoording van uitgaven’ en ‘aanbestedende dienst’.  Ook de signaalwerking naar de eigenaren van de projecten is van belang. Initiatieven mogen niet worden ontmoedigt maar alles goedkeuren behoorde tot het verleden.
+
+Een herijkingsproces diende daardoor reproduceerbaar en uitlegbaar te zijn aan alle betrokken partijen tot aan de Minister. Het proces droeg ook bij aan een besluitvormingsproces voor de fase na herijking, zo ontstond uit de herijking een aantal routines om ook nieuwe voorstellen langs eenzelfde meetlat te leggen.
+
+### besluitvorming trajectvoorstellen 2019-2020
+<!-- ![](_bookdown_files/images/keynote-slides/20200430-CDE-Designprocess/20200430-CDE-Designprocess.037.png) -->
+```{r, fig.cap=' ', echo=FALSE}
+# img_dir <-
+img1_path <- "data/keynote-slides/20200430-CDE-Designprocess/20200430-CDE-Designprocess.037.png"
+img1 <- readPNG(img1_path, native = TRUE, info = TRUE)
+knitr::include_graphics(img1_path)
+rm(img1_path, img1)
+```
+
+Voorafgaand aan de besluitvorming wordt een stafadvies opgesteld door de CD&E trajectbegeleider, S&P dossierhouder en CD&E programma-manager. Dit advies ontstaat door het beschouwen van het project-voorstel op de toetsingscriteria en wordt voorbereid en samengevat door de teamleider trajectbegeleiding. De focus ligt op noodzaak en urgentie van het voorstel ten opzichte van staande beleid en visie, veel gebruikte referenties zijn de visie C-LAS “Veiligheid en vooruitzien” en het Operationeel kader landoptreden (OKL). Na de inhoudelijke beschouwing worden eventuele financiële middelen toebedeeld.
+
+Besluitvorming over een traject ligt in principe bij de Directeur Kennis & Ontwikkeling, dankzij de getoonde systematische aanpak is het vertrouwen gegeven om dit binnen CD&E te beleggen.

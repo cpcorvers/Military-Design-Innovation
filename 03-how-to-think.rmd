@@ -6,7 +6,7 @@ De technologische en sociale innovaties gaan echter zo snel dat ook op andere, s
 Military Design & Innovation geeft manieren om innovatie bij de Landmacht uit te voeren in het tempo van de markt. Centraal staat daarbij een integrale aanpak, met externe partijen door experimenten. Het denkmodel wat we hierbij gebruiken heet 'de effectbrenger'.
 
 ## effectbrenger
-```{r, mmm-model, out.width="350", fig.cap='De unieke combinatie van mens, manier en middel maakt een effectbrenger.', echo=FALSE}
+```{r, mmm-model, out.width="35%", fig.cap='De unieke combinatie van mens, manier en middel maakt een effectbrenger.', echo=FALSE}
 img_dir <- "data/images/"
 img_path <- "20210324-MDI-mmm-model.png"
 img <- paste(img_dir, img_path, sep="", collapse=NULL)
