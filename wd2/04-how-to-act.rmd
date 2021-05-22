@@ -223,6 +223,7 @@ Een systematische validatie van het idee in de experiment context ontbreekt op d
 
 Data wordt verkregen door het verschil te meten tussen de huidige context met huidige effectbrengers en de experimentele context met beoogde effectbrenger. Na processing en analyse kan deze data worden beschouwd op de gewenste context om zodoende iets zinnigs te kunnen zeggen over de haalbaarheid, nut en noodzaak van het ontwerp.
 -->
+
 ## workflow
 > DISCLAIMER: Tijdens het schrijven ontdek ik steeds beter hoe de verschillende aspecten van Military Design & Innovation geduid kunnen worden zodat het overdraagbaar zijn aan collega's en geinteresseerde. In het proces van herschrijven zit ik momenteel bij deze paragraaf. De navolgende tekst bevat vooral stacato tekst.
 
@@ -284,6 +285,7 @@ netwerk of keten regisseren -->
 In het ontwikkelen van een innovatievraagstuk beschouwen wij deze als een ongetemd probleem in een complexe context. Werken aan deze vraagstukken kenmerkt zich door botsende logica's, ontbrekende mandaten en rollen, gedeelde verantwoordelijkheid en verdeeldheid over probleem en oplossingsrichting. Een effectieve manier om de innovatievraagstukken in een netwerk van partners te ontwikkelen is het geheel in een multi-actoren netwerk te benaderen en hierop procesregie te voeren.
 
 > in writing
+
 <!-- uit rapport kompassi -->
 <!--
 Een netwerkorganisatiestructuur is  te beschouwen als een verzameling actoren die gedragingen uitwisselen. Deze individuen gaan tijdelijke relaties aan in verschillende collectieven. Zo'n collectief ontwikkelt eigen belangen, standpunten, gewenste resultaten en daarmee eigen gedrag. Dit gedrag zorgt voor een nieuwe dynamiek binnen het collectief en vanuit het collectief richting de omgeving. Geen relatie heeft een permanente status maar ze vertonen op abstract niveau langere tijd gelijkenis.
