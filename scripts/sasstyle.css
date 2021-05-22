@@ -1,0 +1,362 @@
+body {
+  width: 650px;
+  display: flex;
+  flex-direction: row;
+  min-height: 100vh;
+  background: #f7f7f7;
+  font-family: "Roboto Slab", "Helvetica Neue", Helvetica, Arial, sans-serif;
+}
+
+header {
+  position: fixed;
+}
+
+main.home {
+  width: 100%;
+  height: auto;
+}
+
+footer {
+  font-size: 1rem;
+  color: #ff6000;
+  bottom: 0.4rem;
+  right: 1rem;
+  text-align: right;
+  padding: 1rem;
+}
+
+table, th, td {
+  border: 1px solid #3b3b3b;
+  border-collapse: collapse;
+}
+
+.window-container {
+  margin: 0;
+}
+
+.grid-container {
+  display: inline-grid;
+  grid-template-columns: auto 200px 60px;
+  grid-template-rows: 55px auto 35px;
+  width: 100%;
+  margin: 0;
+}
+
+.grid-cells {
+  display: flex;
+  justify-content: flex-start;
+  text-align: left;
+}
+
+.cellA1, .cellA2 {
+  grid-row: 1;
+  align-items: center;
+  background-position: center center;
+  background-repeat: no-repeat;
+  background-image: url("../images/bg.png");
+  padding: 10px;
+}
+
+.cellA1 {
+  grid-column: 3;
+  justify-content: flex-end;
+  z-index: 5;
+}
+
+.cellA2 {
+  grid-column: 1/span 2;
+  text-indent: 10px;
+  justify-content: center;
+  align-content: center;
+}
+
+.cellB {
+  grid-column: 1/span 3;
+  grid-row: 2;
+  display: inline;
+}
+
+.cellC {
+  grid-column: 1/span 3;
+  grid-row: 3;
+  text-align: right;
+  font-color: #303030;
+}
+
+@media (min-width: 768px) {
+  .window-container {
+    width: 80vw;
+    background-size: auto;
+    background-image: url("../images/bg.png");
+    margin: auto;
+  }
+
+  .cellA1, .cellA2 {
+    align-items: center;
+    background-color: #3b3b3b;
+    background-image: none;
+  }
+
+  .grid-cells {
+    padding: 10px;
+  }
+}
+.case-container {
+  display: grid;
+  grid-template-columns: 100%;
+  grid-template-rows: 200px auto;
+  place-items: center;
+  grid-auto-flow: row;
+  justify-content: center;
+  margin: 0;
+}
+
+.case-cells {
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  flex-flow: row wrap;
+  width: 100%;
+  flex-basis: 25vw;
+}
+
+.case-cellA {
+  grid-row: 1;
+  width: 100%;
+  height: 200px;
+  flex-flow: column nowrap;
+  color: #ff6000;
+  background-color: #3b3b3b;
+  background-size: cover;
+  background-position: center center;
+  background-repeat: no-repeat;
+}
+
+.case-cellB {
+  grid-row: 2;
+}
+
+.case-content {
+  width: 90vw;
+}
+
+@media (min-width: 768px) {
+  .case-container {
+    display: grid;
+    grid-template-columns: 70vw;
+    grid-template-rows: 200px auto;
+    grid-gap: 20px;
+    place-items: center;
+    grid-auto-flow: row;
+    justify-content: center;
+  }
+
+  .case-content {
+    width: 70%;
+  }
+}
+a.portfolio:hover {
+  color: #c1c1c1;
+}
+
+.portfolio-container {
+  display: grid;
+  grid-gap: 20px;
+  justify-content: center;
+  padding: 10px;
+}
+
+.portfolio-cells {
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  flex-flow: row wrap;
+  width: 90vw;
+  background-color: #303030;
+}
+
+.portfolio-cellA {
+  width: 100%;
+  height: 200px;
+  background-color: #3b3b3b;
+  background-size: cover;
+  background-position: center center;
+  background-repeat: no-repeat;
+  vertical-align: middle;
+}
+
+.portfolio-cellB {
+  text-align: center;
+  font-size: 18px;
+  color: #f7f7f7;
+}
+
+.portfolio-link {
+  background-color: #ff600077;
+  transition: 0.5s ease;
+  opacity: 0;
+  width: 100%;
+  height: 100%;
+}
+
+.portfolio-link:hover {
+  opacity: 1;
+}
+
+.portfolio-link-text {
+  font-family: "Roboto Slab", "Helvetica Neue", Helvetica, Arial, sans-serif;
+  font-size: 1.3rem;
+  color: #f7f7f7;
+  text-align: center;
+  height: 100%;
+}
+
+@media (min-width: 768px) {
+  .portfolio-container {
+    grid-template-columns: repeat(auto-fill, minmax(300px, 1fr));
+    grid-gap: 10px;
+  }
+
+  .portfolio-cells {
+    width: auto;
+  }
+}
+h1, a.brand, h2, h3 {
+  font-family: "Montserrat", "Helvetica Neue", Helvetica, Arial, sans-serif;
+  font-size: 2rem;
+  font-weight: 700;
+  text-color: #ff6000;
+  text-transform: uppercase;
+  text-align: left;
+}
+
+h2 {
+  font-size: 1.1rem;
+  font-variant: normal;
+  margin-top: 10px;
+}
+
+h3 {
+  font-size: 1rem;
+  font-variant: normal;
+}
+
+li {
+  padding: 10px;
+  border: 1px solid;
+  margin: 10px;
+}
+
+ul {
+  list-style-type: none;
+  padding: 0;
+}
+
+a {
+  text-decoration: none;
+  color: #ff6000;
+  margin: 0;
+  font-family: "Roboto Slab", "Helvetica Neue", Helvetica, Arial, sans-serif, -apple-system;
+  font-stretch: condensed;
+  background-repeat: no-repeat;
+  background-stretch: condensed;
+}
+a:hover {
+  color: #303030;
+}
+
+a.brand {
+  font-weight: 300;
+}
+
+a.brand:hover {
+  font-weight: 500;
+  color: #f7f7f7;
+}
+
+.thumbnail {
+  color: #303030;
+}
+
+.button {
+  text-align: center;
+  font-family: "Montserrat", "Helvetica Neue", Helvetica, Arial, sans-serif;
+  font-size: 18px;
+  padding: 5px;
+  background-color: #3b3b3b;
+  border-radius: 2px;
+  margin: 10px;
+}
+
+.button:hover {
+  background-color: #ff600077;
+}
+
+.img-centered, img {
+  margin: 0 auto;
+  display: block;
+  width: 100%;
+  max-width: 100%;
+  height: auto;
+}
+
+.drop-menu {
+  display: flex;
+  flex-direction: column;
+  align-items: flex-end;
+  position: fixed;
+  height: 35px;
+  width: 50px;
+  image: url("../images/menu.png");
+  background-color: #ff6000;
+  background-repeat: no-repeat;
+  background-image: url("../images/menu.png");
+  background-position: center;
+  background-size: 35px 35px;
+  border-radius: 5px;
+}
+
+.drop-menu-content {
+  display: none;
+  min-width: 60px;
+  min-height: 55px;
+  margin: 35px 0 0 0;
+  position: absolute;
+  padding: 5px;
+  background-color: #303030;
+}
+
+.drop-menu:hover .drop-menu-content {
+  display: block;
+}
+
+.drop-menu:focus .drop-menu-content {
+  display: block;
+  display-background-color: #3b3b3b;
+}
+
+.drop-menu-item, .drop-menu-current {
+  text-decoration: none;
+  text-align: center;
+  text-transform: uppercase;
+  display: block;
+  color: #f7f7f7;
+  padding: 10px 20px;
+  font-family: "Montserrat", "Helvetica Neue", Helvetica, Arial, sans-serif, -apple-system;
+  font-size: 1.2rem;
+  min-width: 65px;
+}
+.drop-menu-item:hover, .drop-menu-current:hover, .drop-menu-item :focus, .drop-menu-current :focus {
+  background-color: #c1c1c1;
+  color: #ff6000;
+}
+
+.drop-menu-current {
+  color: #ff6000;
+}
+.drop-menu-current:hover, .drop-menu-current :focus {
+  background-color: #c1c1c1;
+  color: #ff6000;
+}
+
+/*# sourceMappingURL=sasstyle.css.map */

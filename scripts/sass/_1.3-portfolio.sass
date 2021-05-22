@@ -1,0 +1,62 @@
+$thumbnail-width: 300px
+$thumbnail-height: 200px
+
+a.portfolio:hover
+  color: $mycolor-3
+
+
+.portfolio-container
+  display: grid
+  grid-gap: 20px
+  justify-content: center
+  padding: $padding
+
+.portfolio-cells
+  display: flex
+  align-items: center
+  justify-content: center
+  flex-flow: row wrap
+  width: $thumbnail-width-small
+  background-color: $mycolor-5
+
+.portfolio-cellA
+  width: 100%
+  height: $thumbnail-height
+  background:
+    color: $mycolor-4
+    size: cover
+    position: center center
+    repeat: no-repeat
+  vertical-align: middle
+
+.portfolio-cellB
+  text-align: center
+  font-size: 18px
+  color: $mycolor-2
+
+.portfolio-link
+  background-color: $mycolor-hover
+  transition: .5s ease
+  opacity: 0
+  width: 100%
+  height: 100%
+
+.portfolio-link:hover
+  opacity: 1
+
+.portfolio-link-text
+  font:
+   family: $myfont-body
+   size: 1.3rem
+  color: $mycolor-2
+  text:
+   align: center
+  height: 100%
+
+@media(min-width: $media-min-width)
+  .portfolio-container
+    grid-template-columns: repeat(auto-fill, minmax($thumbnail-width, 1fr))
+    grid-gap: $padding
+
+  .portfolio-cells
+    width: auto

@@ -1,0 +1,66 @@
+h1, h2, h3
+  font:
+   family: $myfont-head
+   size: 2.0rem
+   weight: 700
+  text:
+   color: $mycolor-1
+   transform: uppercase
+   align: left
+
+// .title
+//   font:
+//    weight: 500
+
+// .brand
+//   font:
+//     weight: 300
+//   text:
+//    color: $mycolor-2
+
+h2
+  font:
+   size: 1.1rem
+   variant: normal
+  margin-top: 10px
+
+h3
+  font:
+   size: 1.0rem
+   variant: normal
+
+li
+  padding: 10px
+  border: 1px solid
+  //$mycolor-5
+  margin: 10px
+ul
+  list-style-type: none
+  padding: 0
+
+a
+  text:
+    decoration: none
+    // color: $mycolor-2
+  color: $mycolor-1
+  margin: 0
+  font:
+    family: $myfont-body, -apple-system
+    stretch: condensed
+  background:
+    repeat: no-repeat
+    stretch: condensed
+
+  &:hover
+    // background-color: $mycolor-5
+    color: $mycolor-5
+
+a.brand
+  @extend h1
+  font:
+    weight: 300
+
+a.brand:hover
+  font:
+    weight: 500
+  color: $mycolor-2
