@@ -402,7 +402,8 @@ img_path <- "20200430-CDE-Designprocess.035.png"
 img <- paste(img_dir, img_path, sep="", collapse=NULL)
 knitr::include_graphics(img)
 rm(img_dir, img_path, img)
-``` -->
+``` 
+-->
 
 Om alle belanghebbende te kunnen informeren over het vraagstuk, de aanpak en de uitkomsten worden een aantal documenten gebruikt.
 Een CD&E-plan beschrijft of visualiseert voornamelijk het probleem, probleem-context, vraag, betrokken partijen, projectorganisatie, beoogde effect en globale aanpak voor ontwikkelen, experimenteren en valideren.
