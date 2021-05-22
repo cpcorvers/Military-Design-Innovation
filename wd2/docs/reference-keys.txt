@@ -65,8 +65,8 @@ traject-organiseren
 verwerving-en-levering
 workflow
 fasering
-proces-benadering
 rollen-1
+netwerk-benadering
 regisseren
 succes-indicatoren
 continue-dialoog
