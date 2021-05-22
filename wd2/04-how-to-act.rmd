@@ -224,7 +224,7 @@ Een systematische validatie van het idee in de experiment context ontbreekt op d
 Data wordt verkregen door het verschil te meten tussen de huidige context met huidige effectbrengers en de experimentele context met beoogde effectbrenger. Na processing en analyse kan deze data worden beschouwd op de gewenste context om zodoende iets zinnigs te kunnen zeggen over de haalbaarheid, nut en noodzaak van het ontwerp.
 -->
 ## workflow
-> DISCLAIMER: Tijdens het schrijven ontdek ik steeds beter hoe de verschillende aspecten van Military Deesign & Innovation geduid kunnen worden zodat het overdraagbaar is aan collega's en geinteresseerde. In het proces van herschrijven zit ik momenteel bij deze paragraaf. De navolgende tekst bevat vooral stacato tekst.
+> DISCLAIMER: Tijdens het schrijven ontdek ik steeds beter hoe de verschillende aspecten van Military Design & Innovation geduid kunnen worden zodat het overdraagbaar zijn aan collega's en geinteresseerde. In het proces van herschrijven zit ik momenteel bij deze paragraaf. De navolgende tekst bevat vooral stacato tekst.
 
 Met de voorgaande paragrafen kwamen de tools en technieken van de crafstman aan bod. In deze paragraaf kijken we vooral wanneer de begeleider deze tools en technieken toepast en in welke volgordelijkheid. Deze workflow of proces is geen voorgeschreven set aan regels, formules of procedures maar een situationeel en context afhankelijk toepassen van de meest effectief voorhande tools en technieken om het idee te laten slagen. Het proces heeft één gemeenschappelijk resultaat, het doorontwikkelen van de ambitie of het specifieke idee tot implementatie van een vernieuwd concept in het landoptreden.
 
@@ -238,7 +238,7 @@ img <- paste(img_dir, img_path, sep="", collapse=NULL)
 knitr::include_graphics(img)
 rm(img_dir, img_path, img)
 ```
-Het proces kent drie fasen; het ontwikkelen van een plan, experimenteren met het idee en valideren van de resultaten. Deze fasen moeten leiden tot implementatie waar Military Desing & Innovation in principe de verantwoordelijkheid overdraagd aan de staande organisatie.
+Het proces kent drie fasen; het ontwikkelen van een plan, experimenteren met het idee en valideren van de resultaten. Deze fasen moeten leiden tot implementatie waar Military Design & Innovation in principe de verantwoordelijkheid overdraagd aan de staande organisatie.
 
 Tijdens de ontwikkelfase worden ambities verwoord, ideeën gegenereerd, vragen gearticuleerd en het samenwerkverband georganiseerd. Afhankelijk van het vraagstuk kan dit abstract of onduidelijk zijn maar ook specifiek en gedetaileerd. De ontwikkelfase resulteerd in een plan waarin staat wie -in beginsel- samenwerkt, wat het gemeenschappelijk resultaat is en via welke route het samenwerkverband het gemeenschappelijk resultaat hoopt te bereiken.
 
@@ -276,23 +276,25 @@ De trajectbegeleider neemt verschillende rollen aan die bijdragen aan het succes
 
 De trajectebgeleider begeleidt de betrokken partijen bij de (door)ontwikkeling van het idee naar de beoogde effectbrenger. De nadruk ligt op het overbrengen van de kennis in Military Design & Innovation, ervaringen in de systeemwereld van Defensie en specifieke vaardigheden, zodat een helder overdraagbaar plan wordt opgesteld door de idee-inbrenger of opdrachtgever. Ook worden de partners begeleid in het krijgen van de primaire focus op het implementeerbaar maken en houden van de beoogde effectbrenger.
 
-randvoorwaarden faciliteren
+<!--randvoorwaarden faciliteren
 
-netwerk of keten regisseren
+netwerk of keten regisseren -->
 
 ### netwerk benadering
 In het ontwikkelen van een innovatievraagstuk beschouwen wij deze als een ongetemd probleem in een complexe context. Werken aan deze vraagstukken kenmerkt zich door botsende logica's, ontbrekende mandaten en rollen, gedeelde verantwoordelijkheid en verdeeldheid over probleem en oplossingsrichting. Een effectieve manier om de innovatievraagstukken in een netwerk van partners te ontwikkelen is het geheel in een multi-actoren netwerk te benaderen en hierop procesregie te voeren.
 
+> in writing
 <!-- uit rapport kompassi -->
-Een netwerkorganisatiestructuur is <!--te identificeren door het systeem holistisch--> te beschouwen als een verzameling actoren die gedragingen uitwisselen. Deze individuen gaan tijdelijke relaties aan in verschillende collectieven. Deze collectieven ontwikkelen eigen belangen, standpunten, gewenste resultaten en daarmee eigen gedrag. Dit gedrag zorgt voor een nieuwe dynamiek binnen het collectief en vanuit het collectief richting de omgeving. Geen relatie heeft een permanente status maar ze vertonen op abstract niveau langere tijd gelijkenis.
+<!--
+Een netwerkorganisatiestructuur is  te beschouwen als een verzameling actoren die gedragingen uitwisselen. Deze individuen gaan tijdelijke relaties aan in verschillende collectieven. Zo'n collectief ontwikkelt eigen belangen, standpunten, gewenste resultaten en daarmee eigen gedrag. Dit gedrag zorgt voor een nieuwe dynamiek binnen het collectief en vanuit het collectief richting de omgeving. Geen relatie heeft een permanente status maar ze vertonen op abstract niveau langere tijd gelijkenis.
 
-In collectieve besluitvorming is back-stage onderhandeld over een win-win situatie en front-stage straalt het collectief daadkracht uit. Tijdens de back-stage dynamiek is alles onderhandelbaar en zijn veel waarden te onderkennen. Door elkaar te vinden in de kernwaarden en deze te respecteren wordt het beste resultaat geboekt. Het is van belang conflicten te onderscheiden in relatie- en taakconflicten want zij vragen verschillende aanpak in individueel- en systeem perspectief.
+In collectieve besluitvorming wordt back-stage onderhandeld over een win-win situatie terwijl het collectief front-stage daadkracht uitstraalt. Back-stage is alles onderhandelbaar en worden veel waarden (values) onderkent. Door elkaar te vinden in de kernwaarden en deze te respecteren wordt het beste resultaat geboekt.
+<!--Het is van belang conflicten te onderscheiden in relatie- en taakconflicten want zij vragen verschillende aanpak in individueel- en systeem perspectief.
 
-De centrale actor (u als lezer bijvoorbeeld) bouwt aan interpersoonlijke en intergroep-dimensies waardoor relaties worden opgebouwd en verstevigd. Dit geeft de centrale actor resources en betrouwbaarheid waarmee de positie wordt verstevigd. Door te variëren in rollen wordt flexibiliteit behouden. Functioneel richt de centrale actor zich op het gezamenlijk resultaat kan worden geformuleerd door het creëren van draagvlak en onderling begrip. Hierbij staan win-win perceptie, kernwaarden, feedback en con-tekst op de voorgrond. Rekening houdend met de wil van iedere actor om iets realiseren (ontwikkelen) en zich te handhaven (overleven).
+De actoren bouwen aan interpersoonlijke en intergroep-dimensies. Hierdoor bouwen en verstevigen actoren hun onderlinge relaties. Dit geeft de actor resources en betrouwbaarheid wat de positie verstevigd. Functioneel richt de actor zich op het formuleren van een gezamenlijk resultaat en daardoor ontstaat er draagvlak en onderling begrip. De win-win perceptie, kernwaarden, feedback en con-tekst staan op de voorgrond. Ook moet men rekening houdend met de wil van iedere actor om iets realiseren (ontwikkelen) en zich te handhaven (overleven).
 
 Een ketenregisseur die voor het samenwerkingsverband leiderschapstaken vervult, kan ook een centrale actor zijn. Daarbij is zijn enig belang het gemeenschappelijk resultaat en is het voortbestaan van het samenwerkingsverband belangrijker dan het behouden van de leiderschapstaken. Met andere woorden, een ketenregisseur kan zichzelf overbodig maken in een samenwerkingsverband.
 
-<!--
 Systeem: "A whole defined by one or more functions, that consists of two or more essential parts that satisfy the following conditions: (a) each of these parts can affect the behaviour or properties of the whole; (b) none of these parts has an independent effect on the whole; the way an essential part affects the whole depends on what other parts are doing; and (c) every possible subset of the essential parts can affect the behaviour or properties of the whole but none can do so independently of the others". (Ackoff, 1998, p.28)
 
 Organisaties
@@ -310,8 +312,7 @@ Het voorbeeld van Shell laat zien dat het voortbestaan van de organisatie is gek
 ### regisseren
 Deze paragraaf 'regisseren' zal gaan over verschillende vormen om de relevante activiteiten parallel en/of volgordelijk te laten verlopen. Oftewel het regisseren van een traject, project en programma. Ook een korte toelichting op de verschillen tussen traject, project en programma worden toegevoegd.
 
-onder constructie:
-traject- en procesregie en projectbegeleiding.
+> onder constructie: traject- en procesregie en projectbegeleiding.
 
 ### succes-indicatoren
 <!-- ![](_bookdown_files/images/keynote-slides/20200430-CDE-Designprocess/20200430-CDE-Designprocess.038.png) -->
@@ -394,13 +395,14 @@ Deze nieuwe activiteit is onderdeel van de doorontwikkeling van Military Design 
 -->
 
 ### communicatie in het CD&E-traject
+<!--
 ```{r, fig.cap=' ', out.width="450px", echo=FALSE}
 img_dir <- "data/keynote-slides/20200430-CDE-Designprocess/"
 img_path <- "20200430-CDE-Designprocess.035.png"
 img <- paste(img_dir, img_path, sep="", collapse=NULL)
 knitr::include_graphics(img)
 rm(img_dir, img_path, img)
-```
+``` -->
 
 Om alle belanghebbende te kunnen informeren over het vraagstuk, de aanpak en de uitkomsten worden een aantal documenten gebruikt.
 Een CD&E-plan beschrijft of visualiseert voornamelijk het probleem, probleem-context, vraag, betrokken partijen, projectorganisatie, beoogde effect en globale aanpak voor ontwikkelen, experimenteren en valideren.
