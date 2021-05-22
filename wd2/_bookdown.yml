@@ -1,0 +1,7 @@
+book_filename: "military-design-and-innovation"
+delete_merged_file: true
+language:
+  ui:
+    chapter_name: "Chapter "
+repo: https://github.com/cpcorvers/Military-Design-Innovation
+output_dir: docs
