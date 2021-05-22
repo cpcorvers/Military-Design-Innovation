@@ -1,0 +1,61 @@
+.drop-menu
+  display: flex
+  flex-direction: column
+  align-items: flex-end
+  position: fixed
+  height: $menu-height
+  width: $menu-width
+  image: $myimage-menu
+  // color: $mycolor-2
+  background:
+    color: $mycolor-1
+    repeat: no-repeat
+    image: $myimage-menu
+    position: center //left top
+    size: $menu-height $menu-height
+  border:
+    radius: 5px
+
+.drop-menu-content
+   display: none
+   min-width: $nav-width
+   min-height: $nav-height
+   margin: $menu-height 0 0 0
+   position: absolute
+   padding: 5px
+   // z-index: 10
+   background:
+     color: $mycolor-5
+
+.drop-menu:hover .drop-menu-content
+  display: block
+
+.drop-menu:focus .drop-menu-content
+  display: block
+   background:
+     color: $mycolor-4
+
+.drop-menu-item
+  text:
+    decoration: none
+    align: center
+    transform: uppercase
+  display: block
+  color: $mycolor-2
+  padding: 10px 20px
+  font:
+    family: $myfont-head, -apple-system
+    size: 1.2rem
+  min-width: 65px
+
+  &:hover, :focus
+   background-color: $mycolor-3
+   color: $mycolor-1
+
+.drop-menu-current
+  @extend .drop-menu-item
+  color: $mycolor-1
+
+  &:hover, :focus
+   background-color: $mycolor-3
+   color: $mycolor-1
