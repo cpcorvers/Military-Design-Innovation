@@ -49,8 +49,8 @@ beschrijft hoe te denken in effecten en effectbrengers.
 **[How to act](#cde-design-model)**
 geeft handvatten in het ontwikkelen en experimenteren met effectbrengers zoals technieken en tools voor het articuleren, organiseren, uitvoeren en rapporteren. Ook beschrijft dit hoofdstuk hoe de effectbrengers in een samenwerking met interne- en externe partijen ontwikkeld wordt.
 
-**[CD&E routines](#cde-routines)**
-beschrijft procedures voor besluitvorming over moderniseringsvoorstellen.
+<!-- **[CD&E routines](#cde-routines)** -->
+<!-- beschrijft procedures voor besluitvorming over moderniseringsvoorstellen. -->
 
 **[Ontstaansgeschiedenis en doorontwikkeling.](#cde-process)**
 Transformatie is continue leren en vernieuwen, ook onze tools en technieken transformeren. In dit hoofdstuk zijn de eerdere versies van onze tools, technieken en structuren terug te lezen.

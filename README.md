@@ -1,1 +1,2 @@
-This is a minimal example of a book based on R Markdown and **bookdown** (https://github.com/rstudio/bookdown). Please see the page "Get Started" at https://bookdown.org/home/about/ for how to compile this example.
+This is a project for a digital book on Military Design & Innovation. Also a orientation / preperation on a PhD-research.
+For information please contact via cp.corvers at disroot dot org.

@@ -1,9 +1,9 @@
 # How to think{#kort-cyclisch-moderniseren}
-De landmacht is een overheids organisatie die -waar nodig- een zwaardmacht moet zijn op plekken waar vrede en veiligheid geen vanzelfsprekendheid is. Vanuit de grondwettelijke taken is afgeleid hoe de Landmacht optreedt, welke materieel en personele middelen daarvoor nodig zijn en hoe dit wordt georganiseerd. Deze lineaire denkmodellen dragen decenia lang bij aan de innovatie in het landoptreden. De bestaande Landmacht organisatie is in een continue verbeter modus vanuit deze volgordelijkheid.
+De landmacht is een overheidsorganisatie die -waar nodig- een zwaardmacht moet zijn op plekken waar vrede en veiligheid geen vanzelfsprekendheid is. Vanuit de grondwettelijke taken is afgeleid hoe de Landmacht optreedt, welke materieel en personele middelen daarvoor nodig zijn en hoe dit wordt georganiseerd. Deze lineaire denkmodellen dragen decenia lang bij aan de innovatie in het landoptreden. De bestaande Landmacht organisatie is in een continue verbeter modus vanuit deze volgordelijkheid.
 
-De technologische en sociale innovaties gaan echter zo snel dat ook op andere, snellere manieren moet worden gekeken naar modernisering van de bestaande organisatie en vernieuwing voor de toekomstige organisatie.
+De technologische en sociale innovaties gaan echter zo snel dat ook op andere, snellere manieren wordt gekeken naar modernisering van de bestaande organisatie en vernieuwing voor de toekomstige organisatie. Military Design & Innovation geeft nieuwe manieren om innovatie bij de Landmacht uit te voeren in het tempo van de markt. Centraal staat daarbij een integrale aanpak met externe partijen.
 
-Military Design & Innovation geeft manieren om innovatie bij de Landmacht uit te voeren in het tempo van de markt. Centraal staat daarbij een integrale aanpak, met externe partijen door experimenten. Het denkmodel wat we hierbij gebruiken heet 'de effectbrenger'.
+Nieuwe manieren vragen om anders denken en doen dan we gewend waren. In dit hoofdstuk beschrijven we een aantal relevante denkmodellen en enkele terminologie om die gezamenlijke veranderopgaaf te ondersteunen.
 
 ## effectbrenger
 ```{r, mmm-model, out.width="35%", fig.cap='De unieke combinatie van mens, manier en middel maakt een effectbrenger.', echo=FALSE}
@@ -33,6 +33,7 @@ img <- paste(img_dir, img_path, sep="", collapse=NULL)
 knitr::include_graphics(img)
 rm(img_dir, img_path, img)
 ```
+
 ## effect{#effect}
 De activiteiten en output genereren een reactie in de omgeving, het indirect te relateren, effect. Dit creëert de waarde en impact van de effectbrenger in een specifieke context.
 
@@ -46,33 +47,19 @@ rm(img_dir, img_path, img)
 
 Het feit dat de context veranderd bij het inbrengen of activeren van een effectbrenger is geen causaliteit maar hoogstens een correlatie. Gedegen experimenteren en valideren is daarom van belang.
 
-<!--
-## gewenst effect en ambitie
-```{r, eieren, fig.cap='Abstracte vormgeving van drie situaties of contexten in een experiment.', echo=FALSE}
-# img_dir <-
-img1_path <- "data/keynote-slides/20200430-CDE-Designprocess/20200430-CDE-Designprocess.011.png"
-img1 <- readPNG(img1_path, native = TRUE, info = TRUE)
-knitr::include_graphics(img1_path)
-rm(img1_path, img1)
-```
--->
-
 ## context
 In de beschrijving van de paragraaf \@ref(effect) effecten werd een eerste relatie gelegd met een context. In deze paragraaf \@ref(context) worden de soorten context beschreven die regelmatig terugkomen binnen Military Design & Innovation. Allereerst een kleine 'side step' over de betekenis van context.
 
-Oxford Dictionary spreekt over "The circumstances that form the setting for an event, statement, or idea, and in terms of which it can be fully understood.""[@context] en het Van Dale woordenboek definieert context als 'samenhang'. De beschrijving die Military Design & Innovation --voorlopig-- aanhoudt is:
+Oxford Dictionary spreekt over "The circumstances that form the setting for an event, statement, or idea, and in terms of which it can be fully understood."[@context] en het Van Dale woordenboek definieert context als "samenhang". De beschrijving die Military Design & Innovation --voorlopig-- aanhoudt is:
 
->"de plaats- en tijdsgebonden setting van samenhangende relevante actoren en factoren van invloed rondom een specifieke effectbrenger, bezien vanuit verschillende standpunten, perspectieven en percepties".
+>"de plaats- en tijdsgebonden setting van samenhangende relevante actoren en factoren van invloed rondom een specifieke effectbrenger of vraagstuk, bezien vanuit verschillende standpunten, perspectieven en percepties".
 
-De context is daarmee beschrijvend en geeft betekenis aan de opgaaf, eenheid en effectbrenger. Bij het innoveren, moderniseren en transformeren binnen de Koninklijke Landmacht is de setting gedefinieerd als 'het landoptreden', zodat de inspanningen gericht blijven op de operationele taak. We onderscheiden hierin de probleem, experimentele en toekomstige context.
+Hierdoor onstaan twee contexten binnen Military Design & Innovation. Allereerst de operationele context rondom het design van een vernieuwende operationele capaciteit, en als tweede de organisatie context rondom het innovatietraject wat een idee of ambitie naar implementatie brengt.
 
-Actoren en factoren die nodig zijn voor een innovatie worden binnen Military Design & Innovation gezien als randvoorwaardelijke mensen, manieren en middelen voor het organiseren en realiseren van innovatie.
+### operationele context
+De operationele context is beschrijvend en geeft betekenis aan de opgaaf, eenheid en effectbrenger. Bij het innoveren, moderniseren en transformeren binnen de Koninklijke Landmacht is de setting gedefinieerd als 'het landoptreden', zodat de inspanningen gericht blijven op de operationele taak. We onderscheiden hierin de probleem, experimentele en toekomstige context.
 
-<!--
-In militair jargon spreekt men vaak over de 'toestand' of 'situatie', waarbij een bijvoegelijk naamwoord verdere duiding kan geven. Voorbeeld: de huidige toestand in een bevel beschrijft fysieke, virtuele en sociale dimensies van een specifiek gebied in het 'nu'. De toestand of situatie is
--->
-
-### probleem context
+#### probleem context
 ```{r, eieren-in-beweging-1, out.width="150", fig.cap='Abstracte vormgeving van probleem context.', echo=FALSE}
 img_dir <- "data/images/"
 img_path <- "20210324-MDI-eieren-beweging-1.png"
@@ -80,27 +67,14 @@ img <- paste(img_dir, img_path, sep="", collapse=NULL)
 knitr::include_graphics(img)
 rm(img_dir, img_path, img)
 ```
-Door het opzetten van een probleem context krijgen de betrokken actoren een gemeenschappelijk beeld van de operationele militaire setting waarop het innovatie vraagstuk gericht is.
 
-In een probleem context beschouwen we een voorgestelde --vernieuwde-- effectbrenger en beschrijven we de huidige operationele setting van een eenheid. Meestal is sprake van een bestaande effectbrenger die verbeterd wordt, soms wordt een geheel nieuwe effectbrenger ontwikkeld.
+In een probleem context beschrijven we de huidige militaire operationele setting van een effectbrenger (militairy capability of eenheid) en beschouwen we een voorgestelde capability gap (operationeel capaciteitsprobleem) of shortfall (operationele tekortkoming). Meestal is sprake van een bestaande effectbrenger die verbeterd wordt, soms wordt een geheel nieuwe effectbrenger ontwikkeld.
 
-Potentiële partners plaatsen de opgaaf in militair operationele setting. Voor militairen is deze setting 'normaal' omdat het hun vakgebied en realiteit is maar voor een niet-militair kan het bijzonder, soms 'ver van het bed' en vaak slecht inleefbaar zijn. Dit betekend ook dat militairen blinde vlekken hebben voor de setting en niet-militaire nieuwe inzichten geven. Gezamenlijk werken aan de probleem contrext verijkt daarmee de vraagarticulatie en aanbodspecificatie.
+Door het opzetten van een probleem context krijgen de betrokken actoren een gemeenschappelijk beeld van de operationele militaire setting waarin het probleem, uitdaging of vraagstuk is ontstaan.
 
-### experimentele context
-```{r, eieren-in-beweging-2, out.width="150", fig.cap='Abstracte vormgeving van experimentele context.', echo=FALSE}
-img_dir <- "data/images/"
-img_path <- "20210324-MDI-eieren-beweging-2.png"
-img <- paste(img_dir, img_path, sep="", collapse=NULL)
-knitr::include_graphics(img)
-rm(img_dir, img_path, img)
-```
-Door het opzetten van een experimentele context kan de ontwikkelde effectbrenger worden beproefd en kunnen de werkelijke reacties van de omgeving worden waargenomen.
+Gezamenlijk plaatsen potentiële partners de opgaaf in de militaire operationele setting. Voor militairen is deze setting 'normaal' omdat het hun vakgebied en realiteit is maar voor een niet-militair kan het bijzonder, soms 'ver van het bed' en vaak slecht inleefbaar zijn. Dit betekend ook dat militairen blinde vlekken hebben voor de setting en niet-militaire nieuwe inzichten geven. Gezamenlijk werken aan de probleem context verijkt daarmee de vraagarticulatie en aanbodspecificatie.
 
-Militaire experimenten vinden zelden plaats in een laboratorium of operationele realiteit. Toch is een gecontroleerde omgeving noodzakelijk voor het meten en valideren van ontwikkelde effectbrengers. De mate van controle is mede afhankelijk van het technical readiness level (TRL) van middelen, de maturiteit van de effectbrenger en vigerende wet- en regelgeving. Ook de wijze van meten en valideren beinvloed de gewenste setting van het experiment.
-
-Omdat we het traject zoveel mogelijk in samenhang doorlopen en tempo willen behouden, starten we zo vroeg mogelijk met het opzetten en vaststellen van de expermentele context. Samen met interne en externe partners, het kenniscentrum creëeren we een gecontroleerde operationele omgeving met een eenheid in training, oefening of bij inzet.
-
-### toekomstige context
+#### toekomstige context
 ```{r, eieren-in-beweging-3, out.width="150", fig.cap='Abstracte vormgeving van toekomstige context.', echo=FALSE}
 img_dir <- "data/images/"
 img_path <- "20210324-MDI-eieren-beweging-3.png"
@@ -108,27 +82,56 @@ img <- paste(img_dir, img_path, sep="", collapse=NULL)
 knitr::include_graphics(img)
 rm(img_dir, img_path, img)
 ```
-Het Ministerie Defensie schetste toekomstscenario's en formuleerde ambities en inrichtingsprincipes. De Koninklijke Landmacht beschreef een visie en ontwikkellijnen. Het is aan kennisadviseurs, kenniswerkers en subject matter experts om daarbinnen ambities, operationele wensen en behoeften, technologische ontwikkelingen en inventies te programmeren.
+In een toekomstige context beschrijven we de voorgestelde militaire operationele setting van de beoogde effectbrenger. Hierin beschouwen we de effectbrenger integraal binnen het militaire systeem waarin het na implementatie zal optreden.
 
-Dit bereiken we door samen met relevante actoren te werken aan een gemeenschappelijk beeld van de toekomstige setting waarin militaire capaciteiten optreden. Daarin worden ook de gewenste effecten gedefinieerd die het optreden moeten creëeren. De setting met de gewenste effecten maakt de toekomstige context.
+Door het opzetten van een toekomstige context krijgen de betrokken actoren een beeld bij de integraliteit en complexiteit van de design opgaaf, wordt gewerkt aan overzicht van relevante lopende initiatieven en onstaat inzicht in de de ontwikkelrichting en meerwaarde van de beoogde effectbrenger. Dit draagt bij aan designkeuzes, organisatie mogelijkheden en indicatoren voor validatie.
 
-Door de toekomstige context in het denkmodel te plaatsen onstaat inzicht in de de ontwikkelrichting en meerwaarde van de beoogde effectbrenger. Dit inzicht draagt bij aan designkeuzes en indicatoren voor validatie.
+Gezamenlijk werken potentiële partners met relevante actoren aan een gemeenschappelijk beeld van de toekomstige setting waarin militaire capaciteiten optreden. Daarin worden ook de gewenste effecten gedefinieerd die het optreden moeten creëeren. De setting met de gewenste effecten maakt de toekomstige context.
 
-<!--
-We innoveren om in de toekomst relevant en --waar nodig-- dominant te blijven. Het ontwikkelen en implementeren van de juiste militaire capabilities kost tijd en energie. Een mate van richten, plannen en organiseren van innovatie en inregelen van randvoorwaarden is daarom wenselijk.
--->
-
-<!--
-Een vraagstuk binnen het experiment is de haalbaarheid van het beoogde effect door de effectbrenger in de specifieke situatie. Afhankelijk van de experimenteer-omgeving zullen verschillende methoden worden toegepast om te kunnen valideren of het beoogde effect is bereikt.
---
-
-### system in system {-}
-```{r, fig.cap='Fractile patroon van effectbrengers', echo=FALSE}
-# img_dir <-
-img1_path <- "data/images/20190710-CDE-designproces_CDE-FractileModel.png"
-img1 <- readPNG(img1_path, native = TRUE, info = TRUE)
-knitr::include_graphics(img1_path)
-rm(img1_path, img1)
+#### experimentele context
+```{r, eieren-in-beweging-2, out.width="150", fig.cap='Abstracte vormgeving van experimentele context.', echo=FALSE}
+img_dir <- "data/images/"
+img_path <- "20210324-MDI-eieren-beweging-2.png"
+img <- paste(img_dir, img_path, sep="", collapse=NULL)
+knitr::include_graphics(img)
+rm(img_dir, img_path, img)
 ```
 
-Inzoomen op de effectbrenger als operationele entiteit zien we een fractile pattern ontstaan. Zoals we een groep plaatsen in een peloton, compagnie, bataljon en brigade maakt een effectbrenger ook altijd deel uit van een groter verband. Dit zorgt voor een extra dimensie in de complexiteit van het Design process. Voorlopig noem ik deze dimensie de operationele opschaling.
+In een experimentele context ontwikkelen en valideren de partners de beoogde effectbrenger. Militaire experimenten kunnen zelden plaatsvinden in een laboratorium of operationele realiteit. Zo realistisch mogelijk wordt de operationele setting van een ontwikkelde effectbrenger nagebootst.
+
+Door het opzetten van een gecontroleerde setting kan de ontwikkelde effectbrenger worden beproefd en kunnen de werkelijke reacties van de omgeving worden waargenomen. De mate van controle is onder andere afhankelijk van het technical readiness level (TRL) van middelen, de maturiteit van de effectbrenger en vigerende wet- en regelgeving. Ook de wijze van meten en valideren beinvloed de gewenste setting van het experiment.
+
+Omdat we het traject zoveel mogelijk in samenhang en tempo doorlopen, starten we zo vroeg mogelijk met het opzetten en vaststellen van de experimentele context. Samen met interne en externe partners, het kenniscentrum en operationele eenheden creëeren we een gecontroleerde operationele omgeving met een eenheid in training, oefening of bij inzet.
+
+### organisatorische context
+De organisatorische context is de setting van relevante en betrokken actoren en factoren die een relatie hebben of kunnen krijgen met het innovatie traject. Het zijn mensen, manieren en middelen die randvoorwaardelijk zijn voor het succesvol doorlopen van een innovatie traject.
+
+De setting van actoren en factoren brengen we in kaart en de dynamiek verstaan we door de onderlinge relaties en verbindingen te leggen. Het resultaat is een weergave van het multi-actornetwerk wat ondersteund bij het doen van interventies en daarmee beinvloeden van de context.
+
+#### factoren
+Factoren zijn materiële en immateriële zaken zoals feiten, objecten, projecten, systemen, procedures, mechanisme of materieel. De relevantie factoren van invloed op het innovatietraject kunnen vanuit verschillende perspectieven worden beschouwd. Vaak terugkerende perspectieven zijn niveau, domein, vakgebied, projecten/programma's, doctrine en beleid.
+
+Met niveau onderscheiden we het politiek strategisch, militair strategisch, militair operationeel en militair tactisch niveau. Waar nodig kan beleid, bestuur en uitvoeringsniveaus worden onderscheiden.
+
+Binnen de militaire context kent de domeinen, maritiem, land, air, space en cyber. Vakgebieden zijn talrijk zowel binnen de militaire, civiele en academische context. Projecten of programma's worden toegepast op materiële vernieuwing of -vervanging, reorganisatie en kennis- en innovatie. Tot slot worden continue doctrine publicaties aangepast via de NATO en Nederlandse kennsi- en expertisecentra en beleid gecreëerd op de ministeries.
+
+Bronnen voor het identificeren en selecteren van de relevante factoren van invloed zijn ondermeer:
+- Defensienota 2018 Invasteren in onze mensen, slagkracht en zichtbaarheid
+- Defensie Innovatiestrategie Samen sneller innoveren
+- Defensievisie 2035 Vechten voor een veilige toekomst
+- Strategische Kennis- en Innovatieagenda 2021-2025
+- CDS Aanwijzing A-700 Gereedstelling
+- CLAS Toekomstvisie Veiligheid is vooruitzien
+- CLAS Operationeel kader voor het landoptreden (OKL)
+- CLAS nota Marsrichting, marsroutes en MTO's
+- Nederlandse Defensie doctrine
+- Doctrine publicatie 3.2 Landoperaties
+- Defensie kennis en innovatieplan
+- Defensie investeringsplan
+
+#### actoren
+Actoren zijn handelende subjecten zoals individuen, groepen, communities, eenheden, afdelingen, organisatiedelen, bedrijven, instellingen en samenwerkverbanden. In de meeste gevallen spreken we binnen de organisatorische context over organisaties, eenheden en de functionaris die deze vertegenwoordigd.
+
+De relevante actoren van invloed hebben een wederzijdse afhankelijkheid met elkaar en het innovatietraject. Zij proberen elkaar te beinvloeden. "De pogingen die de actor onderneemt zijn interventies. Een interventie kan van alles inhouden, zoals een regel, mededeling, geld beschikking, informatie, dreiging, verbod, enzovoort." [@bruijn2017management, p.16]. Interventies kunnen daarmee factoren zijn die invloed hebben op het innovatietraject.
+
+Dit dynamisch geheel van wederzijds afhankelijke actoren, die interventies plegen, onderlinge variëteit kennen en zich relatief gesloten kunnen opstellen noemt @bruijn2017management een multi-actornetwerk. Dit netwerk kan verbeeld worden in verschillende lagen. Voor de organisatorische context van innovatietrajecten is het onderscheid in een strategische-, management- en uitvoerende laag behulpzaam.
