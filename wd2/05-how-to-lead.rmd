@@ -1,0 +1,9 @@
+# How to lead <!-- act{#cde-design-model} -->
+Een Landmacht is bij uitstek een organisatie om te leren van en over leiderschap. De militair heeft een fysiek en mentaal veeleisend beroep onder soms extreme omstandigheden. De militair officier [^officier] moet daarom in verschillende situaties leiding kunnen geven en ontvangen. De verschillende vormen van leidinggeven lopen als een rode draad door de loopbaan van de officier. Het Defensie Leiderschapskompas geeft houvast aan de professional die leiderschap neemt over zichzelf en zijn omgeving.
+
+Het Commando Landstrijdkrachten streeft naar nieuwe manieren om relevante innovatie bij de Landmacht integraal met externe partijen uit te voeren in het tempo van de markt. De omstandigheden waaronder we willen innoveren in het landoptreden zijn vluchtig, onzeker, complex en ambigu [^vuca]. Deze innovatie context vraagt --net als de militaire context-- steeds meer gespecialiseerde kennis, unieke vaardigheid en een reflecterende attitude van de professional. Het Defensie Leiderschapskompas geeft houvast aan de professional die leiderschap neemt over zichzelf, een context of vraagstuk. In dit hoofdstuk beschrijven we het leiderschapskompas aangepast op de context van Military Design & Innovation.
+
+[^officier]: binnen de profielschets Krijgsmacht officier lezen we voor de militair officier ook de burger gelijkgestelde medewerker.
+[^vuca]: de profielschets Krijgsmacht officier noemt dit een Volatile, Uncertain, Complex, Ambiguous environment (VUCA)
+
+>De content van dit hoofdstuk wordt herschreven aan de hand van de Defensieleiderschapskompas, en het PMOOC. Neem contact met mij op voor de actuele informatie.

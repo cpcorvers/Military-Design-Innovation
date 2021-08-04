@@ -1,0 +1,53 @@
+# How to lead <!-- act{#cde-design-model} -->
+De militair heeft een fysiek en mentaal veeleisend beroep onder soms extreme omstandigheden. De militair officier [^officier] moet daarom in verschillende situaties leiding kunnen geven en ontvangen. De verschillende vormen van leidinggeven lopen daarom als een rode draad door de loopbaan van de officier. Een krijgsmacht is bij uitstek een organisatie om te leren van en over leiderschap.
+
+Het Commando Landstrijdkrachten streeft naar nieuwe manieren om relevante innovatie bij de Landmacht integraal met externe partijen uit te voeren in het tempo van de markt. De omstandigheden waaronder we willen innoveren in het landoptreden zijn vluchtig, onzeker, complex en ambigu [^vuca]. De innovatie context vraagt steeds meer gespecialiseerde kennis, unieke vaardigheid, reflecterende attitude van de professional. Het Defensie Leiderschapskompas geeft houvast aan de professional die leiderschap neemt over zichzelf, een context of vraagstuk.
+
+[^officier]: binnen de profielschets Krijgsmacht officier lezen we voor de militair officier ook de burger gelijkgestelde medewerker.
+[^vuca]: de profielschets Krijgsmacht officier noemt dit een Volatile, Uncertain, Complex, Ambiguous environment (VUCA)
+
+Dit hoofdstuk beschrijft een aantal veel gebruikte en doorontwikkelde handelingsperspectieven om gezamenlijk een idee of ambitie te verwezenlijken.
+Inspiratie voor deze handelingsperspectieven komen van verschillende vakgebieden zoals netwerk- en ketenregie, design-research, aliantiekunde, militaire doctrines, innovatiekunde, engineering, natuurkunde, en militaire inlichtingen. De handelingsperspectieven zijn verwerkt tot technieken en tools van de craftsman en beschreven in dit hoofdstuk.
+
+In het ontwikkelen van een innovatievraagstuk beschouwen wij deze als een ongetemd probleem in een complexe context. De eerste paragraaf \@ref(inleiding-in-wicked-problems) geeft een korte inleiding en achtergrond bij dit soort problemen. De daarop volgende paragrafen beschrijven het frame \@ref(framework), de activiteiten \@ref(activiteiten-pallet) en workflow \@ref(regisseren) van de crafstman. Kortweg geeft het richting hoe we handelen, wat we doen en in welke volgorde werken we aan het voorliggend vraagstuk.
+
+## inleiding in wicked problems
+Wanneer potentiele samenwerkende partners verschillende oorzaken of invalshoeken zien voor een probleem spreken we van een ongetemd probleem of 'wicked-problem'. Deze ongetemde problemen komen voor in alle lagen, sectoren en gebieden van organisaties en maatschappijen. Ongetemde problemen zijn niet zomaar opgelost en kennen geen afzonderlijke probleemeigenaar of centrale verantwoordelijke. Het 'vacuüm' van centrale verantwoordelijke wordt steeds vaker opgevuld door een alliantie van diverse organisaties. Deze allianties zijn van tijdelijke aard en hebben een horinzontale machtsrelatie. In de praktijk creëren deze allianties verrassende oplossingen voor ongetemde problemen.
+
+**aanpak ongetemde problemen**
+Er is geen pasklaar antwoord of eenduidig proces om ongetemde problemen met een alliantie aan te pakken. Wel bestaan er succesvolle voorbeelden met terugkerende activiteiten. De Military Design & Innovation aanpak is deels geinspireerd door voorbeelden van innovatieve cooperaties en gemeentelijke- en provinciale overheden.
+
+Een aanpak begint met het exploreren van de context en actoren, centraal stellen van (organisatorische) behoeften, belangen, waarden en plichten, en het organiseren in netwerken of ketens. Vervolgens leren de relevante partijen door samen te werken aan oplossingsrichtingen en deze met experimente in de praktijk te brengen. Deze aanpak van exploreren, articuleren en experimenteren passen we toe in Military Design & Innovation.
+
+**aanpak in militaire context**
+Bij het exploreren van het vraagstuk en de actoren bevinden we ons op onbekend terrein. Aan de hand van succes-indicatoren, canvassen en ambities brengen we in werksessies de context, bestaande initiatieven en stakeholders in kaart, zoals een ontdekkingsreiziger een kaart intekent en daarbij navigeert op bekende referentiepunten met kompas en sextant.
+
+Het resultaat zijn een gearticuleerd probleem, probleemcontext en vraag waarmee potentiele partijen worden benaderd. Partijen willen deelnemen vanwege hun belangen, waarden, interesse of machtspositie en worden geselecteerd als zij een effectieve bijdrage kunnen leveren aan de oplossing(srichting). Afhankelijk van de abstracte of concrete beschrijving van het vraagstuk vinden meerdere iteraties plaats om de vragen en mogelijke oplossingen helder te krijgen.
+
+Een consistente vraagarticulatie slaat een brug tussen de probleem context en ambitie, opdrachtgever en -nemer en idee en implementatie. Het militairy design framework ondersteund de samenwerkende partijen bij het creëren van een consistent geframde en gearticuleerde vraag.
+
+## regisseren
+Deze paragraaf 'regisseren' zal gaan over verschillende vormen om de relevante activiteiten parallel en/of volgordelijk te laten verlopen. Oftewel het regisseren van een traject, project en programma. Ook een korte toelichting op de verschillen tussen traject, project en programma worden toegevoegd.
+
+> onder constructie: traject- en procesregie en projectbegeleiding.
+
+
+
+
+### continue dialoog
+```{r, vraag-aanbod, fig.cap='Eerste schets van het concept vraag-aanbod exploratie zoals toegepast in de dialoog ', echo=FALSE}
+img_dir <- "data/images/"
+img_path <- "20200426-CDE-designproces_vraag-aanbod-exploratie_blauwdruk-v2.png"
+img <- paste(img_dir, img_path, sep="", collapse=NULL)
+knitr::include_graphics(img)
+rm(img_dir, img_path, img)
+```
+Met de 'continue dialoog' worden externe partijen in een vroegtijdig stadium betrokken in een thematisch programma of bij een technisch vraagstuk. De 'continue dialoog' kent een aantal stadia waarin het vraagstuk steeds concreter wordt met hulp van de externe partijen. Figuur \@ref(fig:vraag-aanbod) visualiseert een dialoog naar vraagarticulatie en aanbodspecificatie. Het toelopen van de lijnen naar het middelpunt suggereert het convergerend werken in een aantal werksessies of stappen naar het punt waarop de vraagarticulatie en aanbodspecificatie elkaar vinden.
+
+Afhankelijk van het vraagstuk en de context worden relevante partijen door SBID-medewerkers gekoppeld aan de dialoog. De verantwoordelijk programma-manager voert de regie in de dialoog en draagt deze in een latere fase over aan de trajectbegeleider.
+
+
+
+
+## orchestreren
+Het Ministerie Defensie schetste toekomstscenario's en formuleerde ambities en inrichtingsprincipes. De Koninklijke Landmacht beschreef een visie en ontwikkellijnen. Het is aan kennisadviseurs, kenniswerkers en subject matter experts om daarbinnen ambities, operationele wensen en behoeften, technologische ontwikkelingen en inventies te programmeren.

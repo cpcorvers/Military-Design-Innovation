@@ -1,0 +1,42 @@
+bookdown::gitbook:
+  pandoc_args: [ "--csl", "apa.csl" ]
+  css: style.css
+  config:
+    toc:
+      collapse: subsection
+      scroll_highlight: yes
+      before: |
+        <li><a href="./">Military Design & Innovation</a></li>
+      after: |
+        <li><a href="https://github.com/rstudio/bookdown" target="blank">Published with bookdown</a></li>
+    toolbar:
+      position: fixed
+    edit : null
+    # download: ["pdf", "epub"]
+    search: yes
+    fontsettings:
+      theme: white
+      family: sans
+      size: 2
+    sharing:
+      facebook: no
+      github: no
+      twitter: no
+      linkedin: no
+      weibo: no
+      instapaper: no
+      vk: no
+      all: no #['facebook', 'twitter', 'linkedin', 'weibo', 'instapaper']
+    info: yes
+bookdown::pdf_book:
+  includes:
+    in_header: preamble.tex
+  latex_engine: xelatex
+  # citation_package: natbib
+  pandoc_args: [ "--csl", "apa.csl" ]
+  keep_tex: yes
+  fig_caption : false
+bookdown::epub_book: default
+rmarkdown::ioslides_presentation: default
+bookdown::word_document2:
+    toc: true

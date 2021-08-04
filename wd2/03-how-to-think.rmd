@@ -1,5 +1,5 @@
-# How to think{#kort-cyclisch-moderniseren}
-De landmacht is een overheidsorganisatie die -waar nodig- een zwaardmacht moet zijn op plekken waar vrede en veiligheid geen vanzelfsprekendheid is. Vanuit de grondwettelijke taken is afgeleid hoe de Landmacht optreedt, welke materieel en personele middelen daarvoor nodig zijn en hoe dit wordt georganiseerd. Deze lineaire denkmodellen dragen decenia lang bij aan de innovatie in het landoptreden. De bestaande Landmacht organisatie is in een continue verbeter modus vanuit deze volgordelijkheid.
+# How to think <!--{#kort-cyclisch-moderniseren}-->
+De Landmacht is een overheidsorganisatie die -waar nodig- een zwaardmacht moet zijn op plekken waar vrede en veiligheid geen vanzelfsprekendheid is. Vanuit de grondwettelijke taken is afgeleid hoe de Landmacht optreedt, welke materieel en personele middelen daarvoor nodig zijn en hoe dit wordt georganiseerd. Deze lineaire denkmodellen dragen decenia lang bij aan de innovatie in het landoptreden. De bestaande Landmacht organisatie is in een continue verbeter modus vanuit deze volgordelijkheid.
 
 De technologische en sociale innovaties gaan echter zo snel dat ook op andere, snellere manieren wordt gekeken naar modernisering van de bestaande organisatie en vernieuwing voor de toekomstige organisatie. Military Design & Innovation geeft nieuwe manieren om innovatie bij de Landmacht uit te voeren in het tempo van de markt. Centraal staat daarbij een integrale aanpak met externe partijen.
 
@@ -135,3 +135,21 @@ Actoren zijn handelende subjecten zoals individuen, groepen, communities, eenhed
 De relevante actoren van invloed hebben een wederzijdse afhankelijkheid met elkaar en het innovatietraject. Zij proberen elkaar te beinvloeden. "De pogingen die de actor onderneemt zijn interventies. Een interventie kan van alles inhouden, zoals een regel, mededeling, geld beschikking, informatie, dreiging, verbod, enzovoort." [@bruijn2017management, p.16]. Interventies kunnen daarmee factoren zijn die invloed hebben op het innovatietraject.
 
 Dit dynamisch geheel van wederzijds afhankelijke actoren, die interventies plegen, onderlinge variëteit kennen en zich relatief gesloten kunnen opstellen noemt @bruijn2017management een multi-actornetwerk. Dit netwerk kan verbeeld worden in verschillende lagen. Voor de organisatorische context van innovatietrajecten is het onderscheid in een strategische-, management- en uitvoerende laag behulpzaam.
+
+## wicked problems
+In het ontwikkelen van een innovatievraagstuk beschouwen wij deze als een ongetemd probleem in een complexe context. Deze paragraaf \@ref(wicked-problems) geeft een korte inleiding en achtergrond bij dit soort problemen.
+
+**inleiding**
+Wanneer potentiele samenwerkende partners verschillende oorzaken of invalshoeken zien voor een probleem spreken we van een ongetemd probleem of 'wicked-problem'. Deze ongetemde problemen komen voor in alle lagen, sectoren en gebieden van organisaties en maatschappijen. Ongetemde problemen zijn niet zomaar opgelost en kennen geen afzonderlijke probleemeigenaar of centrale verantwoordelijke. Het 'vacuüm' van centrale verantwoordelijke wordt steeds vaker opgevuld door een alliantie van diverse organisaties. Deze allianties zijn van tijdelijke aard en hebben een horinzontale machtsrelatie. In de praktijk creëren deze allianties verrassende oplossingen voor ongetemde problemen.
+
+**aanpak ongetemde problemen**
+Er is geen pasklaar antwoord of eenduidig proces om ongetemde problemen met een alliantie aan te pakken. Wel bestaan er succesvolle voorbeelden met terugkerende activiteiten. De Military Design & Innovation aanpak is deels geinspireerd door voorbeelden van innovatieve cooperaties en gemeentelijke- en provinciale overheden.
+
+Een aanpak begint met het exploreren van de context en actoren, centraal stellen van (organisatorische) behoeften, belangen, waarden en plichten, en het organiseren in netwerken of ketens. Vervolgens leren de relevante partijen door samen te werken aan oplossingsrichtingen en deze met experimente in de praktijk te brengen. Deze aanpak van exploreren, articuleren en experimenteren passen we toe in Military Design & Innovation.
+
+**aanpak in militaire context**
+Bij het exploreren van het vraagstuk en de actoren bevinden we ons op onbekend terrein. Aan de hand van succes-indicatoren, canvassen en ambities brengen we in werksessies de context, bestaande initiatieven en stakeholders in kaart, zoals een ontdekkingsreiziger een kaart intekent en daarbij navigeert op bekende referentiepunten met kompas en sextant.
+
+Het resultaat zijn een gearticuleerd probleem, probleemcontext en vraag waarmee potentiele partijen worden benaderd. Partijen willen deelnemen vanwege hun belangen, waarden, interesse of machtspositie en worden geselecteerd als zij een effectieve bijdrage kunnen leveren aan de oplossing(srichting). Afhankelijk van de abstracte of concrete beschrijving van het vraagstuk vinden meerdere iteraties plaats om de vragen en mogelijke oplossingen helder te krijgen.
+
+Een consistente vraagarticulatie slaat een brug tussen de probleem context en ambitie, opdrachtgever en -nemer en idee en implementatie. Het militairy design framework ondersteund de samenwerkende partijen bij het creëren van een consistent geframde en gearticuleerde vraag.

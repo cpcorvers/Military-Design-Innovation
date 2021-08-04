@@ -1,0 +1,151 @@
+# How to design
+De Landmacht is een uitvoerende organisatie die door de Nederlandse regering of civiele autoriteiten wordt ingezet bij confliten, rampen en crisissituaties. Daardoor komen operationele Landmachteenheden in situaties die uitzonderlijk zijn. De kernprocessen van de Landmacht staan daarom in het teken van gereedstellen voor inzet onder verzwaarde omstandigheden.
+
+Parallel aan gereedstelling loopt de 'modernisering van CLAS' in de waterval aanpak; omgevingsanalyse, doctrine ontwikkeling, concept en plan ontwikkeling, financiering van nieuwe plannen, aanschaf en instroom materieel, en reorganiseren operationele eenheid. De bestaande Landmacht organisatie is hierdoor in een continue ontwikkel modus vanuit deze volgordelijkheid. Deze processen zijn echter ingericht op instandhouding en langtermijn plannen. Dit biedt ruimte voor nieuwe manieren om innovatie bij de Landmacht integraal met externe partijen uit te voeren in het tempo van de markt.
+
+De Landmacht ontwikkeld en innoveert in een context met een veelheid aan politieke, economische, academische en sociaal-maatschappelijke belangen. Deze context kenmerkt zich door de complexiteit van vraagstukken, verwevenheid van actoren en het ontbreken van formele kaders. Military Design & Innovation geeft nieuwe manieren om innovatie vraagstukken voor het landoptreden uit te voeren in deze complexe en fluïde context.
+
+<!-- VUCA : Volatile, Uncertain, Complex, Ambiguous environment -->
+
+In hoofdstuk \@ref(how-to-think) beschreven we denkmodellen waarin de effectbrenger (militaire capability) en het effect in de specifieke context abstract zijn uitgedrukt. In dit hoofdstuk beschrijven we de design activiteiten en technieken die bijdragen aan het gemeenschappelijk ontwerpen en verbeelden van toekomstige militaire capabilities.
+
+## Design
+Military Design & Innovation is voornamelijk een actieve aanpak in dialoog met en over mensen, middelen en manieren. De aanpak bestaat uit een raamwerk (framework) en een activiteiten pallet. De activiteiten leiden tot de verbeelding en creatie van effectbrengers. De basis van deze activiteiten zijn de drie vaardigheden lokaliseren (localize), bevragen (question) en openstellen (open up) [@sennett_craftsman_2008].
+
+**localize**
+Lokaliseren gaat over het oog hebben voor details en de capaciteit om de belangrijke aspecten van iets vast te stellen. Een belangrijk begrip hierin is _problem finding_ oftewel het ontdekken van de huidige en toekomstige dreigingen, _capability gaps_, en _short falls_. Dit kan worden uitgebeeld in de probleem context. Wanneer de relevante probleem context is geduid kunnen de betrokken professionals werken aan de (door)ontwikkeling van effectbrengers in die context.
+
+**questions**
+Bevragen gaat over het (vragend) onderzoeken van het probleem, de probleem context en betrokken actoren. Een belangrijk begrip hierin is _dwelling_ of exploreren. De betrokken professionals verkennen de _problem space_ en allerlei mogelijke probleem definities en oplossingsrichtingen. Wanneer de probleem context is verdiept kunnen de betrokken professionals vragen articuleren voor het gericht vinden van relevante (externe) partners.
+
+**open up**
+Openstellen gaat over de betrokken professionals die vrijkomen uit de specifieke context en geeigende oplossingsrichtingen. Een belangrijk begrip hierin is intuitie, het ervaren voorbij de vijf zintuigen en analystiche redeneringen. Door los te komen van de 'waan van de dag', focus te brengen op de _problem space_, en te luisteren naar de subtiele gewaarwording komen de betrokken professionals in een flow waarin nieuwe verbanden, kansen en oplossingen aandienen. Wanneer het probleem, de probleem context en de oplossingsrichting is geduid kunnen de betrokken professionals werken aan het vervolg van het traject.
+
+## Military Design & Innovation framework
+Het Military Design & Innovation framework visualiseert de samenhang van effectbrengers, contexten en ontwikkelproces. Het framework biedt houvast tijdens het ontwerpen, ontwikkelen, experimenteren en samenwerken aan een beoogde effectbrenger in de toekomstige context. Het framework modeleert in één figuur (\@ref(fig:design-model)) de ontwikkeling van een effectbrenger, oftewel het traject van idee tot en met valideren in een abstracte visualisatie.
+
+```{r, design-model, fig.cap='Military Design \\& Innovation framework.', echo=FALSE}
+img_dir <- "data/images/"
+img_path <- "20210324-MDI-design-model.png"
+img <- paste(img_dir, img_path, sep="", collapse=NULL)
+knitr::include_graphics(img)
+rm(img_dir, img_path, img)
+```
+Gezamenlijk creeert een groep professionals inzicht in de mogelijkheden van de markt voor de --toekomstige-- uitdagingen in het landoptreden. Daarin onderkennen we twee bewegingen, vanuit de toekomstige context (forecasting) of vanuit de huidige context (backcasting).
+Forecasting gaat van links naar rechts. Dat wil zeggen, door het maken van nieuwe combinaties van mens, manieren en middel ontstaan gemoderniseerde effectbrengers. Met hun activiteiten dragen zij bij aan vernieuwde effecten in een toekomstige context.
+Backcasting gaat van rechts naar links. Dat wil zeggen, vanuit ambities en operationele behoeften worden de gewenste effecten, output en activiteit inzichtelijk. Hiermee wordt de beoogde effectbrenger geschetst. Verschillende variaties van de beoogde effectbrenger worden ontwikkeld door het combineren van mensen, manieren en middelen.
+
+In een traject stellen we de hypothese dat een gemoderniseerde effectbrenger bijdraagt aan een gewenst effect in een toekomstige context. Tijdens de experimenten worden gemoderniseerde effectbrengers ingebracht in een afgebakende, gecontroleerde situatie. In deze experimentele context worden de prestaties en effecten gemeten.
+
+## activiteiten pallet
+```{r, fig.cap='Pallet aan activiteiten binnen Military Design \\& Innovatie.', echo=FALSE}
+img_dir <- "data/images/"
+img_path <- "20210401-MDI-activiteiten-pallet-1.png"
+img <- paste(img_dir, img_path, sep="", collapse=NULL)
+knitr::include_graphics(img)
+rm(img_dir, img_path, img)
+```
+Om ambities en ideëen te brengen naar implementatie moeten veel activiteiten worden ingezet. Omdat we een idee binnen Military Design & Innovation benaderen als een ongetemd probleem is er geen uitgestippeld pad maar ligt er een ontdekkingstocht in het verschiet. Om deze tocht te ondernemen moeten we actief worden. Vier activiteiten komen met regelmaat terug in het traject. Tijdens en na de acties reflecteren we op de ondernomen stappen. Wat kunnen de volgende stappen zijn? Welke richting moeten deze stappen opgaan? De reflectie creeert inzicht en overzicht bij de betrokken professionals op hun handelingsperspectieven in het traject.
+
+In deze paragraaf worden de activiteiten van het huidige pallet toegelicht zodat ze worden begrepen. Het doorgronden van de activiteiten vindt plaats in de praktijk. Daarom is praktische uitvoering onder begeleiding belangrijker dan theoretisch bestuderen of werken volgens het boekje.
+
+### idee generatie
+<!-- image aanpassen -->
+
+```{r, fig.cap=' ', echo=FALSE}
+img_dir <- "data/images/"
+img_path <- "20210401-MDI-ideegeneratie.png"
+img <- paste(img_dir, img_path, sep="", collapse=NULL)
+knitr::include_graphics(img)
+rm(img_dir, img_path, img)
+```
+In een forecasting komt een kenniswerker of collega van een parate eenheid met een idee wat een verbetering beloofd op de directe taakstelling, werkomgeving of een specifiek vakgebied. Het idee is meestal onvolledig of mist voldoende houvast om direct door te pakken, maar het idee geeft veel informatie over latente vraagstukken, problemen en kansen in een specifieke context. Het is daarom belangrijk om goed te luisteren naar de 'binnenlopende ideëen' en deze uit te werken tot een eerste concept. Als ondersteunende tool is hiervoor het canvas 'idee generatie 'ontwikkeld. Het stellen van verdiepingsvragen en de 'socratische dialoog' zijn gesprekstechnieken die daarin ondersteunend zijn. De idee-inbrenger beschrijft de beoogde effectbrenger en de toekomstige context kort en bondig zodat dit als idee of design-concept overdraagbaar is.
+
+De centrale deelvragen in deze activiteit zijn:
+
+1. Wat is het idee?
+2. Wat is er tot nu toe gedaan voor dit idee?
+3. Wat heb je nodig om dit idee te realiseren?
+4. Welke stakehodlers of actoren identificeer je?
+
+In een backcasting worden ideëen gegenereerd vanuit ambitie. Het Ministerie van Defensie schetst toekomstscenario's en formuleert ambities en inrichtingsprincipes. De Koninklijke Landmacht beschrijft een visie en ontwikkellijnen. Kennisadviseurs, kenniswerkers en subject matter experts (sme's) programmeren daarbinnen ambities, operationele behoeften en gewenste effecten. In een backcasting worden de operationele behoeften, gewenste effecten, technologische ontwikkelingen en briliante inventies samengebracht. Samen met externe partijen genereren we ideëen voor mogelijke effectbrengers. Voor idee generatie in backcasting wordt de 'continue dialoog' gevoerd in een aantal werksessies (zie paragraaf \@ref(continue-dialoog)).
+
+<!-- link naar canavs toevoegen -->
+[Canvas idee generatie](data/images/20200116-CDE-canvassen-ideegeneratie.png)
+<!-- link naar documenten toevoegen -->
+
+### vraag articulatie
+<!-- image aanpassen -->
+
+```{r, fig.cap=' ', out.width="450pt", echo=FALSE}
+img_dir <- "data/images/"
+img_path <- "20210324-MDI-effectbrenger-ei.png"
+img <- paste(img_dir, img_path, sep="", collapse=NULL)
+knitr::include_graphics(img)
+rm(img_dir, img_path, img)
+```
+
+Bij het ontwikkelen en experimenteren van nieuwe effectbrengers betrekken we het innovatieve vermogen wat buiten de Defensie organisatie ligt. Om de juiste partners te vinden is het belangrijk een duidelijke vraag te stellen. Dat begint met het spreken van eenzelfde taal en het begrijpen van je eigen behoefte. De ervaringen die we daarin maakte zijn verwerkt in het canvas 'vraag articulatie'. Aan de hand van het canvas weet de trajectbegeleider, kenniswerker en ervaringsdeskundige een compleet beeld te schetsen van de probleemcontext, probleem en de uitdaging voor de organisatie. Vanuit dat beeld formuleren we samen met interne specialisten de markt-, onderzoek- of ontwerpvragen.
+
+De centrale deelvragen in deze activiteit zijn:
+
+1. Wat is de operationele context?
+2. Wat is het probleem of kans of risico (in de context)?
+3. Wat is de uitdaging (voor de organisatie)?
+4. Wat is je oplossingsrichting?
+5. Wat is je vraag?
+
+In een forecasting leiden deze vragen tot een schets van de huidige context met een specifiek probleem en een beoogde effectbrenger. Ook wordt duidelijk waarom dit idee niet door de eigen organisatie of eenheid is op te lossen.
+
+In een backcasting resulteren deze vragen in een geschetste toekomstige context (\@ref(toekomstige-context)) waarin een effectbrenger zal acteren.
+
+Vraagarticulatie leidt tot een duidelijker beeld van de beoogde effectbrenger en de positie die deze effectbrenger heeft --of kan krijgen-- in de bestaande organisatie.
+
+[Canvas vraag articulatie](data/images/20200116-CDE-canvassen-vraagarticulatie.png)
+
+### traject organiseren
+```{r, fig.cap=' ', out.width="350pt", echo=FALSE}
+img_dir <- "data/images/"
+img_path <- "20210401-MDI-trajectorganiseren.png"
+img <- paste(img_dir, img_path, sep="", collapse=NULL)
+knitr::include_graphics(img)
+rm(img_dir, img_path, img)
+```
+Rondom een ambitie of idee is een netwerk nodig wat dit idee gaat realiseren. Een tijdelijk netwerk met een eigenaar, projectleider, inkoper, producent, dienstverlener en/of kenniswerker, maar ook een experimenteeromgeving, middelen en specifieke kennis en vaardigheden. Deze actoren en factoren worden samengebracht in een projectorganisatie. Zij organiseren samen alle noodzakelijke activiteiten om het idee te ontwikkelen, experimenteren en valideren.
+
+De ervaringen om een organisatie op te zetten zijn verwerk in het canvas 'traject organiseren'. Aan de hand van het canvas weet de trajectbegeleider, kenniswerker en ervaringsdeskundige een 'business-' of 'valueproposition' te schetsen waarmee relevante actoren worden benaderd.
+
+De centrale deelvragen in deze activiteit zijn:
+
+1. Wat zijn de benodigde key resources?
+2. Wat zijn de key activities?
+3. Wie zijn de key partners?
+4. Wat zijn de voorziene kosten of investeringen?
+5. Wat is de impact van het project op verschillende levels, contexten of niveau's?
+6. Hoe zijn de actoren gepositioneerd in de actorenroos?
+7. Wat zijn de relevante aspecten voor het experiment en de experimenteeromgeving?
+
+Traject organiseren leidt tot een duidelijker beeld van de relevante actoren, zoals kenniseigenaar, projectleider, probleem-eigenaar, werkgever (i.r.t. bedrijfsveiligheid) en experimenteer-omgeving. In deze activiteit wordt ook de 'verwerving en levering' voor het project voorbereid en adviseurs geconsulteerd om te anticiperen op potentiële hindernissen in het vervolgtraject en de implementatie.
+
+[Canvas traject organisatie](data/images/20200116-CDE-canvassen-trajectorganisatie.png)
+
+### verwerving en levering
+Om innovatie bij de Landmacht uit te voeren in het tempo van de markt moeten randvoorwaarden worden ingericht die niet beschikbaar zijn in de bestaande organisatie. Dit leidt tot een behoefte aan producten, diensten of partnerschappen. Deze worden voor de duur van het traject verworven door onze dedicated inkopers.
+
+Een inkoopadviseur of inkoper adviseert (en bepaald) de verwervingsstrategie. De betrokkenheid van de inkoper vanaf de start van het traject zorgt voor de snelst mogelijke aanvang van de wettelijke procestijd. Met deze korte lijn krijgen we snelheid en houden we controle in de verwerving en levering. Ook zorgen korte lijnen en nauwe samenwerking met inkoop voor vertrouwen en mogelijkheden om andere dan de meest geeigende inkoopstrategiëen toe te passen.
+
+Voor een betrouwbaar inkoopproces is het noodzakelijk om binnen de wet- en regelgeving te opereren. Tot nu toe bieden de dertien inkoopstrategieën altijd een oplossing voor verwerving. De meest effectieve strategie draagt zorg voor een mogelijke implementatie van het design-concept in de toekomst. Binnen Military Design & Innovation kiezen we niet voor de korte termijn oplossingen maar selecteren de meest effectieve inkoopstrategie voor het totale beoogde traject.
+
+In tegenstelling tot de meeste inkooptrajecten wordt binnen Military Design & Innovation het inkopen, leveren en contractmanagement onder directe regie van hetzelfde projectteam uitgevoerd. Ook dit draagt bij aan de voortgang van het traject.
+
+### continue dialoog
+```{r, vraag-aanbod, fig.cap='Eerste schets van het concept vraag-aanbod exploratie zoals toegepast in de dialoog ', echo=FALSE}
+img_dir <- "data/images/"
+img_path <- "20200426-CDE-designproces_vraag-aanbod-exploratie_blauwdruk-v2.png"
+img <- paste(img_dir, img_path, sep="", collapse=NULL)
+knitr::include_graphics(img)
+rm(img_dir, img_path, img)
+```
+Met de 'continue dialoog' worden externe partijen in een vroegtijdig stadium betrokken in een thematisch programma of bij een technisch vraagstuk. De 'continue dialoog' kent een aantal stadia waarin het vraagstuk steeds concreter wordt met hulp van de externe partijen. Figuur \@ref(fig:vraag-aanbod) visualiseert een dialoog naar vraagarticulatie en aanbodspecificatie. Het toelopen van de lijnen naar het middelpunt suggereert het convergerend werken in een aantal werksessies of stappen naar het punt waarop de vraagarticulatie en aanbodspecificatie elkaar vinden.
+
+Afhankelijk van het vraagstuk en de context worden relevante partijen door SBID-medewerkers gekoppeld aan de dialoog. De verantwoordelijk programma-manager voert de regie in de dialoog en draagt deze in een latere fase over aan de trajectbegeleider.

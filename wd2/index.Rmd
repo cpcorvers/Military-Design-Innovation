@@ -15,7 +15,7 @@ description: "A book on Design & Innovation in the Military context"
 library(knitr)    # For knitting document and include_graphics function
 library(ggplot2)  # For plotting
 library(png)      # For grabbing the dimensions of png files
-knitr::opts_chunk$set( fig.align = 'center') 
+knitr::opts_chunk$set( fig.align = 'center')
 ```
 <!-- # Military Design & Innovation {-} -->
 # Voorwoord {-}
@@ -43,11 +43,17 @@ In chronologische volgorde komen de volgende onderwerpen voorbij.
 **[Organisatie](#cde-algemeen)**
 geeft achtergrond kennis over de missie, conceptuele en organisatorische positionering en organisatiestructuur.
 
-**[How to think](#kort-cyclisch-moderniseren)**
+**[How to think](#how-to-think)**
 beschrijft hoe te denken in effecten en effectbrengers.
 
-**[How to act](#cde-design-model)**
-geeft handvatten in het ontwikkelen en experimenteren met effectbrengers zoals technieken en tools voor het articuleren, organiseren, uitvoeren en rapporteren. Ook beschrijft dit hoofdstuk hoe de effectbrengers in een samenwerking met interne- en externe partijen ontwikkeld wordt.
+**[How to design](#how-to-design)**
+geeft handvatten in het ontwikkelen van mogelijke effectbrengers, zoals technieken en tools voor ontwikkelen, articuleren en organiseren.
+
+**[How to lead](#how-to-lead)**
+beschrijft hoe de rollen en competenties van professionals bijdragen aan het ontwikkelproces van een beoogde effectbrenger.
+
+**[How to plan](#how-to-plan)**
+geeft handvatten in het ontwikkelen, experimenteren, valideren en implementeren van effectbrengers in een samenwerkingsverband met interne- en externe partijen.
 
 <!-- **[CD&E routines](#cde-routines)** -->
 <!-- beschrijft procedures voor besluitvorming over moderniseringsvoorstellen. -->
