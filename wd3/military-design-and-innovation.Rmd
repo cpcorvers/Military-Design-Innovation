@@ -379,7 +379,7 @@ Parallel aan gereedstelling loopt de 'modernisering van CLAS' in de waterval aan
 <!-- VUCA : Volatile, Uncertain, Complex, Ambiguous environment -->
 Verregaande samenwerking met externe partijen vraagt om interconnectiviteit op elkaars interne processen. Naast gemeenschappelijke denkmodelen (hoofdstuk \@ref(how-to-think)) zijn ook gemeenschappelijke ontwerpprocessen nodig.<!--beschreven we denkmodellen waarin de effectbrenger (militaire capability) en het effect in de specifieke context abstract zijn uitgedrukt.-->  In dit hoofdstuk beschrijven we de design activiteiten en technieken die bijdragen aan het gemeenschappelijk ontwerpen en verbeelden van toekomstige militaire capabilities.
 
-## Design
+## Design vaardigheden
 Military Design & Innovation is voornamelijk een actieve aanpak in dialoog met en over mensen, middelen en manieren. De aanpak bestaat uit een raamwerk (framework) en een activiteiten pallet. De activiteiten leiden tot de verbeelding en creatie van effectbrengers. De basis van deze activiteiten zijn de drie vaardigheden lokaliseren (localize), bevragen (question) en openstellen (open up) [@sennett_craftsman_2008].
 
 **localize**
@@ -521,6 +521,15 @@ Met de 'continue dialoog' worden externe partijen in een vroegtijdig stadium bet
 Afhankelijk van het vraagstuk en de context worden relevante partijen door SBID-medewerkers gekoppeld aan de dialoog. De verantwoordelijk programma-manager voert de regie in de dialoog en draagt deze in een latere fase over aan de trajectbegeleider.
 
 <!--chapter:end:04-how-to-design.rmd-->
+
+# How to develop
+
+## modernisering
+
+## proces
+
+## leaderschip
+
 
 # How to lead <!-- act{#cde-design-model} -->
 <!--
