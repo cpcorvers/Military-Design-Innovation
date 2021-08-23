@@ -1,5 +1,5 @@
 # How to think <!--{#kort-cyclisch-moderniseren}-->
-De Landmacht is een overheidsorganisatie die -waar nodig- een zwaardmacht moet zijn op plekken waar vrede en veiligheid geen vanzelfsprekendheid is. Vanuit de grondwettelijke taken is afgeleid hoe de Landmacht optreedt, welke materieel en personele middelen daarvoor nodig zijn en hoe dit wordt georganiseerd. Deze lineaire denkmodellen dragen decenia lang bij aan de innovatie in het landoptreden. De bestaande Landmacht organisatie is in een continue verbeter modus vanuit deze volgordelijkheid.
+De Landmacht is een rijksoverheidsorganisatie die -waar nodig- een zwaardmacht moet zijn op plekken waar vrede en veiligheid geen vanzelfsprekendheid is. Vanuit de grondwettelijke taken is afgeleid hoe de Landmacht optreedt, welke materieel en personele middelen daarvoor nodig zijn en hoe dit wordt georganiseerd. Deze lineaire denkmodellen dragen decenia lang bij aan de innovatie in het landoptreden. De bestaande Landmacht organisatie is in een continue verbeter modus vanuit deze volgordelijkheid.
 
 De technologische en sociale innovaties gaan echter zo snel dat ook op andere, snellere manieren wordt gekeken naar modernisering van de bestaande organisatie en vernieuwing voor de toekomstige organisatie. Military Design & Innovation geeft nieuwe manieren om innovatie bij de Landmacht uit te voeren in het tempo van de markt. Centraal staat daarbij een integrale aanpak met externe partijen.
 
@@ -16,7 +16,7 @@ rm(img_dir, img_path, img)
 
 Een military capability, organisatie onderdeel of subsysteem is een unieke combinatie van mens, manieren en middel(en). Deze unieke combinatie noemen we een effectbrenger.
 
-```{r, effectbrenger, out.width="400", fig.cap='Een effectbrenger genereert activiteiten met een specifieke output.', echo=FALSE}
+```{r, effectbrenger, out.width="45%", fig.cap='Een effectbrenger genereert activiteiten met een specifieke output.', echo=FALSE}
 img_dir <- "data/images/"
 img_path <- "20210324-MDI-effectbrenger.png"
 img <- paste(img_dir, img_path, sep="", collapse=NULL)
@@ -26,7 +26,7 @@ rm(img_dir, img_path, img)
 
 Deze effectbrenger voert activiteiten uit met een specifieke, direct te relateren, output. Dit geheel van effectbrenger, activiteiten en output is een zelfstandig en gesloten systeem. De output is afhankelijk van de effectbrenger en activiteiten.
 
-```{r, effectbrenger-met-ei, out.width="450", fig.cap='In een specifieke context creëert een effectbrenger met acitiviteiten en output een effect vanuit de omgeving.', echo=FALSE}
+```{r, effectbrenger-met-ei, out.width="45%", fig.cap='In een specifieke context creëert een effectbrenger met acitiviteiten en output een effect vanuit de omgeving.', echo=FALSE}
 img_dir <- "data/images/"
 img_path <- "20210324-MDI-effectbrenger-ei.png"
 img <- paste(img_dir, img_path, sep="", collapse=NULL)
@@ -37,7 +37,7 @@ rm(img_dir, img_path, img)
 ## effect{#effect}
 De activiteiten en output genereren een reactie in de omgeving, het indirect te relateren, effect. Dit creëert de waarde en impact van de effectbrenger in een specifieke context.
 
-```{r, effectbrenger-in-eieren, out.width="550", fig.cap='Abstracte vormgeving van een specifieke context met een ingebrachte en geactiveerde effectbrenger.', echo=FALSE}
+```{r, effectbrenger-in-eieren, out.width="85%", fig.cap='Abstracte vormgeving van een specifieke context met een ingebrachte en geactiveerde effectbrenger.', echo=FALSE}
 img_dir <- "data/images/"
 img_path <- "20210324-MDI-eieren-huidig.png"
 img <- paste(img_dir, img_path, sep="", collapse=NULL)
@@ -60,7 +60,7 @@ Hierdoor onstaan twee contexten binnen Military Design & Innovation. Allereerst 
 De operationele context is beschrijvend en geeft betekenis aan de opgaaf, eenheid en effectbrenger. Bij het innoveren, moderniseren en transformeren binnen de Koninklijke Landmacht is de setting gedefinieerd als 'het landoptreden', zodat de inspanningen gericht blijven op de operationele taak. We onderscheiden hierin de probleem, experimentele en toekomstige context.
 
 #### probleem context
-```{r, eieren-in-beweging-1, out.width="150", fig.cap='Abstracte vormgeving van probleem context.', echo=FALSE}
+```{r, eieren-in-beweging-1, out.width="20%", fig.cap='Abstracte vormgeving van probleem context.', echo=FALSE}
 img_dir <- "data/images/"
 img_path <- "20210324-MDI-eieren-beweging-1.png"
 img <- paste(img_dir, img_path, sep="", collapse=NULL)
@@ -75,7 +75,7 @@ Door het opzetten van een probleem context krijgen de betrokken actoren een geme
 Gezamenlijk plaatsen potentiële partners de opgaaf in de militaire operationele setting. Voor militairen is deze setting 'normaal' omdat het hun vakgebied en realiteit is maar voor een niet-militair kan het bijzonder, soms 'ver van het bed' en vaak slecht inleefbaar zijn. Dit betekend ook dat militairen blinde vlekken hebben voor de setting en niet-militaire nieuwe inzichten geven. Gezamenlijk werken aan de probleem context verijkt daarmee de vraagarticulatie en aanbodspecificatie.
 
 #### toekomstige context
-```{r, eieren-in-beweging-3, out.width="150", fig.cap='Abstracte vormgeving van toekomstige context.', echo=FALSE}
+```{r, eieren-in-beweging-3, out.width="20%", fig.cap='Abstracte vormgeving van toekomstige context.', echo=FALSE}
 img_dir <- "data/images/"
 img_path <- "20210324-MDI-eieren-beweging-3.png"
 img <- paste(img_dir, img_path, sep="", collapse=NULL)
@@ -89,7 +89,7 @@ Door het opzetten van een toekomstige context krijgen de betrokken actoren een b
 Gezamenlijk werken potentiële partners met relevante actoren aan een gemeenschappelijk beeld van de toekomstige setting waarin militaire capaciteiten optreden. Daarin worden ook de gewenste effecten gedefinieerd die het optreden moeten creëeren. De setting met de gewenste effecten maakt de toekomstige context.
 
 #### experimentele context
-```{r, eieren-in-beweging-2, out.width="150", fig.cap='Abstracte vormgeving van experimentele context.', echo=FALSE}
+```{r, eieren-in-beweging-2, out.width="20%", fig.cap='Abstracte vormgeving van experimentele context.', echo=FALSE}
 img_dir <- "data/images/"
 img_path <- "20210324-MDI-eieren-beweging-2.png"
 img <- paste(img_dir, img_path, sep="", collapse=NULL)
@@ -136,18 +136,30 @@ De relevante actoren van invloed hebben een wederzijdse afhankelijkheid met elka
 
 Dit dynamisch geheel van wederzijds afhankelijke actoren, die interventies plegen, onderlinge variëteit kennen en zich relatief gesloten kunnen opstellen noemt @bruijn2017management een multi-actornetwerk. Dit netwerk kan verbeeld worden in verschillende lagen. Voor de organisatorische context van innovatietrajecten is het onderscheid in een strategische-, management- en uitvoerende laag behulpzaam.
 
+#### relaties
+>De content van deze alinea wordt toegevoegd met het schrijven van hoofdstuk \@ref(how-to-plan). Neem contact met mij op voor de actuele informatie.
+
+<!--
+Een netwerkstructuur is te beschouwen als een verzameling actoren en factoren (nodes) die gedragingen en informatie uitwisselen door tijdelijke relaties (edges) aan te gaan. Een verzameling van actoren en factoren die door een relatie een afhankelijkheid hebben noemen we in dit boek een collectief. Zo'n collectief ontwikkelt eigen belangen, standpunten, gewenste resultaten en daarmee eigen gedrag. Dit gedrag zorgt voor een nieuwe dynamiek binnen het collectief en vanuit het collectief richting de omgeving. Geen relatie heeft een permanente status maar ze vertonen op abstract niveau langere tijd gelijkenis.
+
+De organisatorische context uit hoofdstuk \@ref(how-to-think) vormt de basis van het netwerk. In deze context zijn namelijk de relevante actoren en factoren aanwezig. Vanuit de netwerk benadering worden nu de onderlinge afhankelijkheden en relaties uitgewerkt indien aanwezig en relevant.
+-->
+
 ## wicked problems
 In het ontwikkelen van een innovatievraagstuk beschouwen wij deze als een ongetemd probleem in een complexe context. Deze paragraaf \@ref(wicked-problems) geeft een korte inleiding en achtergrond bij dit soort problemen.
 
 **inleiding**
+
 Wanneer potentiele samenwerkende partners verschillende oorzaken of invalshoeken zien voor een probleem spreken we van een ongetemd probleem of 'wicked-problem'. Deze ongetemde problemen komen voor in alle lagen, sectoren en gebieden van organisaties en maatschappijen. Ongetemde problemen zijn niet zomaar opgelost en kennen geen afzonderlijke probleemeigenaar of centrale verantwoordelijke. Het 'vacuüm' van centrale verantwoordelijke wordt steeds vaker opgevuld door een alliantie van diverse organisaties. Deze allianties zijn van tijdelijke aard en hebben een horinzontale machtsrelatie. In de praktijk creëren deze allianties verrassende oplossingen voor ongetemde problemen.
 
 **aanpak ongetemde problemen**
+
 Er is geen pasklaar antwoord of eenduidig proces om ongetemde problemen met een alliantie aan te pakken. Wel bestaan er succesvolle voorbeelden met terugkerende activiteiten. De Military Design & Innovation aanpak is deels geinspireerd door voorbeelden van innovatieve cooperaties en gemeentelijke- en provinciale overheden.
 
 Een aanpak begint met het exploreren van de context en actoren, centraal stellen van (organisatorische) behoeften, belangen, waarden en plichten, en het organiseren in netwerken of ketens. Vervolgens leren de relevante partijen door samen te werken aan oplossingsrichtingen en deze met experimente in de praktijk te brengen. Deze aanpak van exploreren, articuleren en experimenteren passen we toe in Military Design & Innovation.
 
 **aanpak in militaire context**
+
 Bij het exploreren van het vraagstuk en de actoren bevinden we ons op onbekend terrein. Aan de hand van succes-indicatoren, canvassen en ambities brengen we in werksessies de context, bestaande initiatieven en stakeholders in kaart, zoals een ontdekkingsreiziger een kaart intekent en daarbij navigeert op bekende referentiepunten met kompas en sextant.
 
 Het resultaat zijn een gearticuleerd probleem, probleemcontext en vraag waarmee potentiele partijen worden benaderd. Partijen willen deelnemen vanwege hun belangen, waarden, interesse of machtspositie en worden geselecteerd als zij een effectieve bijdrage kunnen leveren aan de oplossing(srichting). Afhankelijk van de abstracte of concrete beschrijving van het vraagstuk vinden meerdere iteraties plaats om de vragen en mogelijke oplossingen helder te krijgen.

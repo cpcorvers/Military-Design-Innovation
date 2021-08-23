@@ -1,6 +1,6 @@
 # Ontstaansgeschiedenis en doorontwikkeling{#cde-process}
 <!-- ![](_bookdown_files/images/keynote-slides/20200430-CDE-Designprocess/20200430-CDE-Designprocess.018.png) -->
-```{r, fig.cap=' ', echo=FALSE}
+```{r, out.width="50%", fig.cap=' ', echo=FALSE}
 # img_dir <-
 img1_path <- "data/keynote-slides/20200430-CDE-Designprocess/20200430-CDE-Designprocess.018.png"
 img1 <- readPNG(img1_path, native = TRUE, info = TRUE)
@@ -15,7 +15,7 @@ Vanuit deze kennis, vaardigheid en ervaring is het CD&E design proces ontwikkeld
 Hierna volgen de verschillende bouwstenen die gebuikt kunnen worden om het design proces vorm te geven. De bijzondere volgorde waarin de bouwstenen worden gepresenteerd zijn het meest effectief in de bureaucratische overheidsorganisatie Defensie die tevens als Aanbestedende dienst wordt gekenmerkt in de aanbestedingswet.
 
 ## position into crafstmen
-```{r, fig.cap='Het Military Design proces gepositioneerd in het EDL method.', echo=FALSE}
+```{r, out.width="50%", fig.cap='Het Military Design proces gepositioneerd in het EDL method.', echo=FALSE}
 # img_dir <-
 img1_path <- "data/keynote-slides/20200430-CDE-Designprocess/20200430-CDE-Designprocess.019.png"
 img1 <- readPNG(img1_path, native = TRUE, info = TRUE)
@@ -26,7 +26,7 @@ rm(img1_path, img1)
 Positioning the proces into the frame of @gardien_changing_2014.
 
 ## CD&E framework 2017-2018 (descriptive)
-```{r, fig.cap='Eerste schets van het CD\\&E design model uit 2018. ', echo=FALSE}
+```{r, out.width="50%", fig.cap='Eerste schets van het CD\\&E design model uit 2018. ', echo=FALSE}
 # img_dir <-
 img1_path <- "data/keynote-slides/20200430-CDE-Designprocess/20200430-CDE-Designprocess.020.png"
 img1 <- readPNG(img1_path, native = TRUE, info = TRUE)
@@ -43,7 +43,7 @@ Als methodiek is het model van @klinkers_navigeren_2014 toegepast waarin de aute
 Vanuit reflection in action ontstond het design-keten-proces, een basis template voor een CD&E-plan en een gemeenschappelijke taal.
 
 ## design-keten-proces 2018-2019
-```{r, fig.cap='Eerste opzet van MD\\&I activiteiten.', echo=FALSE}
+```{r, out.width="50%", fig.cap='Eerste opzet van MD\\&I activiteiten.', echo=FALSE}
 # img_dir <-
 img1_path <- "data/images/20190710-CDE-designproces_bouwstenenKeten.png"
 img1 <- readPNG(img1_path, native = TRUE, info = TRUE)
@@ -61,7 +61,7 @@ Trajecten van idee naar implementatie zijn uniek.
 Ieder traject een andere keten van bouwstenen.
 
 **de eerste canvassen**
-```{r, fig.cap='Eerste canvassen prototype.', echo=FALSE}
+```{r, out.width="50%", fig.cap='Eerste canvassen prototype.', echo=FALSE}
 # img_dir <-
 img1_path <- "data/keynote-slides/20200430-CDE-Designprocess/20200430-CDE-Designprocess.023.png"
 img1 <- readPNG(img1_path, native = TRUE, info = TRUE)
@@ -70,7 +70,7 @@ rm(img1_path, img1)
 ```
 
 **toetsingscriteria**
-```{r, fig.cap='De indicatoren voor Military Design \\& Innovation.', echo=FALSE}
+```{r, out.width="50%", fig.cap='De indicatoren voor Military Design \\& Innovation.', echo=FALSE}
 # img_dir <-
 img1_path <- "data/keynote-slides/20200430-CDE-Designprocess/20200430-CDE-Designprocess.024.png"
 img1 <- readPNG(img1_path, native = TRUE, info = TRUE)
@@ -90,7 +90,7 @@ rm(img1_path, img1)
 ```
 
 **laatste ontwerp canvassen**
-```{r, fig.cap='Final ontwerp canvassen.', echo=FALSE}
+```{r, out.width="50%", fig.cap='Final ontwerp canvassen.', echo=FALSE}
 # img_dir <-
 img1_path <- "data/keynote-slides/20200430-CDE-Designprocess/20200430-CDE-Designprocess.025.png"
 img1 <- readPNG(img1_path, native = TRUE, info = TRUE)
@@ -99,7 +99,7 @@ rm(img1_path, img1)
 ```
 
 ### organisatie 2019: multi-project management
-```{r, fig.cap='Organisatie structuur voor multi-project management ', echo=FALSE}
+```{r, out.width="50%", fig.cap='Organisatie structuur voor multi-project management ', echo=FALSE}
 # img_dir <-
 img1_path <- "data/keynote-slides/20200430-CDE-Designprocess/20200430-CDE-Designprocess.009-2.png"
 img1 <- readPNG(img1_path, native = TRUE, info = TRUE)
@@ -122,7 +122,7 @@ De vele individuele of specifieke teamleden werden onder Specialisten geschaard.
 De aanpak is een olievlekwerking. Met trajecten en programma’s creëren we voorbeelden waardoor operationele en bedrijfsmatige knelpunten zichtbaar worden zodat deze geadresseerd kunnen worden bij de juiste entiteiten. Dit draagt bij aan het structureel kort-cyclisch moderniseren in het landoptreden.
 
 ## design-keten-proces 2019-2020
-```{r, fig.cap='Verdieping van de uitvoering in drie activiteiten in 2019. ', echo=FALSE}
+```{r, out.width="50%", fig.cap='Verdieping van de uitvoering in drie activiteiten in 2019. ', echo=FALSE}
 # img_dir <-
 img1_path <- "data/keynote-slides/20200430-CDE-Designprocess/20200430-CDE-Designprocess.026.png"
 img1 <- readPNG(img1_path, native = TRUE, info = TRUE)
@@ -136,7 +136,7 @@ Het woord traject is geïntroduceerd om het discours en de mindset te richten op
 
 Ieder traject van idee naar implementatie is uniek en bestaat uit een keten van bouwstenen specifiek voor het voorliggend vraagstuk.
 
-```{r, fig.cap=' ', echo=FALSE}
+```{r, out.width="50%", fig.cap=' ', echo=FALSE}
 # img_dir <-
 img1_path <- "data/keynote-slides/20200430-CDE-Designprocess/20200430-CDE-Designprocess.027.png"
 img1 <- readPNG(img1_path, native = TRUE, info = TRUE)
@@ -146,7 +146,7 @@ rm(img1_path, img1)
 
 ### CD&E routines 2019-2020
 <!-- ![](_bookdown_files/images/keynote-slides/20200430-CDE-Designprocess/20200430-CDE-Designprocess.034.png) -->
-```{r, fig.cap=' ', echo=FALSE}
+```{r, out.width="50%", fig.cap=' ', echo=FALSE}
 # img_dir <-
 img1_path <- "data/keynote-slides/20200430-CDE-Designprocess/20200430-CDE-Designprocess.034.png"
 img1 <- readPNG(img1_path, native = TRUE, info = TRUE)
@@ -162,7 +162,7 @@ Een herijkingsproces diende daardoor reproduceerbaar en uitlegbaar te zijn aan a
 
 ### besluitvorming trajectvoorstellen 2019-2020
 <!-- ![](_bookdown_files/images/keynote-slides/20200430-CDE-Designprocess/20200430-CDE-Designprocess.037.png) -->
-```{r, fig.cap=' ', echo=FALSE}
+```{r, out.width="50%", fig.cap=' ', echo=FALSE}
 # img_dir <-
 img1_path <- "data/keynote-slides/20200430-CDE-Designprocess/20200430-CDE-Designprocess.037.png"
 img1 <- readPNG(img1_path, native = TRUE, info = TRUE)
@@ -175,7 +175,7 @@ Voorafgaand aan de besluitvorming wordt een stafadvies opgesteld door de CD&E tr
 Besluitvorming over een traject ligt in principe bij de Directeur Kennis & Ontwikkeling, dankzij de getoonde systematische aanpak is het vertrouwen gegeven om dit binnen CD&E te beleggen.
 
 ## organisatie transitie 2020
-```{r, fig.cap='Van multi projecten via 3-horizon model naar routekaarten.', echo=FALSE}
+```{r, out.width="50%", fig.cap='Van multi projecten via 3-horizon model naar routekaarten.', echo=FALSE}
 # img_dir <-
 img1_path <- "data/keynote-slides/20200430-CDE-Designprocess/20200430-CDE-Designprocess.009-3.png"
 img1 <- readPNG(img1_path, native = TRUE, info = TRUE)
@@ -188,7 +188,7 @@ In 2020 deden we een herijking op het project portfolio zodat de focus blijft op
 Het werd tijd voor de volgende stap waarin meer richting wordt gegeven aan de initiatieven vanuit ambitie, markt tempo en markt potentieel. De programmatische aanpak werdt daarvoor gekozen. Programma-managers inventariseren moderniseringsinitiatieven bij de 9-14 kennisadviseurs m.b.v. Boill Sharp’s 3-horizon model en visualiseren deze initiatieven in een hiërarchie-boom-structuur die routekaart werd genoemd.
 
 ## organisatie 2021: programma management
-```{r, fig.cap='Organisatie structuur naar programmatische aanpak ', echo=FALSE}
+```{r, out.width="50%", fig.cap='Organisatie structuur naar programmatische aanpak ', echo=FALSE}
 # img_dir <-
 img1_path <- "data/keynote-slides/20200430-CDE-Designprocess/20200430-CDE-Designprocess.009-4.png"
 img1 <- readPNG(img1_path, native = TRUE, info = TRUE)

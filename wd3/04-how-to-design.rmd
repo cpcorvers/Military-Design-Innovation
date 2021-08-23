@@ -1,15 +1,12 @@
 # How to design
-De Landmacht is een uitvoerende organisatie die door de Nederlandse regering of civiele autoriteiten wordt ingezet bij confliten, rampen en crisissituaties. Daardoor komen operationele Landmachteenheden in situaties die uitzonderlijk zijn. De kernprocessen van de Landmacht staan daarom in het teken van gereedstellen voor inzet onder verzwaarde omstandigheden.
+De Landmacht is een uitvoerende organisatie die door de Nederlandse regering of civiele autoriteiten wordt ingezet bij confliten, rampen en crisissituaties. Daardoor komen operationele Landmachteenheden in situaties die uitzonderlijk zijn. De kernprocessen van de Landmacht zijn gericht op het gereedstellen voor inzet onder verzwaarde omstandigheden.
 
-Parallel aan gereedstelling loopt de 'modernisering van CLAS' in de waterval aanpak; omgevingsanalyse, doctrine ontwikkeling, concept en plan ontwikkeling, financiering van nieuwe plannen, aanschaf en instroom materieel, en reorganiseren operationele eenheid. De bestaande Landmacht organisatie is hierdoor in een continue ontwikkel modus vanuit deze volgordelijkheid. Deze processen zijn echter ingericht op instandhouding en langtermijn plannen. Dit biedt ruimte voor nieuwe manieren om innovatie bij de Landmacht integraal met externe partijen uit te voeren in het tempo van de markt.
-
-De Landmacht ontwikkeld en innoveert in een context met een veelheid aan politieke, economische, academische en sociaal-maatschappelijke belangen. Deze context kenmerkt zich door de complexiteit van vraagstukken, verwevenheid van actoren en het ontbreken van formele kaders. Military Design & Innovation geeft nieuwe manieren om innovatie vraagstukken voor het landoptreden uit te voeren in deze complexe en fluïde context.
+Parallel aan gereedstelling loopt de 'modernisering van CLAS' in de waterval aanpak; omgevingsanalyse, doctrine ontwikkeling, concept en plan ontwikkeling, financiering van nieuwe plannen, aanschaf en instroom materieel, en reorganiseren operationele eenheid. De bestaande Landmacht organisatie is in een continue ontwikkel modus vanuit deze volgordelijke aanpak. De processen zijn echter ingericht op instandhouding en langtermijn plannen. Er is daarom behoefte aan nieuwe manieren om innovatie bij de Landmacht integraal met externe partijen uit te voeren in het tempo van de markt.
 
 <!-- VUCA : Volatile, Uncertain, Complex, Ambiguous environment -->
+Verregaande samenwerking met externe partijen vraagt om interconnectiviteit op elkaars interne processen. Naast gemeenschappelijke denkmodelen (hoofdstuk \@ref(how-to-think)) zijn ook gemeenschappelijke ontwerpprocessen nodig.<!--beschreven we denkmodellen waarin de effectbrenger (militaire capability) en het effect in de specifieke context abstract zijn uitgedrukt.-->  In dit hoofdstuk beschrijven we de design activiteiten en technieken die bijdragen aan het gemeenschappelijk ontwerpen en verbeelden van toekomstige militaire capabilities.
 
-In hoofdstuk \@ref(how-to-think) beschreven we denkmodellen waarin de effectbrenger (militaire capability) en het effect in de specifieke context abstract zijn uitgedrukt. In dit hoofdstuk beschrijven we de design activiteiten en technieken die bijdragen aan het gemeenschappelijk ontwerpen en verbeelden van toekomstige militaire capabilities.
-
-## Design
+## Design vaardigheden
 Military Design & Innovation is voornamelijk een actieve aanpak in dialoog met en over mensen, middelen en manieren. De aanpak bestaat uit een raamwerk (framework) en een activiteiten pallet. De activiteiten leiden tot de verbeelding en creatie van effectbrengers. De basis van deze activiteiten zijn de drie vaardigheden lokaliseren (localize), bevragen (question) en openstellen (open up) [@sennett_craftsman_2008].
 
 **localize**
@@ -24,7 +21,7 @@ Openstellen gaat over de betrokken professionals die vrijkomen uit de specifieke
 ## Military Design & Innovation framework
 Het Military Design & Innovation framework visualiseert de samenhang van effectbrengers, contexten en ontwikkelproces. Het framework biedt houvast tijdens het ontwerpen, ontwikkelen, experimenteren en samenwerken aan een beoogde effectbrenger in de toekomstige context. Het framework modeleert in één figuur (\@ref(fig:design-model)) de ontwikkeling van een effectbrenger, oftewel het traject van idee tot en met valideren in een abstracte visualisatie.
 
-```{r, design-model, fig.cap='Military Design \\& Innovation framework.', echo=FALSE}
+```{r, design-model, out.width="50%", fig.cap='Military Design \\& Innovation framework.', echo=FALSE}
 img_dir <- "data/images/"
 img_path <- "20210324-MDI-design-model.png"
 img <- paste(img_dir, img_path, sep="", collapse=NULL)
@@ -38,7 +35,7 @@ Backcasting gaat van rechts naar links. Dat wil zeggen, vanuit ambities en opera
 In een traject stellen we de hypothese dat een gemoderniseerde effectbrenger bijdraagt aan een gewenst effect in een toekomstige context. Tijdens de experimenten worden gemoderniseerde effectbrengers ingebracht in een afgebakende, gecontroleerde situatie. In deze experimentele context worden de prestaties en effecten gemeten.
 
 ## activiteiten pallet
-```{r, fig.cap='Pallet aan activiteiten binnen Military Design \\& Innovatie.', echo=FALSE}
+```{r, out.width="80%", fig.cap='Pallet aan activiteiten binnen Military Design \\& Innovatie.', echo=FALSE}
 img_dir <- "data/images/"
 img_path <- "20210401-MDI-activiteiten-pallet-1.png"
 img <- paste(img_dir, img_path, sep="", collapse=NULL)
@@ -52,7 +49,7 @@ In deze paragraaf worden de activiteiten van het huidige pallet toegelicht zodat
 ### idee generatie
 <!-- image aanpassen -->
 
-```{r, fig.cap=' ', echo=FALSE}
+```{r, out.width="70%", fig.cap=' ', echo=FALSE}
 img_dir <- "data/images/"
 img_path <- "20210401-MDI-ideegeneratie.png"
 img <- paste(img_dir, img_path, sep="", collapse=NULL)
@@ -77,7 +74,7 @@ In een backcasting worden ideëen gegenereerd vanuit ambitie. Het Ministerie van
 ### vraag articulatie
 <!-- image aanpassen -->
 
-```{r, fig.cap=' ', out.width="450pt", echo=FALSE}
+```{r, out.width="50%", fig.cap=' ', out.width="450pt", echo=FALSE}
 img_dir <- "data/images/"
 img_path <- "20210324-MDI-effectbrenger-ei.png"
 img <- paste(img_dir, img_path, sep="", collapse=NULL)
@@ -104,7 +101,7 @@ Vraagarticulatie leidt tot een duidelijker beeld van de beoogde effectbrenger en
 [Canvas vraag articulatie](data/images/20200116-CDE-canvassen-vraagarticulatie.png)
 
 ### traject organiseren
-```{r, fig.cap=' ', out.width="350pt", echo=FALSE}
+```{r, out.width="50%", fig.cap=' ', out.width="350pt", echo=FALSE}
 img_dir <- "data/images/"
 img_path <- "20210401-MDI-trajectorganiseren.png"
 img <- paste(img_dir, img_path, sep="", collapse=NULL)
@@ -139,7 +136,7 @@ Voor een betrouwbaar inkoopproces is het noodzakelijk om binnen de wet- en regel
 In tegenstelling tot de meeste inkooptrajecten wordt binnen Military Design & Innovation het inkopen, leveren en contractmanagement onder directe regie van hetzelfde projectteam uitgevoerd. Ook dit draagt bij aan de voortgang van het traject.
 
 ### continue dialoog
-```{r, vraag-aanbod, fig.cap='Eerste schets van het concept vraag-aanbod exploratie zoals toegepast in de dialoog ', echo=FALSE}
+```{r, vraag-aanbod, out.width="60%", fig.cap='Eerste schets van het concept vraag-aanbod exploratie zoals toegepast in de dialoog ', echo=FALSE}
 img_dir <- "data/images/"
 img_path <- "20200426-CDE-designproces_vraag-aanbod-exploratie_blauwdruk-v2.png"
 img <- paste(img_dir, img_path, sep="", collapse=NULL)
