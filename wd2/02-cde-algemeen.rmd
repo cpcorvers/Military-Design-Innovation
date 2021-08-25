@@ -1,3 +1,32 @@
-# Organisatie{#cde-algemeen}
+# Krijgsmacht ontwikkeling
+<!--
+```{r,  fig.cap=' ', echo=FALSE}
+# img_dir <-
+img1_path <- "data/keynote-slides/20200430-CDE-Designprocess/20200430-CDE-Designprocess.003.png"
+img1 <- readPNG(img1_path, native = TRUE, info = TRUE)
+knitr::include_graphics(img1_path)
+rm(img1_path, img1)
+```
+-->
+
+De Krijgsmacht moet goed getraind zijn en gedegen uitgerust worden. Het Ministerie van Defensie draagt zorg voor de ontwikkeling, gereedheid en waar nodig inzet van de Krijgsmacht.
+
+Op basis van toekomst verkenningen, veiligheidsscenario's, strategische- en operationele concepten en mogelijke toekomstige operationele omgevingen (MTO's) wordt richting gegeven aan het Krijgsmacht ontwikkelproces. Met beleidsplannen worden de benodigde capabilities gededuceerd, budgetten gealoceerd en middelen verworven. Als deze middelen worden samengebracht met mensen in een eenheid met specifieke taken is dit een militaire capaciteit.
+
+De innovatievraagstukken gaan --ondermeer-- over de ontwikkelingen die niet voorzienbaar of planbaar zijn in de BPB-cycli [^bpbcycli] van het Kerndepartement. De nieuwe manieren die de Afdeling Innovatie nastreeft zijn daarom aanvullend op de bestaande manieren voor ontwikkeling van de Krijgsmacht. Waar mogelijk gebruiken we bestaande programma's, projecten, processen en instructies. Hierdoor maken we optimaal gebruik van bestaande capaciteiten en middelen om de Krijgsmacht altijd technologisch hoogwaardig inzetbaar te houden.
+
+[^bpbcycli]: beleid, begroot en plan cylci
+
+
+## positionering in defensie organisatie
+```{r, out.width='70%', fig.cap='Positionering innovatiecentra binnen Defensie ', echo=FALSE}
+# img_dir <-
+img1_path <- "data/keynote-slides/20200430-CDE-Designprocess/20200430-CDE-Designprocess.009-1.png"
+img1 <- readPNG(img1_path, native = TRUE, info = TRUE)
+knitr::include_graphics(img1_path)
+rm(img1_path, img1)
+```
+
+CD&E is het innovatiecentrum van de Landmacht. Ook de andere defensieonderdelen kennen innovatiecentra, ieder opgebouwd in de kenmerken en cultuur van het defensieonderdeel.
 
 >De content van dit hoofdstuk wordt herschreven naar een globale introductie van het Krijgsmacht Ontwikkelproces van Defensie en het Commando Landstrijdkrachten. Neem contact met mij op voor de actuele informatie.

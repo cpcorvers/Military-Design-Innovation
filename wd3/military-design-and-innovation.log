@@ -1,4 +1,4 @@
-This is XeTeX, Version 3.141592653-2.6-0.999993 (TeX Live 2021) (preloaded format=xelatex 2021.8.11)  23 AUG 2021 18:56
+This is XeTeX, Version 3.141592653-2.6-0.999993 (TeX Live 2021) (preloaded format=xelatex 2021.8.11)  25 AUG 2021 20:56
 entering extended mode
  restricted \write18 enabled.
  %&-line parsing enabled.
@@ -815,8 +815,16 @@ File: data/keynote-slides/20200430-CDE-Designprocess/20200430-CDE-Designprocess
 <data/keynote-slides/20200430-CDE-Designprocess/20200430-CDE-Designprocess.008.
 png>
 
-LaTeX Warning: Reference `simpel-proces' on page 10 undefined on input line 259
-.
+Underfull \hbox (badness 4217) in paragraph at lines 259--260
+\TU/lmr/m/n/10 Figuur @ref((fig:simpel-proces)) en vereenvoudigde visualisatie 
+van het
+ []
+
+
+Underfull \hbox (badness 1552) in paragraph at lines 259--260
+\TU/lmr/m/n/10 gebieden. Grofweg kan de verantwoordelijkheid (responsibility) w
+orden
+ []
 
 [10] [11] [12] [13] [14
 
@@ -856,13 +864,13 @@ File: data/images/20210324-MDI-effectbrenger-ei.png Graphic file (type bmp)
 File: data/images/20210324-MDI-eieren-huidig.png Graphic file (type bmp)
 <data/images/20210324-MDI-eieren-huidig.png>
 
-LaTeX Warning: Reference `effect' on page 19 undefined on input line 348.
+LaTeX Warning: Reference `effect' on page 19 undefined on input line 352.
 
 
-LaTeX Warning: Reference `context' on page 19 undefined on input line 348.
+LaTeX Warning: Reference `context' on page 19 undefined on input line 352.
 
 [19]
-Underfull \hbox (badness 1515) in paragraph at lines 356--357
+Underfull \hbox (badness 1515) in paragraph at lines 360--361
 []\TU/lmr/m/n/10 Hierdoor onstaan twee contexten binnen Military Design & Innov
 ation.
  []
@@ -875,29 +883,28 @@ File: data/images/20210324-MDI-eieren-beweging-3.png Graphic file (type bmp)
 File: data/images/20210324-MDI-eieren-beweging-2.png Graphic file (type bmp)
 <data/images/20210324-MDI-eieren-beweging-2.png>
 [21] [22]
-
-LaTeX Warning: Reference `how-to-plan' on page 23 undefined on input line 460.
-
+File: data/images/presentatie-netwerk9.jpeg Graphic file (type bmp)
+<data/images/presentatie-netwerk9.jpeg>
 
 Underfull \vbox (badness 1337) has occurred while \output is active []
 
 [23]
 
 LaTeX Warning: Reference `wicked-problems' on page 24 undefined on input line 4
-66.
+81.
 
 [24] [25] [26
 
 ]
 Chapter 4.
 
-LaTeX Warning: Reference `how-to-think' on page 27 undefined on input line 493.
+LaTeX Warning: Reference `how-to-think' on page 27 undefined on input line 508.
 
 
 [27]
 
 LaTeX Warning: Reference `fig:design-model' on page 28 undefined on input line 
-512.
+527.
 
 File: data/images/20210324-MDI-design-model.png Graphic file (type bmp)
 <data/images/20210324-MDI-design-model.png>
@@ -910,24 +917,27 @@ File: data/images/20210401-MDI-ideegeneratie.png Graphic file (type bmp)
 [29]
 
 LaTeX Warning: Reference `continue-dialoog' on page 30 undefined on input line 
-574.
+589.
 
 File: data/images/20210324-MDI-effectbrenger-ei.png Graphic file (type bmp)
 <data/images/20210324-MDI-effectbrenger-ei.png>
 
-Overfull \hbox (104.99536pt too wide) in paragraph at lines 583--584
+Overfull \hbox (104.99536pt too wide) in paragraph at lines 598--599
  [][] 
  []
+
+
+Underfull \vbox (badness 3590) has occurred while \output is active []
 
 [30] [31]
 
 LaTeX Warning: Reference `toekomstige-context' on page 32 undefined on input li
-ne 611.
+ne 626.
 
 File: data/images/20210401-MDI-trajectorganiseren.png Graphic file (type bmp)
 <data/images/20210401-MDI-trajectorganiseren.png>
 
-Overfull \hbox (4.994pt too wide) in paragraph at lines 622--623
+Overfull \hbox (4.994pt too wide) in paragraph at lines 637--638
  [][] 
  []
 
@@ -936,62 +946,69 @@ File: data/images/20200426-CDE-designproces_vraag-aanbod-exploratie_blauwdruk-v
 2.png Graphic file (type bmp)
 <data/images/20200426-CDE-designproces_vraag-aanbod-exploratie_blauwdruk-v2.png
 >
+[34]
 
-LaTeX Warning: Reference `fig:vraag-aanbod' on page 34 undefined on input line 
-681.
+LaTeX Warning: Reference `fig:vraag-aanbod' on page 35 undefined on input line 
+696.
 
-[34] [35] [36
+[35] [36
 
 ]
 Chapter 5.
-[37] [38
 
-]
-Chapter 6.
+LaTeX Warning: Reference `how-to-think' on page 37 undefined on input line 707.
+
+
+
+LaTeX Warning: Reference `how-to-design' on page 37 undefined on input line 707
+.
+
+
+Underfull \vbox (badness 10000) has occurred while \output is active []
+
+[37]
+Underfull \hbox (badness 2512) in paragraph at lines 717--719
+[]\TU/lmr/bx/n/10 versnellen \TU/lmr/m/n/10 Overheidsorganisaties als het Minis
+terie van Defensie dient
+ []
+
+[38]
+File: data/images/presentatie-netwerk7.jpeg Graphic file (type bmp)
+<data/images/presentatie-netwerk7.jpeg>
 [39]
-File: data/images/presentatie-netwerk3.jpeg Graphic file (type bmp)
-<data/images/presentatie-netwerk3.jpeg>
-
-Underfull \hbox (badness 3364) in paragraph at lines 745--747
+File: data/images/presentatie-netwerk10.jpeg Graphic file (type bmp)
+<data/images/presentatie-netwerk10.jpeg>
+[40]
+Underfull \hbox (badness 3364) in paragraph at lines 793--794
 []\TU/lmr/m/n/10 In een traject loodst een multi-disciplinair team het specifie
 ke inno-
  []
 
 
-Underfull \hbox (badness 1571) in paragraph at lines 745--747
-\TU/lmr/m/n/10 vatievraagstuk door een aaneenschakkeling van activiteiten . Hie
-rdoor
+Underfull \hbox (badness 2884) in paragraph at lines 793--794
+\TU/lmr/m/n/10 vatievraagstuk door een aaneenschakkeling van activiteiten. Hier
+door
  []
 
 
-Underfull \hbox (badness 1424) in paragraph at lines 745--747
+Underfull \hbox (badness 1424) in paragraph at lines 793--794
 \TU/lmr/m/n/10 ontwikkeld het multi-disciplinaire team met partners de beoogde 
 effect-
  []
 
-File: data/images/presentatie-netwerk7.jpeg Graphic file (type bmp)
-<data/images/presentatie-netwerk7.jpeg>
-
-Underfull \vbox (badness 2856) has occurred while \output is active []
-
-[40] [41]
-File: data/images/presentatie-netwerk9.jpeg Graphic file (type bmp)
-<data/images/presentatie-netwerk9.jpeg>
-File: data/images/presentatie-netwerk10.jpeg Graphic file (type bmp)
-<data/images/presentatie-netwerk10.jpeg>
-[42]
+[41]
 ! Dimension too large.
 <argument> \wd \@tempboxa 
                           
-l.797 ...mages/20210401-MDI-activiteiten-pallet-2}
+l.802 ...mages/20210401-MDI-activiteiten-pallet-2}
                                                    
 Here is how much of TeX's memory you used:
- 16077 strings out of 478475
- 305535 string characters out of 5857860
- 743242 words of memory out of 5000000
- 36157 multiletter control sequences out of 15000+600000
- 407433 words of font info for 72 fonts, out of 8000000 for 9000
+ 16047 strings out of 478475
+ 304383 string characters out of 5857860
+ 744242 words of memory out of 5000000
+ 36130 multiletter control sequences out of 15000+600000
+ 407425 words of font info for 71 fonts, out of 8000000 for 9000
  14 hyphenation exceptions out of 8191
- 87i,8n,120p,899b,421s stack positions out of 5000i,500n,10000p,200000b,80000s
+ 87i,8n,120p,899b,417s stack positions out of 5000i,500n,10000p,200000b,80000s
 
-Output written on military-design-and-innovation.pdf (42 pages).
+Output written on military-design-and-innovation.pdf (41 pages).

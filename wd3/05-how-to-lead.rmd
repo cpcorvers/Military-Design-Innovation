@@ -1,58 +1,51 @@
 # How to develop
+De Landmacht ontwikkeld en innoveert in een context met een veelheid aan politieke, economische, academische en sociaal-maatschappelijke belangen. Kenmerken van deze organisatorische context zijn de complexiteit van vraagstukken (inhoud), verwevenheid van actoren (relaties) en het ontbreken van formele kaders (macht). Hierin onstaan complexe genetwerkte problemen [@dorst_mixing_2018] waar de bureaucratische en hierarchische Defensie organisatie niet altijd effectief en wenselijk kan handelen.
 
-## modernisering
+In deze organisatorische context zoekt de Landmacht naar innovaties die over de grenzen van organisaties en vakdisciplines heengaan. Een genetwerkte vraaggerichte aanpak in de organisatorische context moet bestaan naast de hierarchische opdrachtgerichte aanpak in de operationele context van de Landmacht. Dit maakt multi-disciplinair en multi-organisationeel samenwerken uitdagend. Zeker als de actoren in nieuwe, onbekende rollen terrecht komen. Het is dan extra belangrijk om elkaar, de contexten en omstandigheden te begrijpen.
 
-## proces
+De professionals moeten hierin effectief acteren zodat de belangen voor de Landmacht en het landoptreden geborgd zijn. Verregaande samenwerking met externe partijen vraagt om interconnectiviteit op de verschillende niveaus van elkaars organisatie. Naast gemeenschappelijke denkmodelen (hoofdstuk \@ref(how-to-think)) en ontwerpprocessen (hoofdstuk \@ref(how-to-design)) zijn ook realisatie vaardigheden en processen nodig. In dit hoofdstuk beschrijven we de enkele relevante actoren en factoren die bijdragen aan het gemeenschappelijk ontwikkelen en realiseren van toekomstige militaire capabilities.
 
-## leaderschip
+## realisatie vaardigheden
+Military Design & Innovation is een aanpak gericht op realisatie samen met de relevante interne[^interneactoren] en externe actoren. De bijhorende strategiën hebben drie kenmerken gemeen die als vaardigheden van de professional terugkomen. Dit zijn verbinden, versnellen en vermarkten.
 
+[^interneactoren]: Met interne actoren doelen we op medewerkers en organisatiedelen van het Ministerie van Defensie.
 
-# How to lead <!-- act{#cde-design-model} -->
-<!--
-Een Landmacht is bij uitstek een organisatie om te leren van en over leiderschap. De militair heeft een fysiek en mentaal veeleisend beroep onder soms extreme omstandigheden. De militair officier [^officier] moet daarom in verschillende situaties leiding kunnen geven en ontvangen. De verschillende vormen van leidinggeven lopen als een rode draad door de loopbaan van de officier. Het Defensie Leiderschapskompas geeft houvast aan de professional die leiderschap neemt over zichzelf en zijn omgeving.
--->
+**verbinden**
+De professional en organisatie zet zich in om de procedures, afdelingen, functionarissen, projecten en programma's met elkaar te verbinden op het specifieke innovatie vraagstuk. Door de contacten in de Directie K&O en de Defensie organisatie beschikt het multi-disciplinaire team over een groot relatienetwerk en creëeren zij overzicht en inzicht in de innovatie initiatieven die binnen de organisatie spelen.
 
-De Landmacht ontwikkeld en innoveert in een context met een veelheid aan politieke, economische, academische en sociaal-maatschappelijke belangen. Kenmerken van deze innovatiecontext zijn de complexiteit van vraagstukken (inhoud), verwevenheid van actoren (relaties) en het ontbreken van formele kaders (macht).
-<!--Military Design & Innovation geeft nieuwe manieren om innovatie vraagstukken voor het landoptreden uit te voeren in deze complexe en fluïde context.
--->
-<!--
-Het Commando Landstrijdkrachten streeft naar nieuwe manieren om relevante innovatie bij de Landmacht integraal met externe partijen uit te voeren in het tempo van de markt. De omstandigheden waaronder we willen innoveren in het landoptreden zijn vluchtig, onzeker, complex en ambigu [^vuca].
--->
-Samenwerken onder zulke omstandigheden is uitdagend, zeker als de actoren ook in andere, onbekende, rollen terrecht komen. Het is daarom extra belangrijk om elkaar, de contexten en omstandigheden te begrijpen. De professionals moeten hierin effectief acteren zodat de belangen voor de Landmacht en het landoptreden geborgd zijn.
-Dit vraagt specialistische kennis, unieke vaardigheid en een reflecterende attitude. De professional moet een lerend vermogen bezitten en (zelf)leiderschap tonen.
-Het multi-actornetwerk model biedt tools om elkaar, de context en omstandigheden te begrijpen.
-Het Defensie Leiderschapskompas [@ministerie_van_defensie_visie_2015] geeft houvast aan de professional[^officier] die leiderschap neemt over zichzelf, een context of vraagstuk.
-Dit hoofdstuk beschrijft een aantal doorontwikkelde handelingsperspectieven voor de professional om gezamenlijk een innovatietraject te doorlopen.
+**versnellen**
+Overheidsorganisaties als het Ministerie van Defensie dient transparant, non-discriminatief en proprotioneel om te gaan met de opgedragen taken en toebedeelde middelen van de maatschappij. De daaruit volgende bureaucratische organisatie draagt zorg voor het hoog houden van de sociaal-maatschappelijke waarden. Soms slaan regels en procedures door of blijken te ontbreken. Dit kan zorgen voor vertragingen bij het innoveren. Vertragingen worden adequaat opgepakt met kennis van de processen, vaardigheid in de handelingsperspectieven en de contacten met verantwoordelijke functionarissen of afdelingen. De Afdeling Innovatie heeft het vertrouwen binnen de organisatie om verantwoord en doelgericht te handelen binnen de staande wet- en regelgeving.
 
-[^officier]: binnen de profielschets Krijgsmacht officier lezen we voor de militair officier ook de burger gelijkgestelde medewerker.
-<!--
-[^vuca]: de profielschets Krijgsmacht officier noemt dit een Volatile, Uncertain, Complex, Ambiguous environment (VUCA)
--->
+**vermarkten**
+De oplossingen voor de innovatie vraagstukken van de Landmacht liggen bij externe partners zoals MKB, kennisinstituten en start-ups. Samenwerken aan gemeenschappelijke belangen is daarin een belangrijk uitgangspunt. Door de vragen in de Landmacht-organisatie te koppelen aan het oplossingsvermogen van externe partijen ontstaan de military capabilities van de toekomst.
 
-## structureren
-Bij het doorlopen van een innovatietraject is het belangrijk om een compleet mogelijk beeld te krijgen op de context. Het is vervolgens aan het multidisciplinaire team om de activiteiten zo te plannen en organiseren <!--in projecten en programma's -->dat het innovatievraagstuk succesvol wordt ontwikkeld, geexperimenteerd en gevalideerd.
+De verbinding tussen professionals creëert daarbij ook toegang tot de juiste afdelingen en functionarissen binnen de organisatie wat bijdraagt aan relatienetwerk vol diversiteit.
 
-Om dit te bereiken zijn vele strategiëen, organisatorische activiteiten en tactieken toepasbaar op een innovatietraject. De Afdeling Innovatie kiest voor een programmatische aanpak bij het realiseren van innovatie. Military Design & Innovation ondersteund deze aanpak met het multi-actornetwerk denken [^orgcontext] en procesregie. Deze 'thinking tools' zijn aanvullend op het programma-management van de innovatiethema's en projectmanagement van de innovatieprojecten.
+## aanpak van innovatie
+In het Military Design & Innovation framework zien we de samenhang van effectbrengers, contexten en ontwikkelproces. In het design proces ligt de focus op de effectbrengers en de operationele contexten. Naast het design proces (verbeelden) kent het innovatietraject ook een realisatieproces (maken). In het realisatieproces ligt de focus op de organisatorische contexten, het ontwikkelen, valideren en implementeren van de militaire capability.
+
+In het realisatieproces is het belangrijk om een compleet mogelijk beeld te krijgen op de organisatorische context. Het is vervolgens aan het multi-disciplinaire team om de activiteiten zo te plannen en organiseren dat het innovatie vraagstuk succesvol wordt ontwikkeld, geëxperimenteerd en gevalideerd.
+
+Om dit te bereiken zijn vele strategiëen, organisatorische activiteiten en tactieken toepasbaar op een innovatietraject. De Afdeling Innovatie kiest voor een programmatische aanpak bij het realiseren van innovatie. Military Design & Innovation ondersteund deze aanpak met het multi-actornetwerk denken [^orgcontext]. Deze 'thinking tool' is aanvullend op het programma-management van de innovatiethema's en projectmanagement van de innovatieprojecten.
 
 Allereerst een korte beschrijving van de termen traject, project en programma binnen de Afdeling Innovatie.
 
-[^orgcontext]:  Een verdere toelichting is beschreven in paragraaf \@ref(organisatorische context)
-### terminologie
-**project**
+[^orgcontext]: Een verdere toelichting is beschreven in paragraaf \@ref(organisatorische context)
 
+**project**
 Een project is een afgebakende activiteit met toegewezen resources en vastgelegde (externe) partners om een specifiek capability concept te ontwikkelen, experimenteren en/of valideren.
 
 **programma**
-
 Een programma is een thematisch ingericht ‘verzamelgebied’ waarvoor we resources en partners zoeken en binden en waarin we verschillende initiatieven (projecten, fieldlabs, NTP’s, onderzoeken) optuigen om de Landmacht ambities na te streven.
 
 **traject**
-
 Een traject is de keten van (proces)activiteiten die relevante spelers doorlopen om een idee of ambitie te brengen tot structurele opname in de staande organisatie (implementatie).
 
 Waar projecten en programma’s zijn gericht op het bereiken van een gedefinieerd doel met inzet van mensen en middelen, is een traject een proces om het denken en handelen te richten en ondersteunen.
 
-## netwerk en proces benadering
+
+### netwerk benadering
+<!--
 ```{r, keten, out.width="60%", fig.cap='Eigenschappen multi-actorennetwerk vs hierarchische structuur', echo=FALSE}
 img_dir <- "data/images/"
 img_path <- "presentatie-netwerk3.jpeg"
@@ -60,24 +53,11 @@ img <- paste(img_dir, img_path, sep="", collapse=NULL)
 knitr::include_graphics(img)
 rm(img_dir, img_path, img)
 ```
-relevante actoren en factoren van invloed
-
-In een traject loodst een multi-disciplinair team het specifieke innovatievraagstuk door een aaneenschakkeling van activiteiten <!-- in een specifiek daarvoor georchestreerd traject-->. Hierdoor ontwikkeld het multi-disciplinaire team met partners de beoogde effectbrenger van concept tot een valide militaire capability. <!--Deze keten van activiteiten en technieken (of traject) wordt door het multi-disciplinaire team uitgevoerd.-->
-Het traject is geen voorgeschreven set aan regels, formules of procedures maar een situationeel en context afhankelijk toepassen van de meest effectieve interactie tussen actoren, activiteiten en technieken om het idee te laten slagen. Het traject is een ontdekkingsreis met één gemeenschappelijk doel, het specifieke idee brengen tot de implementatie van een vernieuwd militair concept in het landoptreden.
-
-<!--
-Om dit traject overzichtelijk te houden spreken we over een aantal fasen zonder voor te schrijven dat het traject fasegewijs vorm moet krijgen!
 -->
+De professional bezit enige kennis van netwerkdynamiek om strategisch te acteren en bewust te handelen in de organisatorische context. Binnen Military Design & Innovation wordt het multi-actornetwerk model gebruikt als thinking tool waarmee de professional effectief gedrag vertoont. In dit model wordt de context beschouwd als een netwerk van relevante actoren en factoren met onderlinge interacties.
 
-<!--
-
-voortbrengingsketen is bgericht op het maken van een product (p.17)
-regieketen is gericht op het beter besturen en managen (p.17)
-
-
--->
-### actoren
-```{r, actoren, out.width="60%", fig.cap='Eigenschappen actor in multi-actorennetwerk', echo=FALSE}
+#### actoren
+```{r, actoren, out.width="60%", fig.cap='Eigenschappen actor in multi-actornetwerk', echo=FALSE}
 img_dir <- "data/images/"
 img_path <- "presentatie-netwerk7.jpeg"
 img <- paste(img_dir, img_path, sep="", collapse=NULL)
@@ -91,15 +71,8 @@ De actoren[^actoren] hebben standpunten, belangen, middelen, relaties en een rep
 [^actoren]: in deze worden ook factoren zoals programma's en projecten bedoelt.
 [^fence]: positie is neutraal of er is nog geen keuze gemaakt.
 
-### interactie
-```{r, relaties, out.width="60%", fig.cap='Eigenschappen relaties in multi-actorennetwerk', echo=FALSE}
-img_dir <- "data/images/"
-img_path <- "presentatie-netwerk9.jpeg"
-img <- paste(img_dir, img_path, sep="", collapse=NULL)
-knitr::include_graphics(img)
-rm(img_dir, img_path, img)
-```
-```{r, verbinding, out.width="60%", fig.cap='Kenmerken van een verbonden multi-actorennetwerk', echo=FALSE}
+#### interactie
+```{r, verbinding, out.width="60%", fig.cap='Kenmerken van een verbonden multi-actornetwerk', echo=FALSE}
 img_dir <- "data/images/"
 img_path <- "presentatie-netwerk10.jpeg"
 img <- paste(img_dir, img_path, sep="", collapse=NULL)
@@ -114,17 +87,23 @@ Bijna alle actoren[^actoren] in de innovatiecontext van Defensie zijn verbonden 
 
 De mate waarin en het tijdstip waarop het multi-disciplinaire team de interactie zoekt met een actor is afhankelijk van veel factoren. Door de interactie te overwegen en plannen ontstaat strategisch gedrag van het team en de omgeving. Dit 'spel' gaat vooral over macht en positie en veel minder over de inhoud van het innovatievraagstuk. De professional werkzaam in het innovatielandschap van Defensie moet zich hiervan bewust zijn.
 
+## realisatieproces
+Het ontwerpen en maken van een militaire capability verloopt parallel binnen Military Design & Innovation. Nadenken over het ontwerp geeft inzichten voor het maken en vice versa. Beide processen versterken elkaar en dragen bij aan het uiteindelijke implementeren van het design concept van de toekomstige militaire capability.
+
+In een traject loodst een multi-disciplinair team het specifieke innovatievraagstuk door een aaneenschakkeling van activiteiten. Hierdoor ontwikkeld het multi-disciplinaire team met partners de beoogde effectbrenger van concept tot een valide militaire capability. Het traject is geen voorgeschreven set aan regels, formules of procedures maar een situationeel en context afhankelijk toepassen van de meest effectieve interactie tussen actoren, activiteiten en technieken om het idee te laten slagen. Het traject is een ontdekkingsreis met één gemeenschappelijk doel, het specifieke idee brengen tot de implementatie van een vernieuwd militair concept in het landoptreden.
+
+De inzichten op het vraagstuk en aansluiting van actoren groeien onvoorspelbaar en in wisselend tempo. Iedere actor brengt nieuwe inzichten op het vraagstuk en vanuit het vraagstuk ontstaat weer behoefte aan andere actoren. Dit is een itteratief of cyclisch proces. Om deze groeicurve en de activiteiten in het traject enigszins overzichtelijk te maken is een fasering aangebracht.
+
 ### fasering
-```{r, out.width="60%", fig.cap='Fasering van het proces voor Military Design \\& Innovatie.', echo=FALSE}
+```{r, out.width="85%", fig.cap='Fasering van het proces voor Military Design \\& Innovatie.', echo=FALSE}
 img_dir <- "data/images/"
 img_path <- "20210401-MDI-activiteiten-pallet-2.png"
 img <- paste(img_dir, img_path, sep="", collapse=NULL)
 knitr::include_graphics(img)
 rm(img_dir, img_path, img)
 ```
-De inzichten op het vraagstuk en aansluiting van actoren groeien onvoorspelbaar en in wisselend tempo. Iedere actor brengt nieuwe inzichten op het vraagstuk en vanuit het vraagstuk ontstaat weer behoefte aan andere actoren. Dit is een itteratief of cyclisch proces. Om deze groeicurve en de activiteiten in het traject enigszins overzichtelijk te maken is een fasering aangebracht.
 
-In het innovatietraject herkennen we drie fasen; het ontwikkelen van een plan, experimenteren met het idee en valideren van de resultaten. Deze fasen moeten leiden tot implementatie waar het multidisciplinaire team in principe de verantwoordelijkheid overdraagd aan de afdelingen binnen de staande organisatie.
+In het innovatietraject herkennen we drie fasen; het ontwikkelen van een plan, experimenteren met het idee en valideren van de resultaten. Deze fasen moeten leiden tot implementatie waar het multi-disciplinaire team in principe de verantwoordelijkheid overdraagd aan de afdelingen binnen de staande organisatie.
 
 #### ontwikkelfase
 Tijdens de ontwikkelfase worden ambities verwoord, ideeën gegenereerd, vragen gearticuleerd en het samenwerkverband georganiseerd. Afhankelijk van het vraagstuk kan dit abstract of onduidelijk zijn maar ook specifiek en gedetaileerd. De ontwikkelfase resulteerd in een plan waarin staat wie --in beginsel-- samenwerkt, wat het gemeenschappelijk resultaat is en via welke route het samenwerkverband het gemeenschappelijk resultaat hoopt te bereiken.
@@ -137,6 +116,34 @@ Met de validatie evalueren de samenwerkende partners, de opdrachtgever en releva
 
 #### implementatiefase
 Voor het opnemen van de vernieuwde capabilities binnen de Krijgsmacht moeten verschillende processen worden opgestart. Hiervoor moet de unieke combinatie van mens, manieren en middelen (beoogde effectbrenger) worden opgespitst in organisatorische wijzigingen (re-organisatie traject), doctrine aanpassingen (doctrine publicatie wijzigingen) en materieelprojecten (projectkaarten in het DLP wijzigen of inbrengen). Het multidisciplinaire team houdt rekening met de initiatie van deze afzonderlijke elementen tijdens het hele traject. Ook bewaakt het multidisciplinaire team de initiatie na rapportage over de bevindingen uit de validatie fase.
+
+## leiderschap
+Leiderschap is het beinlvoeden van anderen zodat jouw rechten, plichten, belangen, wensen en behoeften worden nagestreefd. Iedere organisatie, organisatiedeel en professional past leiderschap toe.
+
+Iedere fase kent een specifieke dynamiek. De ontwikkelfase heeft een verkennend karakter, de context wordt getekend en een probleem wordt gezocht en gedefinieerd. De experimenteerfase heeft een exploratief karakter, oplossingen worden gecreëerd en getest en de context wordt uitgedaagd. De validatiefase heeft een onderzoekend karakter, de oplossing en de resulterende context worden gestaafd aan het beoogde toekomstig militair optreden. De verschillende fasen kennen daarbij ook specifieke wetten en standaarden.
+
+De kunst is in deze dynamiek de belangen samen te brengen tot een gemeeschappelijk resultaat of doel. Daarvoor vertonen actoren strategisch, tactisch en uitvoerend gedrag. Ze nemen in de verschillende fasen een rol aan om het eigen- en gemeenschappelijk belang na te streven.
+
+### Defensie leiderschapskompas
+```{r, out.width="70%", fig.cap='Leiderschapskompas Defensie.', echo=FALSE}
+img_dir <- "data/images/"
+img_path <- "leiderschapskompas.png"
+img <- paste(img_dir, img_path, sep="", collapse=NULL)
+knitr::include_graphics(img)
+rm(img_dir, img_path, img)
+```
+Het beschreven leiderschap vraagt verschillende competenties en rollen van de professional. Het Defensie leidderschapskompas helpt de professional te navigeren tussen de verschillende gedragingen en rollen binnen de organisatorische context [@ministerie_van_defensie_visie_2015].
+
+"Leiders van nu hebben karakter én vaardigheden. Ze kunnen snel, effectief en bewust hun leiderschapsstijl aanpassen aan wat de situatie op dat moment vraagt. Bovendien kennen ze de beperkingen van hun voorkeursstijl en blijven ze leren, van zichzelf én van anderen."[@ministerie_van_defensie_visie_2015, p3]
+
+"Karakter (zijn) en gedrag (doen) zijn kernelementen van leidinggeven. Het leiderschapskompas geeft weer wat binnen Defensie als gewenst karakter en gedrag wordt ervaren. Het gewenste karakter en het gewenste gedrag staan op zichzelf niet garant voor succes. Ook het aanpassen aan en inspelen op de situatie en het willen verbeteren (leren) is noodzakelijk. Defensie schrijft dan ook niet één leiderschapstheorie of stijl voor, maar doet een beroep op je leervermogen en je reflectievermogen. Goed leidinggeven is doen wat nodig is. Kennis over jezelf, de ander, het team en de bredere context zorgen ervoor dat je op het juiste moment doet wat nodig is"[@ministerie_van_defensie_visie_2015, p7].
+
+De rollen en competenties van het leiderschapskompas kunnen aangevuld worden met de rollen en competenties uit het functieprofiel van de Medewerker Innovatie [^cderollen]. De professional is effectief door het tactisch inzetten van competenties, strategisch acteren in een rol en de ervaringen van de profesional en het team. Deze worden versterkt door het reflecterend vermogen van de professional en het lerend vermogen van het multi-disciplinaire team. De Afdeling Innovatie zet daarom sterk in op de reflectie [^reflectie] van de professional en het team door educatie en trainingsactiviteiten.
+
+[^cderollen]: De functies, rollen en kwalificatieprofielen van de Afdeling Innovatie zijn nog in ontwikkeling en worden medio 2022 vastgelegd.
+[^reflectie]: In de Visie Leiderschap [@ministerie_van_defensie_visie_2015] staan refletievragen voor het individu, team en context.
+
+
 <!--
 ### netwerk dynamiek
 
@@ -147,22 +154,6 @@ Werken aan innovatievraagstukken kenmerkt zich door botsende logica's, ontbreken
 Ketenregie heeft ook een keerzijde, het is intensief en vraagt investeringen in tijd, menskracht en funding. De minder complexe benaderingen zoals project- of programma structuur moeten daarom ook worden overwogen door het multi-disciplinaire team. De ervaringen leren dat de ontwikkelfase vanuit ketenregie worden opgestart en bij voldoende overeenstemming en betrokkenheid van actoren met de experimenteerfase overgaan in een project en/of programma.
 -->
 
-## leiderschap
-Iedere fase kent een specifieke dynamiek. De ontwikkelfase heeft een verkenend karakter, de context wordt getekend en een probleem wordt gezocht en gedefinieerd. De experimenteerfase heeft een exploratief karakter, oplossingen worden gecreeerd en getest en de context wordt uitgedaagd. De validatiefase heeft een onderzoekend karakter, de oplossing en de resulterende context worden gestaafd aan het beoogde toekomstig militair optreden. De verschillende fasen kennen ondermeer specifieke wetten en standaarden. Dit vraagt verschillende professionele competenties en rollen. Het leidderschapskompas helpt de professional navigeren tussen de verschillende gedragingen en rollen binnen het netwerk.
-
-### Defensie leiderschapskompas
-"Leiders van nu hebben karakter én vaardigheden. Ze kunnen snel, effectief en bewust hun leiderschapsstijl aanpassen aan wat de situatie op dat moment vraagt. Bovendien kennen ze de beperkingen van hun voorkeursstijl en blijven ze leren, van zichzelf én van anderen."[@ministerie_van_defensie_visie_2015, p3]
-
-"Karakter (zijn) en gedrag (doen) zijn kernelementen van leidinggeven. Het leiderschapskompas geeft weer wat binnen Defensie als gewenst karakter en gedrag wordt ervaren. Het gewenste karakter en het gewenste gedrag staan op zichzelf niet garant voor succes. Ook het aanpassen aan en inspelen op de situatie en het willen verbeteren (leren) is noodzakelijk. Defensie schrijft dan ook niet één leiderschapstheorie of stijl voor, maar doet een beroep op je leervermogen en je reflectievermogen. Goed leidinggeven is doen wat nodig is. Kennis over jezelf, de ander, het team en de bredere context zorgen ervoor dat je op het juiste moment doet wat nodig is."[@ministerie_van_defensie_visie_2015, p7]
-
-#### leervermogen
-
-#### reflectievermogen
-
-#### situatie
-
-#### rollen
-Het beschrijven van context, selecteren van activiteiten en betrekken van partners is eerder een kunst dan wetenschap. Deze kunst is het craftmanship van medewerker van de Afdeling Innovatie. De verschillende rollen die bijdragen in een traject worden beschreven in kwalificatieprofielen. Voor een actueel profiel kunt u contact opnemen met de Afdeling Innovatie.
 
 <!--
 ### karakter (zijn)
@@ -201,7 +192,9 @@ Het beschrijven van context, selecteren van activiteiten en betrekken van partne
 ##### opdrachtnemer {-}
 
 -->
+<!--
 ## middelen
+-->
 <!--
 ```{r, fig.cap='Middelen voor faciliteren en ondersteunen van innovatie door de afdeling Innovatie (io) ', echo=FALSE}
 # img_dir <-
@@ -211,8 +204,8 @@ knitr::include_graphics(img1_path)
 rm(img1_path, img1)
 ```
 -->
-De uitvoering van innovatieprojecten vindt plaats op locatie en in eigenaarschap van een kenniscentrum of parate eenheid, de afdeling Innovatie (io) steunt en faciliteert. Hiervoor heeft de afdeling Innovatie (io) een aantal middelen en diensten tbeschikbaar. Dit zijn de middelen en diensten die niet vanzelfsprekend toegankelijk zijn voor de betrokken partijen of vanwege schaarste of efficiëntie beter tot hun recht komen door centrale positionering.
-
+<!--
+De uitvoering van innovatieprojecten vindt plaats op locatie en in eigenaarschap van een Kenniscentrum of parate eenheid, de Afdeling Innovatie steunt en faciliteert. Hiervoor heeft de Afdeling Innovatie toegang tot een aantal middelen en diensten. Dit zijn de middelen en diensten die niet vanzelfsprekend toegankelijk zijn voor de betrokken partijen of vanwege schaarste of efficiëntie beter tot hun recht komen door centrale positionering. Hieronder een limitatief aantal voorbeelden van middelen of diensten.
 
 ### experimenteer omgeving
 Nieuwe middelen, manieren, concepten en systemen maken in experimenten contact met de werkelijke wereld. Dit gebeurt in een experimenteer omgeving. Afhankelijk van vele factoren kan dit een gecontroleerde omgeving zijn zoals een lab of opleidingsomgeving maar ook in near-real-life omgevingen zoals een oefening of missiegebied. Door onze contacten en relaties zijn de mogelijke experimenteeromgevingen bijna eindeloos. In sommige trajecten of vraagstukken worden speciale experimenteer omgevingen gecreëerd. De Landmacht en haar potentiele partners hebben zeker behoefte aan een kampement zoals in missiegebieden wordt gebruikt. Daarvoor is het Fieldlab Smartbase ontworpen en gebouwd.
@@ -232,3 +225,4 @@ Sinds september 2019 is het Fieldlab Smartbase verhuist naar Complex Ede-Driespr
 
 #### incubatiehub
 De Landmacht participeert in verschillende challenges om studenten en start-ups mee te laten denken met onze innovatie vraagstukken. De TU Challenges is daarvan een voorbeeld. Wij hopen op termijn te werken aan incubatiehubs waar verschillende partners samen werken aan innovatie vraagstukken waaronder die van de Landmacht.
+-->

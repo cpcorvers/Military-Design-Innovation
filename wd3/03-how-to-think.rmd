@@ -1,4 +1,4 @@
-# How to think <!--{#kort-cyclisch-moderniseren}-->
+# How to think
 De Landmacht is een rijksoverheidsorganisatie die -waar nodig- een zwaardmacht moet zijn op plekken waar vrede en veiligheid geen vanzelfsprekendheid is. Vanuit de grondwettelijke taken is afgeleid hoe de Landmacht optreedt, welke materieel en personele middelen daarvoor nodig zijn en hoe dit wordt georganiseerd. Deze lineaire denkmodellen dragen decenia lang bij aan de innovatie in het landoptreden. De bestaande Landmacht organisatie is in een continue verbeter modus vanuit deze volgordelijkheid.
 
 De technologische en sociale innovaties gaan echter zo snel dat ook op andere, snellere manieren wordt gekeken naar modernisering van de bestaande organisatie en vernieuwing voor de toekomstige organisatie. Military Design & Innovation geeft nieuwe manieren om innovatie bij de Landmacht uit te voeren in het tempo van de markt. Centraal staat daarbij een integrale aanpak met externe partijen.
@@ -137,20 +137,26 @@ De relevante actoren van invloed hebben een wederzijdse afhankelijkheid met elka
 Dit dynamisch geheel van wederzijds afhankelijke actoren, die interventies plegen, onderlinge variëteit kennen en zich relatief gesloten kunnen opstellen noemt @bruijn2017management een multi-actornetwerk. Dit netwerk kan verbeeld worden in verschillende lagen. Voor de organisatorische context van innovatietrajecten is het onderscheid in een strategische-, management- en uitvoerende laag behulpzaam.
 
 #### relaties
->De content van deze alinea wordt toegevoegd met het schrijven van hoofdstuk \@ref(how-to-plan). Neem contact met mij op voor de actuele informatie.
+```{r, relaties, out.width="60%", fig.cap='Eigenschappen relaties in multi-actornetwerk', echo=FALSE}
+img_dir <- "data/images/"
+img_path <- "presentatie-netwerk9.jpeg"
+img <- paste(img_dir, img_path, sep="", collapse=NULL)
+knitr::include_graphics(img)
+rm(img_dir, img_path, img)
+```
 
-<!--
-Een netwerkstructuur is te beschouwen als een verzameling actoren en factoren (nodes) die gedragingen en informatie uitwisselen door tijdelijke relaties (edges) aan te gaan. Een verzameling van actoren en factoren die door een relatie een afhankelijkheid hebben noemen we in dit boek een collectief. Zo'n collectief ontwikkelt eigen belangen, standpunten, gewenste resultaten en daarmee eigen gedrag. Dit gedrag zorgt voor een nieuwe dynamiek binnen het collectief en vanuit het collectief richting de omgeving. Geen relatie heeft een permanente status maar ze vertonen op abstract niveau langere tijd gelijkenis.
+Een netwerkstructuur of multi-actornetwerk is te beschouwen als een verzameling actoren en factoren (nodes) die gedragingen en informatie uitwisselen door tijdelijke relaties (edges) aan te gaan. In een organisatorische context hebben de relevante actoren en factoren onderlinge afhankelijkheden en relaties. Deze relaties kenmerken zich als sterk (intensief gebruik) of zwak (incidenteel gebruik) en als functioneel (de actor kan haar kerntaken niet uitvoeren zonder dit type relatie) of extra-functioneel (handig voor 'toevallige' informatie of te toekomst) [@bruijn2017management].
 
-De organisatorische context uit hoofdstuk \@ref(how-to-think) vormt de basis van het netwerk. In deze context zijn namelijk de relevante actoren en factoren aanwezig. Vanuit de netwerk benadering worden nu de onderlinge afhankelijkheden en relaties uitgewerkt indien aanwezig en relevant.
--->
+Een specifieke groep actoren die zich verbind op een doel (gemeenschappelijk resultaat) noemen we een collectief. Zo'n collectief ontwikkelt eigen belangen, standpunten, gewenste resultaten en daarmee eigen gedrag. Dit gedrag zorgt voor een nieuwe dynamiek binnen het collectief en vanuit het collectief richting de omgeving.
+
+Geen relatie heeft een permanente status maar ze vertonen op abstract niveau langere tijd gelijkenis. Zeker organisatorische actoren kennen fluïde of kortstondige relaties. Individuele professionals gaan vaak een meer stabiele relatie aan die verder reikt dan een specifiek resultaat of doel. De structuur die hieruit onstaat wordt het relatienetwerk genoemd.
 
 ## wicked problems
 In het ontwikkelen van een innovatievraagstuk beschouwen wij deze als een ongetemd probleem in een complexe context. Deze paragraaf \@ref(wicked-problems) geeft een korte inleiding en achtergrond bij dit soort problemen.
 
 **inleiding**
 
-Wanneer potentiele samenwerkende partners verschillende oorzaken of invalshoeken zien voor een probleem spreken we van een ongetemd probleem of 'wicked-problem'. Deze ongetemde problemen komen voor in alle lagen, sectoren en gebieden van organisaties en maatschappijen. Ongetemde problemen zijn niet zomaar opgelost en kennen geen afzonderlijke probleemeigenaar of centrale verantwoordelijke. Het 'vacuüm' van centrale verantwoordelijke wordt steeds vaker opgevuld door een alliantie van diverse organisaties. Deze allianties zijn van tijdelijke aard en hebben een horinzontale machtsrelatie. In de praktijk creëren deze allianties verrassende oplossingen voor ongetemde problemen.
+Wanneer potentiele samenwerkende partners verschillende oorzaken of invalshoeken zien voor een probleem spreken we van een ongetemd probleem of _wicked-problem_. Deze ongetemde problemen komen voor in alle lagen, sectoren en gebieden van organisaties en maatschappijen. Ongetemde problemen zijn niet zomaar opgelost en kennen geen afzonderlijke probleemeigenaar of centrale verantwoordelijke. Het 'vacuüm' van centrale verantwoordelijke wordt steeds vaker opgevuld door een alliantie van diverse organisaties. Deze allianties zijn van tijdelijke aard en hebben een horinzontale machtsrelatie. In de praktijk creëren deze allianties verrassende oplossingen voor ongetemde problemen.
 
 **aanpak ongetemde problemen**
 
