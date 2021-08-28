@@ -18,7 +18,6 @@ fig:verbinding
 fig:unnamed-chunk-11
 fig:unnamed-chunk-12
 intro
-benaming
 aanleiding
 missie
 beleid
